@@ -1,0 +1,2724 @@
+# First working day and last working day calendar
+Thanks to date-holidays library, ics are is auto-generated.
+The first day of the year and the last of the year are removed, 
+because special additional local rules may appear.
+
+## ics and json
+- Andorra @ Europe/Andorra
+  - first days [ics](AD_Europe_Andorra_first.ics) [json](AD_Europe_Andorra_first.json)
+  - last days [ics](AD_Europe_Andorra_last.ics) [json](AD_Europe_Andorra_last.json)
+- Andorra Andorra la Vella @ Europe/Andorra
+  - first days [ics](AD-07_Europe_Andorra_first.ics) [json](AD-07_Europe_Andorra_first.json)
+  - last days [ics](AD-07_Europe_Andorra_last.ics) [json](AD-07_Europe_Andorra_last.json)
+- دولة الإمارات العربية المتحدة @ Asia/Dubai
+  - first days [ics](AE_Asia_Dubai_first.ics) [json](AE_Asia_Dubai_first.json)
+  - last days [ics](AE_Asia_Dubai_last.ics) [json](AE_Asia_Dubai_last.json)
+- Antigua & Barbuda @ America/Port_of_Spain
+  - first days [ics](AG_America_Port_of_Spain_first.ics) [json](AG_America_Port_of_Spain_first.json)
+  - last days [ics](AG_America_Port_of_Spain_last.ics) [json](AG_America_Port_of_Spain_last.json)
+- Antigua & Barbuda Barbuda @ America/Port_of_Spain
+  - first days [ics](AG-10_America_Port_of_Spain_first.ics) [json](AG-10_America_Port_of_Spain_first.json)
+  - last days [ics](AG-10_America_Port_of_Spain_last.ics) [json](AG-10_America_Port_of_Spain_last.json)
+- Anguilla @ America/Port_of_Spain
+  - first days [ics](AI_America_Port_of_Spain_first.ics) [json](AI_America_Port_of_Spain_first.json)
+  - last days [ics](AI_America_Port_of_Spain_last.ics) [json](AI_America_Port_of_Spain_last.json)
+- Shqipëri @ Europe/Tirane
+  - first days [ics](AL_Europe_Tirane_first.ics) [json](AL_Europe_Tirane_first.json)
+  - last days [ics](AL_Europe_Tirane_last.ics) [json](AL_Europe_Tirane_last.json)
+- Հայաստան @ Asia/Yerevan
+  - first days [ics](AM_Asia_Yerevan_first.ics) [json](AM_Asia_Yerevan_first.json)
+  - last days [ics](AM_Asia_Yerevan_last.ics) [json](AM_Asia_Yerevan_last.json)
+- Angola @ Africa/Lagos
+  - first days [ics](AO_Africa_Lagos_first.ics) [json](AO_Africa_Lagos_first.json)
+  - last days [ics](AO_Africa_Lagos_last.ics) [json](AO_Africa_Lagos_last.json)
+- Argentina @ America/Argentina/Buenos_Aires
+  - first days [ics](AR_America_Argentina_Buenos_Aires_first.ics) [json](AR_America_Argentina_Buenos_Aires_first.json)
+  - last days [ics](AR_America_Argentina_Buenos_Aires_last.ics) [json](AR_America_Argentina_Buenos_Aires_last.json)
+- Argentina @ America/Argentina/Cordoba
+  - first days [ics](AR_America_Argentina_Cordoba_first.ics) [json](AR_America_Argentina_Cordoba_first.json)
+  - last days [ics](AR_America_Argentina_Cordoba_last.ics) [json](AR_America_Argentina_Cordoba_last.json)
+- Argentina @ America/Argentina/Salta
+  - first days [ics](AR_America_Argentina_Salta_first.ics) [json](AR_America_Argentina_Salta_first.json)
+  - last days [ics](AR_America_Argentina_Salta_last.ics) [json](AR_America_Argentina_Salta_last.json)
+- Argentina @ America/Argentina/Jujuy
+  - first days [ics](AR_America_Argentina_Jujuy_first.ics) [json](AR_America_Argentina_Jujuy_first.json)
+  - last days [ics](AR_America_Argentina_Jujuy_last.ics) [json](AR_America_Argentina_Jujuy_last.json)
+- Argentina @ America/Argentina/Tucuman
+  - first days [ics](AR_America_Argentina_Tucuman_first.ics) [json](AR_America_Argentina_Tucuman_first.json)
+  - last days [ics](AR_America_Argentina_Tucuman_last.ics) [json](AR_America_Argentina_Tucuman_last.json)
+- Argentina @ America/Argentina/Catamarca
+  - first days [ics](AR_America_Argentina_Catamarca_first.ics) [json](AR_America_Argentina_Catamarca_first.json)
+  - last days [ics](AR_America_Argentina_Catamarca_last.ics) [json](AR_America_Argentina_Catamarca_last.json)
+- Argentina @ America/Argentina/La_Rioja
+  - first days [ics](AR_America_Argentina_La_Rioja_first.ics) [json](AR_America_Argentina_La_Rioja_first.json)
+  - last days [ics](AR_America_Argentina_La_Rioja_last.ics) [json](AR_America_Argentina_La_Rioja_last.json)
+- Argentina @ America/Argentina/San_Juan
+  - first days [ics](AR_America_Argentina_San_Juan_first.ics) [json](AR_America_Argentina_San_Juan_first.json)
+  - last days [ics](AR_America_Argentina_San_Juan_last.ics) [json](AR_America_Argentina_San_Juan_last.json)
+- Argentina @ America/Argentina/Mendoza
+  - first days [ics](AR_America_Argentina_Mendoza_first.ics) [json](AR_America_Argentina_Mendoza_first.json)
+  - last days [ics](AR_America_Argentina_Mendoza_last.ics) [json](AR_America_Argentina_Mendoza_last.json)
+- Argentina @ America/Argentina/San_Luis
+  - first days [ics](AR_America_Argentina_San_Luis_first.ics) [json](AR_America_Argentina_San_Luis_first.json)
+  - last days [ics](AR_America_Argentina_San_Luis_last.ics) [json](AR_America_Argentina_San_Luis_last.json)
+- Argentina @ America/Argentina/Rio_Gallegos
+  - first days [ics](AR_America_Argentina_Rio_Gallegos_first.ics) [json](AR_America_Argentina_Rio_Gallegos_first.json)
+  - last days [ics](AR_America_Argentina_Rio_Gallegos_last.ics) [json](AR_America_Argentina_Rio_Gallegos_last.json)
+- Argentina @ America/Argentina/Ushuaia
+  - first days [ics](AR_America_Argentina_Ushuaia_first.ics) [json](AR_America_Argentina_Ushuaia_first.json)
+  - last days [ics](AR_America_Argentina_Ushuaia_last.ics) [json](AR_America_Argentina_Ushuaia_last.json)
+- American Samoa @ Pacific/Pago_Pago
+  - first days [ics](AS_Pacific_Pago_Pago_first.ics) [json](AS_Pacific_Pago_Pago_first.json)
+  - last days [ics](AS_Pacific_Pago_Pago_last.ics) [json](AS_Pacific_Pago_Pago_last.json)
+- Österreich @ Europe/Vienna
+  - first days [ics](AT_Europe_Vienna_first.ics) [json](AT_Europe_Vienna_first.json)
+  - last days [ics](AT_Europe_Vienna_last.ics) [json](AT_Europe_Vienna_last.json)
+- Österreich Burgenland @ Europe/Vienna
+  - first days [ics](AT-1_Europe_Vienna_first.ics) [json](AT-1_Europe_Vienna_first.json)
+  - last days [ics](AT-1_Europe_Vienna_last.ics) [json](AT-1_Europe_Vienna_last.json)
+- Österreich Kärnten @ Europe/Vienna
+  - first days [ics](AT-2_Europe_Vienna_first.ics) [json](AT-2_Europe_Vienna_first.json)
+  - last days [ics](AT-2_Europe_Vienna_last.ics) [json](AT-2_Europe_Vienna_last.json)
+- Österreich Niederösterreich @ Europe/Vienna
+  - first days [ics](AT-3_Europe_Vienna_first.ics) [json](AT-3_Europe_Vienna_first.json)
+  - last days [ics](AT-3_Europe_Vienna_last.ics) [json](AT-3_Europe_Vienna_last.json)
+- Österreich Oberösterreich @ Europe/Vienna
+  - first days [ics](AT-4_Europe_Vienna_first.ics) [json](AT-4_Europe_Vienna_first.json)
+  - last days [ics](AT-4_Europe_Vienna_last.ics) [json](AT-4_Europe_Vienna_last.json)
+- Österreich Land Salzburg @ Europe/Vienna
+  - first days [ics](AT-5_Europe_Vienna_first.ics) [json](AT-5_Europe_Vienna_first.json)
+  - last days [ics](AT-5_Europe_Vienna_last.ics) [json](AT-5_Europe_Vienna_last.json)
+- Österreich Steiermark @ Europe/Vienna
+  - first days [ics](AT-6_Europe_Vienna_first.ics) [json](AT-6_Europe_Vienna_first.json)
+  - last days [ics](AT-6_Europe_Vienna_last.ics) [json](AT-6_Europe_Vienna_last.json)
+- Österreich Tirol @ Europe/Vienna
+  - first days [ics](AT-7_Europe_Vienna_first.ics) [json](AT-7_Europe_Vienna_first.json)
+  - last days [ics](AT-7_Europe_Vienna_last.ics) [json](AT-7_Europe_Vienna_last.json)
+- Österreich Vorarlberg @ Europe/Vienna
+  - first days [ics](AT-8_Europe_Vienna_first.ics) [json](AT-8_Europe_Vienna_first.json)
+  - last days [ics](AT-8_Europe_Vienna_last.ics) [json](AT-8_Europe_Vienna_last.json)
+- Österreich Wien @ Europe/Vienna
+  - first days [ics](AT-9_Europe_Vienna_first.ics) [json](AT-9_Europe_Vienna_first.json)
+  - last days [ics](AT-9_Europe_Vienna_last.ics) [json](AT-9_Europe_Vienna_last.json)
+- Australia @ Australia/Sydney
+  - first days [ics](AU_Australia_Sydney_first.ics) [json](AU_Australia_Sydney_first.json)
+  - last days [ics](AU_Australia_Sydney_last.ics) [json](AU_Australia_Sydney_last.json)
+- Australia @ Australia/Lord_Howe
+  - first days [ics](AU_Australia_Lord_Howe_first.ics) [json](AU_Australia_Lord_Howe_first.json)
+  - last days [ics](AU_Australia_Lord_Howe_last.ics) [json](AU_Australia_Lord_Howe_last.json)
+- Australia @ Antarctica/Macquarie
+  - first days [ics](AU_Antarctica_Macquarie_first.ics) [json](AU_Antarctica_Macquarie_first.json)
+  - last days [ics](AU_Antarctica_Macquarie_last.ics) [json](AU_Antarctica_Macquarie_last.json)
+- Australia @ Australia/Hobart
+  - first days [ics](AU_Australia_Hobart_first.ics) [json](AU_Australia_Hobart_first.json)
+  - last days [ics](AU_Australia_Hobart_last.ics) [json](AU_Australia_Hobart_last.json)
+- Australia @ Australia/Currie
+  - first days [ics](AU_Australia_Currie_first.ics) [json](AU_Australia_Currie_first.json)
+  - last days [ics](AU_Australia_Currie_last.ics) [json](AU_Australia_Currie_last.json)
+- Australia @ Australia/Melbourne
+  - first days [ics](AU_Australia_Melbourne_first.ics) [json](AU_Australia_Melbourne_first.json)
+  - last days [ics](AU_Australia_Melbourne_last.ics) [json](AU_Australia_Melbourne_last.json)
+- Australia @ Australia/Broken_Hill
+  - first days [ics](AU_Australia_Broken_Hill_first.ics) [json](AU_Australia_Broken_Hill_first.json)
+  - last days [ics](AU_Australia_Broken_Hill_last.ics) [json](AU_Australia_Broken_Hill_last.json)
+- Australia @ Australia/Brisbane
+  - first days [ics](AU_Australia_Brisbane_first.ics) [json](AU_Australia_Brisbane_first.json)
+  - last days [ics](AU_Australia_Brisbane_last.ics) [json](AU_Australia_Brisbane_last.json)
+- Australia @ Australia/Lindeman
+  - first days [ics](AU_Australia_Lindeman_first.ics) [json](AU_Australia_Lindeman_first.json)
+  - last days [ics](AU_Australia_Lindeman_last.ics) [json](AU_Australia_Lindeman_last.json)
+- Australia @ Australia/Adelaide
+  - first days [ics](AU_Australia_Adelaide_first.ics) [json](AU_Australia_Adelaide_first.json)
+  - last days [ics](AU_Australia_Adelaide_last.ics) [json](AU_Australia_Adelaide_last.json)
+- Australia @ Australia/Darwin
+  - first days [ics](AU_Australia_Darwin_first.ics) [json](AU_Australia_Darwin_first.json)
+  - last days [ics](AU_Australia_Darwin_last.ics) [json](AU_Australia_Darwin_last.json)
+- Australia @ Australia/Perth
+  - first days [ics](AU_Australia_Perth_first.ics) [json](AU_Australia_Perth_first.json)
+  - last days [ics](AU_Australia_Perth_last.ics) [json](AU_Australia_Perth_last.json)
+- Australia @ Australia/Eucla
+  - first days [ics](AU_Australia_Eucla_first.ics) [json](AU_Australia_Eucla_first.json)
+  - last days [ics](AU_Australia_Eucla_last.ics) [json](AU_Australia_Eucla_last.json)
+- Australia Australian Capital Territory @ Australia/Sydney
+  - first days [ics](AU-ACT_Australia_Sydney_first.ics) [json](AU-ACT_Australia_Sydney_first.json)
+  - last days [ics](AU-ACT_Australia_Sydney_last.ics) [json](AU-ACT_Australia_Sydney_last.json)
+- Australia New South Wales @ Australia/Sydney
+  - first days [ics](AU-NSW_Australia_Sydney_first.ics) [json](AU-NSW_Australia_Sydney_first.json)
+  - last days [ics](AU-NSW_Australia_Sydney_last.ics) [json](AU-NSW_Australia_Sydney_last.json)
+- Australia Northern Territory @ Australia/Darwin
+  - first days [ics](AU-NT_Australia_Darwin_first.ics) [json](AU-NT_Australia_Darwin_first.json)
+  - last days [ics](AU-NT_Australia_Darwin_last.ics) [json](AU-NT_Australia_Darwin_last.json)
+- Australia Queensland @ Australia/Brisbane
+  - first days [ics](AU-QLD_Australia_Brisbane_first.ics) [json](AU-QLD_Australia_Brisbane_first.json)
+  - last days [ics](AU-QLD_Australia_Brisbane_last.ics) [json](AU-QLD_Australia_Brisbane_last.json)
+- Australia Queensland @ Australia/Lindeman
+  - first days [ics](AU-QLD_Australia_Lindeman_first.ics) [json](AU-QLD_Australia_Lindeman_first.json)
+  - last days [ics](AU-QLD_Australia_Lindeman_last.ics) [json](AU-QLD_Australia_Lindeman_last.json)
+- Australia South Australia @ Australia/Adelaide
+  - first days [ics](AU-SA_Australia_Adelaide_first.ics) [json](AU-SA_Australia_Adelaide_first.json)
+  - last days [ics](AU-SA_Australia_Adelaide_last.ics) [json](AU-SA_Australia_Adelaide_last.json)
+- Australia Tasmania @ Australia/Hobart
+  - first days [ics](AU-TAS_Australia_Hobart_first.ics) [json](AU-TAS_Australia_Hobart_first.json)
+  - last days [ics](AU-TAS_Australia_Hobart_last.ics) [json](AU-TAS_Australia_Hobart_last.json)
+- Australia Victoria @ Australia/Melbourne
+  - first days [ics](AU-VIC_Australia_Melbourne_first.ics) [json](AU-VIC_Australia_Melbourne_first.json)
+  - last days [ics](AU-VIC_Australia_Melbourne_last.ics) [json](AU-VIC_Australia_Melbourne_last.json)
+- Australia Western Australia @ Australia/Perth
+  - first days [ics](AU-WA_Australia_Perth_first.ics) [json](AU-WA_Australia_Perth_first.json)
+  - last days [ics](AU-WA_Australia_Perth_last.ics) [json](AU-WA_Australia_Perth_last.json)
+- Australia Western Australia @ Australia/Eucla
+  - first days [ics](AU-WA_Australia_Eucla_first.ics) [json](AU-WA_Australia_Eucla_first.json)
+  - last days [ics](AU-WA_Australia_Eucla_last.ics) [json](AU-WA_Australia_Eucla_last.json)
+- Aruba @ America/Curacao
+  - first days [ics](AW_America_Curacao_first.ics) [json](AW_America_Curacao_first.json)
+  - last days [ics](AW_America_Curacao_last.ics) [json](AW_America_Curacao_last.json)
+- Landskapet Åland @ Europe/Helsinki
+  - first days [ics](AX_Europe_Helsinki_first.ics) [json](AX_Europe_Helsinki_first.json)
+  - last days [ics](AX_Europe_Helsinki_last.ics) [json](AX_Europe_Helsinki_last.json)
+- Azərbaycan Respublikası @ Asia/Baku
+  - first days [ics](AZ_Asia_Baku_first.ics) [json](AZ_Asia_Baku_first.json)
+  - last days [ics](AZ_Asia_Baku_last.ics) [json](AZ_Asia_Baku_last.json)
+- Bosna i Hercegovina @ Europe/Belgrade
+  - first days [ics](BA_Europe_Belgrade_first.ics) [json](BA_Europe_Belgrade_first.json)
+  - last days [ics](BA_Europe_Belgrade_last.ics) [json](BA_Europe_Belgrade_last.json)
+- Bosna i Hercegovina Federation of Bosnia and Herzegovina @ Europe/Belgrade
+  - first days [ics](BA-BIH_Europe_Belgrade_first.ics) [json](BA-BIH_Europe_Belgrade_first.json)
+  - last days [ics](BA-BIH_Europe_Belgrade_last.ics) [json](BA-BIH_Europe_Belgrade_last.json)
+- Bosna i Hercegovina Federation of Bosnia and Herzegovina Western Herzegovina @ Europe/Belgrade
+  - first days [ics](BA-BIH-W_Europe_Belgrade_first.ics) [json](BA-BIH-W_Europe_Belgrade_first.json)
+  - last days [ics](BA-BIH-W_Europe_Belgrade_last.ics) [json](BA-BIH-W_Europe_Belgrade_last.json)
+- Bosna i Hercegovina Brčko District @ Europe/Belgrade
+  - first days [ics](BA-BRC_Europe_Belgrade_first.ics) [json](BA-BRC_Europe_Belgrade_first.json)
+  - last days [ics](BA-BRC_Europe_Belgrade_last.ics) [json](BA-BRC_Europe_Belgrade_last.json)
+- Bosna i Hercegovina Republika Srpska @ Europe/Belgrade
+  - first days [ics](BA-SRP_Europe_Belgrade_first.ics) [json](BA-SRP_Europe_Belgrade_first.json)
+  - last days [ics](BA-SRP_Europe_Belgrade_last.ics) [json](BA-SRP_Europe_Belgrade_last.json)
+- Barbados @ America/Barbados
+  - first days [ics](BB_America_Barbados_first.ics) [json](BB_America_Barbados_first.json)
+  - last days [ics](BB_America_Barbados_last.ics) [json](BB_America_Barbados_last.json)
+- গণপ্রজাতন্ত্রী বাংলাদেশ @ Asia/Dhaka
+  - first days [ics](BD_Asia_Dhaka_first.ics) [json](BD_Asia_Dhaka_first.json)
+  - last days [ics](BD_Asia_Dhaka_last.ics) [json](BD_Asia_Dhaka_last.json)
+- Belgique @ Europe/Brussels
+  - first days [ics](BE_Europe_Brussels_first.ics) [json](BE_Europe_Brussels_first.json)
+  - last days [ics](BE_Europe_Brussels_last.ics) [json](BE_Europe_Brussels_last.json)
+- Belgique Bruxelles @ Europe/Brussels
+  - first days [ics](BE-BRU_Europe_Brussels_first.ics) [json](BE-BRU_Europe_Brussels_first.json)
+  - last days [ics](BE-BRU_Europe_Brussels_last.ics) [json](BE-BRU_Europe_Brussels_last.json)
+- Belgique Deutschsprachige Gemeinschaft @ Europe/Brussels
+  - first days [ics](BE-DE_Europe_Brussels_first.ics) [json](BE-DE_Europe_Brussels_first.json)
+  - last days [ics](BE-DE_Europe_Brussels_last.ics) [json](BE-DE_Europe_Brussels_last.json)
+- Belgique Vlaamse Gemeenschap @ Europe/Brussels
+  - first days [ics](BE-VLG_Europe_Brussels_first.ics) [json](BE-VLG_Europe_Brussels_first.json)
+  - last days [ics](BE-VLG_Europe_Brussels_last.ics) [json](BE-VLG_Europe_Brussels_last.json)
+- Belgique Communauté française @ Europe/Brussels
+  - first days [ics](BE-WAL_Europe_Brussels_first.ics) [json](BE-WAL_Europe_Brussels_first.json)
+  - last days [ics](BE-WAL_Europe_Brussels_last.ics) [json](BE-WAL_Europe_Brussels_last.json)
+- Burkina Faso @ Africa/Abidjan
+  - first days [ics](BF_Africa_Abidjan_first.ics) [json](BF_Africa_Abidjan_first.json)
+  - last days [ics](BF_Africa_Abidjan_last.ics) [json](BF_Africa_Abidjan_last.json)
+- България @ Europe/Sofia
+  - first days [ics](BG_Europe_Sofia_first.ics) [json](BG_Europe_Sofia_first.json)
+  - last days [ics](BG_Europe_Sofia_last.ics) [json](BG_Europe_Sofia_last.json)
+- مملكة البحرين @ Asia/Qatar
+  - first days [ics](BH_Asia_Qatar_first.ics) [json](BH_Asia_Qatar_first.json)
+  - last days [ics](BH_Asia_Qatar_last.ics) [json](BH_Asia_Qatar_last.json)
+- République du Burundi @ Africa/Maputo
+  - first days [ics](BI_Africa_Maputo_first.ics) [json](BI_Africa_Maputo_first.json)
+  - last days [ics](BI_Africa_Maputo_last.ics) [json](BI_Africa_Maputo_last.json)
+- République du Bénin @ Africa/Lagos
+  - first days [ics](BJ_Africa_Lagos_first.ics) [json](BJ_Africa_Lagos_first.json)
+  - last days [ics](BJ_Africa_Lagos_last.ics) [json](BJ_Africa_Lagos_last.json)
+- St. Barthélemy @ America/St_Barthelemy
+  - first days [ics](BL_America_St_Barthelemy_first.ics) [json](BL_America_St_Barthelemy_first.json)
+  - last days [ics](BL_America_St_Barthelemy_last.ics) [json](BL_America_St_Barthelemy_last.json)
+- Bermuda @ Atlantic/Bermuda
+  - first days [ics](BM_Atlantic_Bermuda_first.ics) [json](BM_Atlantic_Bermuda_first.json)
+  - last days [ics](BM_Atlantic_Bermuda_last.ics) [json](BM_Atlantic_Bermuda_last.json)
+- Negara Brunei Darussalam @ Asia/Brunei
+  - first days [ics](BN_Asia_Brunei_first.ics) [json](BN_Asia_Brunei_first.json)
+  - last days [ics](BN_Asia_Brunei_last.ics) [json](BN_Asia_Brunei_last.json)
+- Bolivia @ America/La_Paz
+  - first days [ics](BO_America_La_Paz_first.ics) [json](BO_America_La_Paz_first.json)
+  - last days [ics](BO_America_La_Paz_last.ics) [json](BO_America_La_Paz_last.json)
+- Caribisch Nederland @ America/Curacao
+  - first days [ics](BQ_America_Curacao_first.ics) [json](BQ_America_Curacao_first.json)
+  - last days [ics](BQ_America_Curacao_last.ics) [json](BQ_America_Curacao_last.json)
+- Caribisch Nederland Bonaire @ America/Curacao
+  - first days [ics](BQ-BO_America_Curacao_first.ics) [json](BQ-BO_America_Curacao_first.json)
+  - last days [ics](BQ-BO_America_Curacao_last.ics) [json](BQ-BO_America_Curacao_last.json)
+- Caribisch Nederland Saba @ America/Curacao
+  - first days [ics](BQ-SA_America_Curacao_first.ics) [json](BQ-SA_America_Curacao_first.json)
+  - last days [ics](BQ-SA_America_Curacao_last.ics) [json](BQ-SA_America_Curacao_last.json)
+- Caribisch Nederland Sint Eustatius @ America/Curacao
+  - first days [ics](BQ-SE_America_Curacao_first.ics) [json](BQ-SE_America_Curacao_first.json)
+  - last days [ics](BQ-SE_America_Curacao_last.ics) [json](BQ-SE_America_Curacao_last.json)
+- Brasil @ America/Sao_Paulo
+  - first days [ics](BR_America_Sao_Paulo_first.ics) [json](BR_America_Sao_Paulo_first.json)
+  - last days [ics](BR_America_Sao_Paulo_last.ics) [json](BR_America_Sao_Paulo_last.json)
+- Brasil @ America/Noronha
+  - first days [ics](BR_America_Noronha_first.ics) [json](BR_America_Noronha_first.json)
+  - last days [ics](BR_America_Noronha_last.ics) [json](BR_America_Noronha_last.json)
+- Brasil @ America/Belem
+  - first days [ics](BR_America_Belem_first.ics) [json](BR_America_Belem_first.json)
+  - last days [ics](BR_America_Belem_last.ics) [json](BR_America_Belem_last.json)
+- Brasil @ America/Fortaleza
+  - first days [ics](BR_America_Fortaleza_first.ics) [json](BR_America_Fortaleza_first.json)
+  - last days [ics](BR_America_Fortaleza_last.ics) [json](BR_America_Fortaleza_last.json)
+- Brasil @ America/Recife
+  - first days [ics](BR_America_Recife_first.ics) [json](BR_America_Recife_first.json)
+  - last days [ics](BR_America_Recife_last.ics) [json](BR_America_Recife_last.json)
+- Brasil @ America/Araguaina
+  - first days [ics](BR_America_Araguaina_first.ics) [json](BR_America_Araguaina_first.json)
+  - last days [ics](BR_America_Araguaina_last.ics) [json](BR_America_Araguaina_last.json)
+- Brasil @ America/Maceio
+  - first days [ics](BR_America_Maceio_first.ics) [json](BR_America_Maceio_first.json)
+  - last days [ics](BR_America_Maceio_last.ics) [json](BR_America_Maceio_last.json)
+- Brasil @ America/Bahia
+  - first days [ics](BR_America_Bahia_first.ics) [json](BR_America_Bahia_first.json)
+  - last days [ics](BR_America_Bahia_last.ics) [json](BR_America_Bahia_last.json)
+- Brasil @ America/Campo_Grande
+  - first days [ics](BR_America_Campo_Grande_first.ics) [json](BR_America_Campo_Grande_first.json)
+  - last days [ics](BR_America_Campo_Grande_last.ics) [json](BR_America_Campo_Grande_last.json)
+- Brasil @ America/Cuiaba
+  - first days [ics](BR_America_Cuiaba_first.ics) [json](BR_America_Cuiaba_first.json)
+  - last days [ics](BR_America_Cuiaba_last.ics) [json](BR_America_Cuiaba_last.json)
+- Brasil @ America/Santarem
+  - first days [ics](BR_America_Santarem_first.ics) [json](BR_America_Santarem_first.json)
+  - last days [ics](BR_America_Santarem_last.ics) [json](BR_America_Santarem_last.json)
+- Brasil @ America/Porto_Velho
+  - first days [ics](BR_America_Porto_Velho_first.ics) [json](BR_America_Porto_Velho_first.json)
+  - last days [ics](BR_America_Porto_Velho_last.ics) [json](BR_America_Porto_Velho_last.json)
+- Brasil @ America/Boa_Vista
+  - first days [ics](BR_America_Boa_Vista_first.ics) [json](BR_America_Boa_Vista_first.json)
+  - last days [ics](BR_America_Boa_Vista_last.ics) [json](BR_America_Boa_Vista_last.json)
+- Brasil @ America/Manaus
+  - first days [ics](BR_America_Manaus_first.ics) [json](BR_America_Manaus_first.json)
+  - last days [ics](BR_America_Manaus_last.ics) [json](BR_America_Manaus_last.json)
+- Brasil @ America/Eirunepe
+  - first days [ics](BR_America_Eirunepe_first.ics) [json](BR_America_Eirunepe_first.json)
+  - last days [ics](BR_America_Eirunepe_last.ics) [json](BR_America_Eirunepe_last.json)
+- Brasil @ America/Rio_Branco
+  - first days [ics](BR_America_Rio_Branco_first.ics) [json](BR_America_Rio_Branco_first.json)
+  - last days [ics](BR_America_Rio_Branco_last.ics) [json](BR_America_Rio_Branco_last.json)
+- Brasil Acre @ America/Rio_Branco
+  - first days [ics](BR-AC_America_Rio_Branco_first.ics) [json](BR-AC_America_Rio_Branco_first.json)
+  - last days [ics](BR-AC_America_Rio_Branco_last.ics) [json](BR-AC_America_Rio_Branco_last.json)
+- Brasil Alagoas @ America/Maceio
+  - first days [ics](BR-AL_America_Maceio_first.ics) [json](BR-AL_America_Maceio_first.json)
+  - last days [ics](BR-AL_America_Maceio_last.ics) [json](BR-AL_America_Maceio_last.json)
+- Brasil Amazonas @ America/Manaus
+  - first days [ics](BR-AM_America_Manaus_first.ics) [json](BR-AM_America_Manaus_first.json)
+  - last days [ics](BR-AM_America_Manaus_last.ics) [json](BR-AM_America_Manaus_last.json)
+- Brasil Amapá @ America/Belem
+  - first days [ics](BR-AP_America_Belem_first.ics) [json](BR-AP_America_Belem_first.json)
+  - last days [ics](BR-AP_America_Belem_last.ics) [json](BR-AP_America_Belem_last.json)
+- Brasil Bahia @ America/Bahia
+  - first days [ics](BR-BA_America_Bahia_first.ics) [json](BR-BA_America_Bahia_first.json)
+  - last days [ics](BR-BA_America_Bahia_last.ics) [json](BR-BA_America_Bahia_last.json)
+- Brasil Ceará @ America/Fortaleza
+  - first days [ics](BR-CE_America_Fortaleza_first.ics) [json](BR-CE_America_Fortaleza_first.json)
+  - last days [ics](BR-CE_America_Fortaleza_last.ics) [json](BR-CE_America_Fortaleza_last.json)
+- Brasil Distrito Federal @ America/Sao_Paulo
+  - first days [ics](BR-DF_America_Sao_Paulo_first.ics) [json](BR-DF_America_Sao_Paulo_first.json)
+  - last days [ics](BR-DF_America_Sao_Paulo_last.ics) [json](BR-DF_America_Sao_Paulo_last.json)
+- Brasil Maranhão @ America/Belem
+  - first days [ics](BR-MA_America_Belem_first.ics) [json](BR-MA_America_Belem_first.json)
+  - last days [ics](BR-MA_America_Belem_last.ics) [json](BR-MA_America_Belem_last.json)
+- Brasil Minas Gerais @ America/Sao_Paulo
+  - first days [ics](BR-MG_America_Sao_Paulo_first.ics) [json](BR-MG_America_Sao_Paulo_first.json)
+  - last days [ics](BR-MG_America_Sao_Paulo_last.ics) [json](BR-MG_America_Sao_Paulo_last.json)
+- Brasil Minas Gerais Belo Horizonte @ America/Sao_Paulo
+  - first days [ics](BR-MG-BH_America_Sao_Paulo_first.ics) [json](BR-MG-BH_America_Sao_Paulo_first.json)
+  - last days [ics](BR-MG-BH_America_Sao_Paulo_last.ics) [json](BR-MG-BH_America_Sao_Paulo_last.json)
+- Brasil Mato Grosso do Sul @ America/Campo_Grande
+  - first days [ics](BR-MS_America_Campo_Grande_first.ics) [json](BR-MS_America_Campo_Grande_first.json)
+  - last days [ics](BR-MS_America_Campo_Grande_last.ics) [json](BR-MS_America_Campo_Grande_last.json)
+- Brasil Mato Grosso @ America/Cuiaba
+  - first days [ics](BR-MT_America_Cuiaba_first.ics) [json](BR-MT_America_Cuiaba_first.json)
+  - last days [ics](BR-MT_America_Cuiaba_last.ics) [json](BR-MT_America_Cuiaba_last.json)
+- Brasil Pará @ America/Santarem
+  - first days [ics](BR-PA_America_Santarem_first.ics) [json](BR-PA_America_Santarem_first.json)
+  - last days [ics](BR-PA_America_Santarem_last.ics) [json](BR-PA_America_Santarem_last.json)
+- Brasil Paraíba @ America/Recife
+  - first days [ics](BR-PB_America_Recife_first.ics) [json](BR-PB_America_Recife_first.json)
+  - last days [ics](BR-PB_America_Recife_last.ics) [json](BR-PB_America_Recife_last.json)
+- Brasil Pernambuco @ America/Recife
+  - first days [ics](BR-PE_America_Recife_first.ics) [json](BR-PE_America_Recife_first.json)
+  - last days [ics](BR-PE_America_Recife_last.ics) [json](BR-PE_America_Recife_last.json)
+- Brasil Pernambuco Recife @ America/Recife
+  - first days [ics](BR-PE-RE_America_Recife_first.ics) [json](BR-PE-RE_America_Recife_first.json)
+  - last days [ics](BR-PE-RE_America_Recife_last.ics) [json](BR-PE-RE_America_Recife_last.json)
+- Brasil Piauí @ America/Fortaleza
+  - first days [ics](BR-PI_America_Fortaleza_first.ics) [json](BR-PI_America_Fortaleza_first.json)
+  - last days [ics](BR-PI_America_Fortaleza_last.ics) [json](BR-PI_America_Fortaleza_last.json)
+- Brasil Paraná @ America/Sao_Paulo
+  - first days [ics](BR-PR_America_Sao_Paulo_first.ics) [json](BR-PR_America_Sao_Paulo_first.json)
+  - last days [ics](BR-PR_America_Sao_Paulo_last.ics) [json](BR-PR_America_Sao_Paulo_last.json)
+- Brasil Paraná Curitiba @ America/Sao_Paulo
+  - first days [ics](BR-PR-CU_America_Sao_Paulo_first.ics) [json](BR-PR-CU_America_Sao_Paulo_first.json)
+  - last days [ics](BR-PR-CU_America_Sao_Paulo_last.ics) [json](BR-PR-CU_America_Sao_Paulo_last.json)
+- Brasil Rio de Janeiro @ America/Sao_Paulo
+  - first days [ics](BR-RJ_America_Sao_Paulo_first.ics) [json](BR-RJ_America_Sao_Paulo_first.json)
+  - last days [ics](BR-RJ_America_Sao_Paulo_last.ics) [json](BR-RJ_America_Sao_Paulo_last.json)
+- Brasil Rio de Janeiro Rio de Janeiro @ America/Sao_Paulo
+  - first days [ics](BR-RJ-RJ_America_Sao_Paulo_first.ics) [json](BR-RJ-RJ_America_Sao_Paulo_first.json)
+  - last days [ics](BR-RJ-RJ_America_Sao_Paulo_last.ics) [json](BR-RJ-RJ_America_Sao_Paulo_last.json)
+- Brasil Rio Grande do Norte @ America/Recife
+  - first days [ics](BR-RN_America_Recife_first.ics) [json](BR-RN_America_Recife_first.json)
+  - last days [ics](BR-RN_America_Recife_last.ics) [json](BR-RN_America_Recife_last.json)
+- Brasil Rondônia @ America/Porto_Velho
+  - first days [ics](BR-RO_America_Porto_Velho_first.ics) [json](BR-RO_America_Porto_Velho_first.json)
+  - last days [ics](BR-RO_America_Porto_Velho_last.ics) [json](BR-RO_America_Porto_Velho_last.json)
+- Brasil Roraima @ America/Boa_Vista
+  - first days [ics](BR-RR_America_Boa_Vista_first.ics) [json](BR-RR_America_Boa_Vista_first.json)
+  - last days [ics](BR-RR_America_Boa_Vista_last.ics) [json](BR-RR_America_Boa_Vista_last.json)
+- Brasil Rio Grande do Sul @ America/Sao_Paulo
+  - first days [ics](BR-RS_America_Sao_Paulo_first.ics) [json](BR-RS_America_Sao_Paulo_first.json)
+  - last days [ics](BR-RS_America_Sao_Paulo_last.ics) [json](BR-RS_America_Sao_Paulo_last.json)
+- Brasil Santa Catarina @ America/Sao_Paulo
+  - first days [ics](BR-SC_America_Sao_Paulo_first.ics) [json](BR-SC_America_Sao_Paulo_first.json)
+  - last days [ics](BR-SC_America_Sao_Paulo_last.ics) [json](BR-SC_America_Sao_Paulo_last.json)
+- Brasil Sergipe @ America/Recife
+  - first days [ics](BR-SE_America_Recife_first.ics) [json](BR-SE_America_Recife_first.json)
+  - last days [ics](BR-SE_America_Recife_last.ics) [json](BR-SE_America_Recife_last.json)
+- Brasil São Paulo @ America/Sao_Paulo
+  - first days [ics](BR-SP_America_Sao_Paulo_first.ics) [json](BR-SP_America_Sao_Paulo_first.json)
+  - last days [ics](BR-SP_America_Sao_Paulo_last.ics) [json](BR-SP_America_Sao_Paulo_last.json)
+- Brasil São Paulo São Paulo @ America/Sao_Paulo
+  - first days [ics](BR-SP-SP_America_Sao_Paulo_first.ics) [json](BR-SP-SP_America_Sao_Paulo_first.json)
+  - last days [ics](BR-SP-SP_America_Sao_Paulo_last.ics) [json](BR-SP-SP_America_Sao_Paulo_last.json)
+- Brasil Tocantins @ America/Araguaina
+  - first days [ics](BR-TO_America_Araguaina_first.ics) [json](BR-TO_America_Araguaina_first.json)
+  - last days [ics](BR-TO_America_Araguaina_last.ics) [json](BR-TO_America_Araguaina_last.json)
+- Bahamas @ America/Nassau
+  - first days [ics](BS_America_Nassau_first.ics) [json](BS_America_Nassau_first.json)
+  - last days [ics](BS_America_Nassau_last.ics) [json](BS_America_Nassau_last.json)
+- Botswana @ Africa/Maputo
+  - first days [ics](BW_Africa_Maputo_first.ics) [json](BW_Africa_Maputo_first.json)
+  - last days [ics](BW_Africa_Maputo_last.ics) [json](BW_Africa_Maputo_last.json)
+- Рэспубліка Беларусь @ Europe/Minsk
+  - first days [ics](BY_Europe_Minsk_first.ics) [json](BY_Europe_Minsk_first.json)
+  - last days [ics](BY_Europe_Minsk_last.ics) [json](BY_Europe_Minsk_last.json)
+- Belize @ America/Belize
+  - first days [ics](BZ_America_Belize_first.ics) [json](BZ_America_Belize_first.json)
+  - last days [ics](BZ_America_Belize_last.ics) [json](BZ_America_Belize_last.json)
+- Canada @ America/Toronto
+  - first days [ics](CA_America_Toronto_first.ics) [json](CA_America_Toronto_first.json)
+  - last days [ics](CA_America_Toronto_last.ics) [json](CA_America_Toronto_last.json)
+- Canada @ America/St_Johns
+  - first days [ics](CA_America_St_Johns_first.ics) [json](CA_America_St_Johns_first.json)
+  - last days [ics](CA_America_St_Johns_last.ics) [json](CA_America_St_Johns_last.json)
+- Canada @ America/Halifax
+  - first days [ics](CA_America_Halifax_first.ics) [json](CA_America_Halifax_first.json)
+  - last days [ics](CA_America_Halifax_last.ics) [json](CA_America_Halifax_last.json)
+- Canada @ America/Glace_Bay
+  - first days [ics](CA_America_Glace_Bay_first.ics) [json](CA_America_Glace_Bay_first.json)
+  - last days [ics](CA_America_Glace_Bay_last.ics) [json](CA_America_Glace_Bay_last.json)
+- Canada @ America/Moncton
+  - first days [ics](CA_America_Moncton_first.ics) [json](CA_America_Moncton_first.json)
+  - last days [ics](CA_America_Moncton_last.ics) [json](CA_America_Moncton_last.json)
+- Canada @ America/Goose_Bay
+  - first days [ics](CA_America_Goose_Bay_first.ics) [json](CA_America_Goose_Bay_first.json)
+  - last days [ics](CA_America_Goose_Bay_last.ics) [json](CA_America_Goose_Bay_last.json)
+- Canada @ America/Blanc-Sablon
+  - first days [ics](CA_America_Blanc-Sablon_first.ics) [json](CA_America_Blanc-Sablon_first.json)
+  - last days [ics](CA_America_Blanc-Sablon_last.ics) [json](CA_America_Blanc-Sablon_last.json)
+- Canada @ America/Nipigon
+  - first days [ics](CA_America_Nipigon_first.ics) [json](CA_America_Nipigon_first.json)
+  - last days [ics](CA_America_Nipigon_last.ics) [json](CA_America_Nipigon_last.json)
+- Canada @ America/Thunder_Bay
+  - first days [ics](CA_America_Thunder_Bay_first.ics) [json](CA_America_Thunder_Bay_first.json)
+  - last days [ics](CA_America_Thunder_Bay_last.ics) [json](CA_America_Thunder_Bay_last.json)
+- Canada @ America/Iqaluit
+  - first days [ics](CA_America_Iqaluit_first.ics) [json](CA_America_Iqaluit_first.json)
+  - last days [ics](CA_America_Iqaluit_last.ics) [json](CA_America_Iqaluit_last.json)
+- Canada @ America/Pangnirtung
+  - first days [ics](CA_America_Pangnirtung_first.ics) [json](CA_America_Pangnirtung_first.json)
+  - last days [ics](CA_America_Pangnirtung_last.ics) [json](CA_America_Pangnirtung_last.json)
+- Canada @ America/Resolute
+  - first days [ics](CA_America_Resolute_first.ics) [json](CA_America_Resolute_first.json)
+  - last days [ics](CA_America_Resolute_last.ics) [json](CA_America_Resolute_last.json)
+- Canada @ America/Atikokan
+  - first days [ics](CA_America_Atikokan_first.ics) [json](CA_America_Atikokan_first.json)
+  - last days [ics](CA_America_Atikokan_last.ics) [json](CA_America_Atikokan_last.json)
+- Canada @ America/Rankin_Inlet
+  - first days [ics](CA_America_Rankin_Inlet_first.ics) [json](CA_America_Rankin_Inlet_first.json)
+  - last days [ics](CA_America_Rankin_Inlet_last.ics) [json](CA_America_Rankin_Inlet_last.json)
+- Canada @ America/Winnipeg
+  - first days [ics](CA_America_Winnipeg_first.ics) [json](CA_America_Winnipeg_first.json)
+  - last days [ics](CA_America_Winnipeg_last.ics) [json](CA_America_Winnipeg_last.json)
+- Canada @ America/Rainy_River
+  - first days [ics](CA_America_Rainy_River_first.ics) [json](CA_America_Rainy_River_first.json)
+  - last days [ics](CA_America_Rainy_River_last.ics) [json](CA_America_Rainy_River_last.json)
+- Canada @ America/Regina
+  - first days [ics](CA_America_Regina_first.ics) [json](CA_America_Regina_first.json)
+  - last days [ics](CA_America_Regina_last.ics) [json](CA_America_Regina_last.json)
+- Canada @ America/Swift_Current
+  - first days [ics](CA_America_Swift_Current_first.ics) [json](CA_America_Swift_Current_first.json)
+  - last days [ics](CA_America_Swift_Current_last.ics) [json](CA_America_Swift_Current_last.json)
+- Canada @ America/Edmonton
+  - first days [ics](CA_America_Edmonton_first.ics) [json](CA_America_Edmonton_first.json)
+  - last days [ics](CA_America_Edmonton_last.ics) [json](CA_America_Edmonton_last.json)
+- Canada @ America/Cambridge_Bay
+  - first days [ics](CA_America_Cambridge_Bay_first.ics) [json](CA_America_Cambridge_Bay_first.json)
+  - last days [ics](CA_America_Cambridge_Bay_last.ics) [json](CA_America_Cambridge_Bay_last.json)
+- Canada @ America/Yellowknife
+  - first days [ics](CA_America_Yellowknife_first.ics) [json](CA_America_Yellowknife_first.json)
+  - last days [ics](CA_America_Yellowknife_last.ics) [json](CA_America_Yellowknife_last.json)
+- Canada @ America/Inuvik
+  - first days [ics](CA_America_Inuvik_first.ics) [json](CA_America_Inuvik_first.json)
+  - last days [ics](CA_America_Inuvik_last.ics) [json](CA_America_Inuvik_last.json)
+- Canada @ America/Creston
+  - first days [ics](CA_America_Creston_first.ics) [json](CA_America_Creston_first.json)
+  - last days [ics](CA_America_Creston_last.ics) [json](CA_America_Creston_last.json)
+- Canada @ America/Dawson_Creek
+  - first days [ics](CA_America_Dawson_Creek_first.ics) [json](CA_America_Dawson_Creek_first.json)
+  - last days [ics](CA_America_Dawson_Creek_last.ics) [json](CA_America_Dawson_Creek_last.json)
+- Canada @ America/Fort_Nelson
+  - first days [ics](CA_America_Fort_Nelson_first.ics) [json](CA_America_Fort_Nelson_first.json)
+  - last days [ics](CA_America_Fort_Nelson_last.ics) [json](CA_America_Fort_Nelson_last.json)
+- Canada @ America/Vancouver
+  - first days [ics](CA_America_Vancouver_first.ics) [json](CA_America_Vancouver_first.json)
+  - last days [ics](CA_America_Vancouver_last.ics) [json](CA_America_Vancouver_last.json)
+- Canada @ America/Whitehorse
+  - first days [ics](CA_America_Whitehorse_first.ics) [json](CA_America_Whitehorse_first.json)
+  - last days [ics](CA_America_Whitehorse_last.ics) [json](CA_America_Whitehorse_last.json)
+- Canada @ America/Dawson
+  - first days [ics](CA_America_Dawson_first.ics) [json](CA_America_Dawson_first.json)
+  - last days [ics](CA_America_Dawson_last.ics) [json](CA_America_Dawson_last.json)
+- Canada Alberta @ America/Edmonton
+  - first days [ics](CA-AB_America_Edmonton_first.ics) [json](CA-AB_America_Edmonton_first.json)
+  - last days [ics](CA-AB_America_Edmonton_last.ics) [json](CA-AB_America_Edmonton_last.json)
+- Canada British Columbia @ America/Vancouver
+  - first days [ics](CA-BC_America_Vancouver_first.ics) [json](CA-BC_America_Vancouver_first.json)
+  - last days [ics](CA-BC_America_Vancouver_last.ics) [json](CA-BC_America_Vancouver_last.json)
+- Canada British Columbia @ America/Edmonton
+  - first days [ics](CA-BC_America_Edmonton_first.ics) [json](CA-BC_America_Edmonton_first.json)
+  - last days [ics](CA-BC_America_Edmonton_last.ics) [json](CA-BC_America_Edmonton_last.json)
+- Canada British Columbia @ America/Creston
+  - first days [ics](CA-BC_America_Creston_first.ics) [json](CA-BC_America_Creston_first.json)
+  - last days [ics](CA-BC_America_Creston_last.ics) [json](CA-BC_America_Creston_last.json)
+- Canada British Columbia @ America/Dawson_Creek
+  - first days [ics](CA-BC_America_Dawson_Creek_first.ics) [json](CA-BC_America_Dawson_Creek_first.json)
+  - last days [ics](CA-BC_America_Dawson_Creek_last.ics) [json](CA-BC_America_Dawson_Creek_last.json)
+- Canada Manitoba @ America/Winnipeg
+  - first days [ics](CA-MB_America_Winnipeg_first.ics) [json](CA-MB_America_Winnipeg_first.json)
+  - last days [ics](CA-MB_America_Winnipeg_last.ics) [json](CA-MB_America_Winnipeg_last.json)
+- Canada New Brunswick @ America/Moncton
+  - first days [ics](CA-NB_America_Moncton_first.ics) [json](CA-NB_America_Moncton_first.json)
+  - last days [ics](CA-NB_America_Moncton_last.ics) [json](CA-NB_America_Moncton_last.json)
+- Canada Newfoundland and Labrador @ America/St_Johns
+  - first days [ics](CA-NL_America_St_Johns_first.ics) [json](CA-NL_America_St_Johns_first.json)
+  - last days [ics](CA-NL_America_St_Johns_last.ics) [json](CA-NL_America_St_Johns_last.json)
+- Canada Newfoundland and Labrador @ America/Goose_Bay
+  - first days [ics](CA-NL_America_Goose_Bay_first.ics) [json](CA-NL_America_Goose_Bay_first.json)
+  - last days [ics](CA-NL_America_Goose_Bay_last.ics) [json](CA-NL_America_Goose_Bay_last.json)
+- Canada Nova Scotia @ America/Halifax
+  - first days [ics](CA-NS_America_Halifax_first.ics) [json](CA-NS_America_Halifax_first.json)
+  - last days [ics](CA-NS_America_Halifax_last.ics) [json](CA-NS_America_Halifax_last.json)
+- Canada Nova Scotia @ America/Moncton
+  - first days [ics](CA-NS_America_Moncton_first.ics) [json](CA-NS_America_Moncton_first.json)
+  - last days [ics](CA-NS_America_Moncton_last.ics) [json](CA-NS_America_Moncton_last.json)
+- Canada Northwest Territories @ America/Yellowknife
+  - first days [ics](CA-NT_America_Yellowknife_first.ics) [json](CA-NT_America_Yellowknife_first.json)
+  - last days [ics](CA-NT_America_Yellowknife_last.ics) [json](CA-NT_America_Yellowknife_last.json)
+- Canada Northwest Territories @ America/Inuvik
+  - first days [ics](CA-NT_America_Inuvik_first.ics) [json](CA-NT_America_Inuvik_first.json)
+  - last days [ics](CA-NT_America_Inuvik_last.ics) [json](CA-NT_America_Inuvik_last.json)
+- Canada Nunavut @ America/Iqaluit
+  - first days [ics](CA-NU_America_Iqaluit_first.ics) [json](CA-NU_America_Iqaluit_first.json)
+  - last days [ics](CA-NU_America_Iqaluit_last.ics) [json](CA-NU_America_Iqaluit_last.json)
+- Canada Nunavut @ America/Pangnirtung
+  - first days [ics](CA-NU_America_Pangnirtung_first.ics) [json](CA-NU_America_Pangnirtung_first.json)
+  - last days [ics](CA-NU_America_Pangnirtung_last.ics) [json](CA-NU_America_Pangnirtung_last.json)
+- Canada Nunavut @ America/Resolute
+  - first days [ics](CA-NU_America_Resolute_first.ics) [json](CA-NU_America_Resolute_first.json)
+  - last days [ics](CA-NU_America_Resolute_last.ics) [json](CA-NU_America_Resolute_last.json)
+- Canada Nunavut @ America/Rankin_Inlet
+  - first days [ics](CA-NU_America_Rankin_Inlet_first.ics) [json](CA-NU_America_Rankin_Inlet_first.json)
+  - last days [ics](CA-NU_America_Rankin_Inlet_last.ics) [json](CA-NU_America_Rankin_Inlet_last.json)
+- Canada Nunavut @ America/Atikokan
+  - first days [ics](CA-NU_America_Atikokan_first.ics) [json](CA-NU_America_Atikokan_first.json)
+  - last days [ics](CA-NU_America_Atikokan_last.ics) [json](CA-NU_America_Atikokan_last.json)
+- Canada Nunavut @ America/Cambridge_Bay
+  - first days [ics](CA-NU_America_Cambridge_Bay_first.ics) [json](CA-NU_America_Cambridge_Bay_first.json)
+  - last days [ics](CA-NU_America_Cambridge_Bay_last.ics) [json](CA-NU_America_Cambridge_Bay_last.json)
+- Canada Ontario @ America/Toronto
+  - first days [ics](CA-ON_America_Toronto_first.ics) [json](CA-ON_America_Toronto_first.json)
+  - last days [ics](CA-ON_America_Toronto_last.ics) [json](CA-ON_America_Toronto_last.json)
+- Canada Ontario @ America/Nipigon
+  - first days [ics](CA-ON_America_Nipigon_first.ics) [json](CA-ON_America_Nipigon_first.json)
+  - last days [ics](CA-ON_America_Nipigon_last.ics) [json](CA-ON_America_Nipigon_last.json)
+- Canada Ontario @ America/Thunder_Bay
+  - first days [ics](CA-ON_America_Thunder_Bay_first.ics) [json](CA-ON_America_Thunder_Bay_first.json)
+  - last days [ics](CA-ON_America_Thunder_Bay_last.ics) [json](CA-ON_America_Thunder_Bay_last.json)
+- Canada Ontario @ America/Atikokan
+  - first days [ics](CA-ON_America_Atikokan_first.ics) [json](CA-ON_America_Atikokan_first.json)
+  - last days [ics](CA-ON_America_Atikokan_last.ics) [json](CA-ON_America_Atikokan_last.json)
+- Canada Ontario @ America/Rainy_River
+  - first days [ics](CA-ON_America_Rainy_River_first.ics) [json](CA-ON_America_Rainy_River_first.json)
+  - last days [ics](CA-ON_America_Rainy_River_last.ics) [json](CA-ON_America_Rainy_River_last.json)
+- Canada Ontario @ America/Winnipeg
+  - first days [ics](CA-ON_America_Winnipeg_first.ics) [json](CA-ON_America_Winnipeg_first.json)
+  - last days [ics](CA-ON_America_Winnipeg_last.ics) [json](CA-ON_America_Winnipeg_last.json)
+- Canada Prince Edward Island @ America/Toronto
+  - first days [ics](CA-PE_America_Toronto_first.ics) [json](CA-PE_America_Toronto_first.json)
+  - last days [ics](CA-PE_America_Toronto_last.ics) [json](CA-PE_America_Toronto_last.json)
+- Canada Prince Edward Island @ America/St_Johns
+  - first days [ics](CA-PE_America_St_Johns_first.ics) [json](CA-PE_America_St_Johns_first.json)
+  - last days [ics](CA-PE_America_St_Johns_last.ics) [json](CA-PE_America_St_Johns_last.json)
+- Canada Prince Edward Island @ America/Halifax
+  - first days [ics](CA-PE_America_Halifax_first.ics) [json](CA-PE_America_Halifax_first.json)
+  - last days [ics](CA-PE_America_Halifax_last.ics) [json](CA-PE_America_Halifax_last.json)
+- Canada Prince Edward Island @ America/Glace_Bay
+  - first days [ics](CA-PE_America_Glace_Bay_first.ics) [json](CA-PE_America_Glace_Bay_first.json)
+  - last days [ics](CA-PE_America_Glace_Bay_last.ics) [json](CA-PE_America_Glace_Bay_last.json)
+- Canada Prince Edward Island @ America/Moncton
+  - first days [ics](CA-PE_America_Moncton_first.ics) [json](CA-PE_America_Moncton_first.json)
+  - last days [ics](CA-PE_America_Moncton_last.ics) [json](CA-PE_America_Moncton_last.json)
+- Canada Prince Edward Island @ America/Goose_Bay
+  - first days [ics](CA-PE_America_Goose_Bay_first.ics) [json](CA-PE_America_Goose_Bay_first.json)
+  - last days [ics](CA-PE_America_Goose_Bay_last.ics) [json](CA-PE_America_Goose_Bay_last.json)
+- Canada Prince Edward Island @ America/Blanc-Sablon
+  - first days [ics](CA-PE_America_Blanc-Sablon_first.ics) [json](CA-PE_America_Blanc-Sablon_first.json)
+  - last days [ics](CA-PE_America_Blanc-Sablon_last.ics) [json](CA-PE_America_Blanc-Sablon_last.json)
+- Canada Prince Edward Island @ America/Nipigon
+  - first days [ics](CA-PE_America_Nipigon_first.ics) [json](CA-PE_America_Nipigon_first.json)
+  - last days [ics](CA-PE_America_Nipigon_last.ics) [json](CA-PE_America_Nipigon_last.json)
+- Canada Prince Edward Island @ America/Thunder_Bay
+  - first days [ics](CA-PE_America_Thunder_Bay_first.ics) [json](CA-PE_America_Thunder_Bay_first.json)
+  - last days [ics](CA-PE_America_Thunder_Bay_last.ics) [json](CA-PE_America_Thunder_Bay_last.json)
+- Canada Prince Edward Island @ America/Iqaluit
+  - first days [ics](CA-PE_America_Iqaluit_first.ics) [json](CA-PE_America_Iqaluit_first.json)
+  - last days [ics](CA-PE_America_Iqaluit_last.ics) [json](CA-PE_America_Iqaluit_last.json)
+- Canada Prince Edward Island @ America/Pangnirtung
+  - first days [ics](CA-PE_America_Pangnirtung_first.ics) [json](CA-PE_America_Pangnirtung_first.json)
+  - last days [ics](CA-PE_America_Pangnirtung_last.ics) [json](CA-PE_America_Pangnirtung_last.json)
+- Canada Prince Edward Island @ America/Resolute
+  - first days [ics](CA-PE_America_Resolute_first.ics) [json](CA-PE_America_Resolute_first.json)
+  - last days [ics](CA-PE_America_Resolute_last.ics) [json](CA-PE_America_Resolute_last.json)
+- Canada Prince Edward Island @ America/Atikokan
+  - first days [ics](CA-PE_America_Atikokan_first.ics) [json](CA-PE_America_Atikokan_first.json)
+  - last days [ics](CA-PE_America_Atikokan_last.ics) [json](CA-PE_America_Atikokan_last.json)
+- Canada Prince Edward Island @ America/Rankin_Inlet
+  - first days [ics](CA-PE_America_Rankin_Inlet_first.ics) [json](CA-PE_America_Rankin_Inlet_first.json)
+  - last days [ics](CA-PE_America_Rankin_Inlet_last.ics) [json](CA-PE_America_Rankin_Inlet_last.json)
+- Canada Prince Edward Island @ America/Winnipeg
+  - first days [ics](CA-PE_America_Winnipeg_first.ics) [json](CA-PE_America_Winnipeg_first.json)
+  - last days [ics](CA-PE_America_Winnipeg_last.ics) [json](CA-PE_America_Winnipeg_last.json)
+- Canada Prince Edward Island @ America/Rainy_River
+  - first days [ics](CA-PE_America_Rainy_River_first.ics) [json](CA-PE_America_Rainy_River_first.json)
+  - last days [ics](CA-PE_America_Rainy_River_last.ics) [json](CA-PE_America_Rainy_River_last.json)
+- Canada Prince Edward Island @ America/Regina
+  - first days [ics](CA-PE_America_Regina_first.ics) [json](CA-PE_America_Regina_first.json)
+  - last days [ics](CA-PE_America_Regina_last.ics) [json](CA-PE_America_Regina_last.json)
+- Canada Prince Edward Island @ America/Swift_Current
+  - first days [ics](CA-PE_America_Swift_Current_first.ics) [json](CA-PE_America_Swift_Current_first.json)
+  - last days [ics](CA-PE_America_Swift_Current_last.ics) [json](CA-PE_America_Swift_Current_last.json)
+- Canada Prince Edward Island @ America/Edmonton
+  - first days [ics](CA-PE_America_Edmonton_first.ics) [json](CA-PE_America_Edmonton_first.json)
+  - last days [ics](CA-PE_America_Edmonton_last.ics) [json](CA-PE_America_Edmonton_last.json)
+- Canada Prince Edward Island @ America/Cambridge_Bay
+  - first days [ics](CA-PE_America_Cambridge_Bay_first.ics) [json](CA-PE_America_Cambridge_Bay_first.json)
+  - last days [ics](CA-PE_America_Cambridge_Bay_last.ics) [json](CA-PE_America_Cambridge_Bay_last.json)
+- Canada Prince Edward Island @ America/Yellowknife
+  - first days [ics](CA-PE_America_Yellowknife_first.ics) [json](CA-PE_America_Yellowknife_first.json)
+  - last days [ics](CA-PE_America_Yellowknife_last.ics) [json](CA-PE_America_Yellowknife_last.json)
+- Canada Prince Edward Island @ America/Inuvik
+  - first days [ics](CA-PE_America_Inuvik_first.ics) [json](CA-PE_America_Inuvik_first.json)
+  - last days [ics](CA-PE_America_Inuvik_last.ics) [json](CA-PE_America_Inuvik_last.json)
+- Canada Prince Edward Island @ America/Creston
+  - first days [ics](CA-PE_America_Creston_first.ics) [json](CA-PE_America_Creston_first.json)
+  - last days [ics](CA-PE_America_Creston_last.ics) [json](CA-PE_America_Creston_last.json)
+- Canada Prince Edward Island @ America/Dawson_Creek
+  - first days [ics](CA-PE_America_Dawson_Creek_first.ics) [json](CA-PE_America_Dawson_Creek_first.json)
+  - last days [ics](CA-PE_America_Dawson_Creek_last.ics) [json](CA-PE_America_Dawson_Creek_last.json)
+- Canada Prince Edward Island @ America/Fort_Nelson
+  - first days [ics](CA-PE_America_Fort_Nelson_first.ics) [json](CA-PE_America_Fort_Nelson_first.json)
+  - last days [ics](CA-PE_America_Fort_Nelson_last.ics) [json](CA-PE_America_Fort_Nelson_last.json)
+- Canada Prince Edward Island @ America/Vancouver
+  - first days [ics](CA-PE_America_Vancouver_first.ics) [json](CA-PE_America_Vancouver_first.json)
+  - last days [ics](CA-PE_America_Vancouver_last.ics) [json](CA-PE_America_Vancouver_last.json)
+- Canada Prince Edward Island @ America/Whitehorse
+  - first days [ics](CA-PE_America_Whitehorse_first.ics) [json](CA-PE_America_Whitehorse_first.json)
+  - last days [ics](CA-PE_America_Whitehorse_last.ics) [json](CA-PE_America_Whitehorse_last.json)
+- Canada Prince Edward Island @ America/Dawson
+  - first days [ics](CA-PE_America_Dawson_first.ics) [json](CA-PE_America_Dawson_first.json)
+  - last days [ics](CA-PE_America_Dawson_last.ics) [json](CA-PE_America_Dawson_last.json)
+- Canada Quebec @ America/Blanc-Sablon
+  - first days [ics](CA-QC_America_Blanc-Sablon_first.ics) [json](CA-QC_America_Blanc-Sablon_first.json)
+  - last days [ics](CA-QC_America_Blanc-Sablon_last.ics) [json](CA-QC_America_Blanc-Sablon_last.json)
+- Canada Quebec @ America/Toronto
+  - first days [ics](CA-QC_America_Toronto_first.ics) [json](CA-QC_America_Toronto_first.json)
+  - last days [ics](CA-QC_America_Toronto_last.ics) [json](CA-QC_America_Toronto_last.json)
+- Canada Quebec @ America/Nipigon
+  - first days [ics](CA-QC_America_Nipigon_first.ics) [json](CA-QC_America_Nipigon_first.json)
+  - last days [ics](CA-QC_America_Nipigon_last.ics) [json](CA-QC_America_Nipigon_last.json)
+- Canada Saskatchewan @ America/Regina
+  - first days [ics](CA-SK_America_Regina_first.ics) [json](CA-SK_America_Regina_first.json)
+  - last days [ics](CA-SK_America_Regina_last.ics) [json](CA-SK_America_Regina_last.json)
+- Canada Saskatchewan @ America/Swift_Current
+  - first days [ics](CA-SK_America_Swift_Current_first.ics) [json](CA-SK_America_Swift_Current_first.json)
+  - last days [ics](CA-SK_America_Swift_Current_last.ics) [json](CA-SK_America_Swift_Current_last.json)
+- Canada Saskatchewan @ America/Edmonton
+  - first days [ics](CA-SK_America_Edmonton_first.ics) [json](CA-SK_America_Edmonton_first.json)
+  - last days [ics](CA-SK_America_Edmonton_last.ics) [json](CA-SK_America_Edmonton_last.json)
+- Canada Yukon @ America/Whitehorse
+  - first days [ics](CA-YT_America_Whitehorse_first.ics) [json](CA-YT_America_Whitehorse_first.json)
+  - last days [ics](CA-YT_America_Whitehorse_last.ics) [json](CA-YT_America_Whitehorse_last.json)
+- Canada Yukon @ America/Dawson
+  - first days [ics](CA-YT_America_Dawson_first.ics) [json](CA-YT_America_Dawson_first.json)
+  - last days [ics](CA-YT_America_Dawson_last.ics) [json](CA-YT_America_Dawson_last.json)
+- Cocos (Keeling) Islands @ Indian/Cocos
+  - first days [ics](CC_Indian_Cocos_first.ics) [json](CC_Indian_Cocos_first.json)
+  - last days [ics](CC_Indian_Cocos_last.ics) [json](CC_Indian_Cocos_last.json)
+- République démocratique du Congo @ Africa/Maputo
+  - first days [ics](CD_Africa_Maputo_first.ics) [json](CD_Africa_Maputo_first.json)
+  - last days [ics](CD_Africa_Maputo_last.ics) [json](CD_Africa_Maputo_last.json)
+- République démocratique du Congo @ Africa/Lagos
+  - first days [ics](CD_Africa_Lagos_first.ics) [json](CD_Africa_Lagos_first.json)
+  - last days [ics](CD_Africa_Lagos_last.ics) [json](CD_Africa_Lagos_last.json)
+- République centrafricaine @ Africa/Lagos
+  - first days [ics](CF_Africa_Lagos_first.ics) [json](CF_Africa_Lagos_first.json)
+  - last days [ics](CF_Africa_Lagos_last.ics) [json](CF_Africa_Lagos_last.json)
+- République du Congo @ Africa/Lagos
+  - first days [ics](CG_Africa_Lagos_first.ics) [json](CG_Africa_Lagos_first.json)
+  - last days [ics](CG_Africa_Lagos_last.ics) [json](CG_Africa_Lagos_last.json)
+- Schweiz @ Europe/Zurich
+  - first days [ics](CH_Europe_Zurich_first.ics) [json](CH_Europe_Zurich_first.json)
+  - last days [ics](CH_Europe_Zurich_last.ics) [json](CH_Europe_Zurich_last.json)
+- Schweiz Kanton Zürich @ Europe/Zurich
+  - first days [ics](CH-ZH_Europe_Zurich_first.ics) [json](CH-ZH_Europe_Zurich_first.json)
+  - last days [ics](CH-ZH_Europe_Zurich_last.ics) [json](CH-ZH_Europe_Zurich_last.json)
+- Schweiz Kanton Bern @ Europe/Zurich
+  - first days [ics](CH-BE_Europe_Zurich_first.ics) [json](CH-BE_Europe_Zurich_first.json)
+  - last days [ics](CH-BE_Europe_Zurich_last.ics) [json](CH-BE_Europe_Zurich_last.json)
+- Schweiz Kanton Luzern @ Europe/Zurich
+  - first days [ics](CH-LU_Europe_Zurich_first.ics) [json](CH-LU_Europe_Zurich_first.json)
+  - last days [ics](CH-LU_Europe_Zurich_last.ics) [json](CH-LU_Europe_Zurich_last.json)
+- Schweiz Kanton Uri @ Europe/Zurich
+  - first days [ics](CH-UR_Europe_Zurich_first.ics) [json](CH-UR_Europe_Zurich_first.json)
+  - last days [ics](CH-UR_Europe_Zurich_last.ics) [json](CH-UR_Europe_Zurich_last.json)
+- Schweiz Kanton Schwyz @ Europe/Zurich
+  - first days [ics](CH-SZ_Europe_Zurich_first.ics) [json](CH-SZ_Europe_Zurich_first.json)
+  - last days [ics](CH-SZ_Europe_Zurich_last.ics) [json](CH-SZ_Europe_Zurich_last.json)
+- Schweiz Kanton Obwalden @ Europe/Zurich
+  - first days [ics](CH-OW_Europe_Zurich_first.ics) [json](CH-OW_Europe_Zurich_first.json)
+  - last days [ics](CH-OW_Europe_Zurich_last.ics) [json](CH-OW_Europe_Zurich_last.json)
+- Schweiz Kanton Nidwalden @ Europe/Zurich
+  - first days [ics](CH-NW_Europe_Zurich_first.ics) [json](CH-NW_Europe_Zurich_first.json)
+  - last days [ics](CH-NW_Europe_Zurich_last.ics) [json](CH-NW_Europe_Zurich_last.json)
+- Schweiz Kanton Glarus @ Europe/Zurich
+  - first days [ics](CH-GL_Europe_Zurich_first.ics) [json](CH-GL_Europe_Zurich_first.json)
+  - last days [ics](CH-GL_Europe_Zurich_last.ics) [json](CH-GL_Europe_Zurich_last.json)
+- Schweiz Kanton Zug @ Europe/Zurich
+  - first days [ics](CH-ZG_Europe_Zurich_first.ics) [json](CH-ZG_Europe_Zurich_first.json)
+  - last days [ics](CH-ZG_Europe_Zurich_last.ics) [json](CH-ZG_Europe_Zurich_last.json)
+- Schweiz Canton de Fribourg @ Europe/Zurich
+  - first days [ics](CH-FR_Europe_Zurich_first.ics) [json](CH-FR_Europe_Zurich_first.json)
+  - last days [ics](CH-FR_Europe_Zurich_last.ics) [json](CH-FR_Europe_Zurich_last.json)
+- Schweiz Kanton Solothurn @ Europe/Zurich
+  - first days [ics](CH-SO_Europe_Zurich_first.ics) [json](CH-SO_Europe_Zurich_first.json)
+  - last days [ics](CH-SO_Europe_Zurich_last.ics) [json](CH-SO_Europe_Zurich_last.json)
+- Schweiz Kanton Basel-Stadt @ Europe/Zurich
+  - first days [ics](CH-BS_Europe_Zurich_first.ics) [json](CH-BS_Europe_Zurich_first.json)
+  - last days [ics](CH-BS_Europe_Zurich_last.ics) [json](CH-BS_Europe_Zurich_last.json)
+- Schweiz Kanton Basel-Landschaft @ Europe/Zurich
+  - first days [ics](CH-BL_Europe_Zurich_first.ics) [json](CH-BL_Europe_Zurich_first.json)
+  - last days [ics](CH-BL_Europe_Zurich_last.ics) [json](CH-BL_Europe_Zurich_last.json)
+- Schweiz Kanton Schaffhausen @ Europe/Zurich
+  - first days [ics](CH-SH_Europe_Zurich_first.ics) [json](CH-SH_Europe_Zurich_first.json)
+  - last days [ics](CH-SH_Europe_Zurich_last.ics) [json](CH-SH_Europe_Zurich_last.json)
+- Schweiz Kanton Appenzell Ausserrhoden @ Europe/Zurich
+  - first days [ics](CH-AR_Europe_Zurich_first.ics) [json](CH-AR_Europe_Zurich_first.json)
+  - last days [ics](CH-AR_Europe_Zurich_last.ics) [json](CH-AR_Europe_Zurich_last.json)
+- Schweiz Kanton Appenzell Innerrhoden @ Europe/Zurich
+  - first days [ics](CH-AI_Europe_Zurich_first.ics) [json](CH-AI_Europe_Zurich_first.json)
+  - last days [ics](CH-AI_Europe_Zurich_last.ics) [json](CH-AI_Europe_Zurich_last.json)
+- Schweiz Kanton St. Gallen @ Europe/Zurich
+  - first days [ics](CH-SG_Europe_Zurich_first.ics) [json](CH-SG_Europe_Zurich_first.json)
+  - last days [ics](CH-SG_Europe_Zurich_last.ics) [json](CH-SG_Europe_Zurich_last.json)
+- Schweiz Kanton Graubünden @ Europe/Zurich
+  - first days [ics](CH-GR_Europe_Zurich_first.ics) [json](CH-GR_Europe_Zurich_first.json)
+  - last days [ics](CH-GR_Europe_Zurich_last.ics) [json](CH-GR_Europe_Zurich_last.json)
+- Schweiz Kanton Aargau @ Europe/Zurich
+  - first days [ics](CH-AG_Europe_Zurich_first.ics) [json](CH-AG_Europe_Zurich_first.json)
+  - last days [ics](CH-AG_Europe_Zurich_last.ics) [json](CH-AG_Europe_Zurich_last.json)
+- Schweiz Kanton Thurgau @ Europe/Zurich
+  - first days [ics](CH-TG_Europe_Zurich_first.ics) [json](CH-TG_Europe_Zurich_first.json)
+  - last days [ics](CH-TG_Europe_Zurich_last.ics) [json](CH-TG_Europe_Zurich_last.json)
+- Schweiz Canton Ticino @ Europe/Zurich
+  - first days [ics](CH-TI_Europe_Zurich_first.ics) [json](CH-TI_Europe_Zurich_first.json)
+  - last days [ics](CH-TI_Europe_Zurich_last.ics) [json](CH-TI_Europe_Zurich_last.json)
+- Schweiz Canton de Vaud @ Europe/Zurich
+  - first days [ics](CH-VD_Europe_Zurich_first.ics) [json](CH-VD_Europe_Zurich_first.json)
+  - last days [ics](CH-VD_Europe_Zurich_last.ics) [json](CH-VD_Europe_Zurich_last.json)
+- Schweiz Canton du Valais @ Europe/Zurich
+  - first days [ics](CH-VS_Europe_Zurich_first.ics) [json](CH-VS_Europe_Zurich_first.json)
+  - last days [ics](CH-VS_Europe_Zurich_last.ics) [json](CH-VS_Europe_Zurich_last.json)
+- Schweiz Canton de Neuchâtel @ Europe/Zurich
+  - first days [ics](CH-NE_Europe_Zurich_first.ics) [json](CH-NE_Europe_Zurich_first.json)
+  - last days [ics](CH-NE_Europe_Zurich_last.ics) [json](CH-NE_Europe_Zurich_last.json)
+- Schweiz Canton de Genève @ Europe/Zurich
+  - first days [ics](CH-GE_Europe_Zurich_first.ics) [json](CH-GE_Europe_Zurich_first.json)
+  - last days [ics](CH-GE_Europe_Zurich_last.ics) [json](CH-GE_Europe_Zurich_last.json)
+- Schweiz Canton du Jura @ Europe/Zurich
+  - first days [ics](CH-JU_Europe_Zurich_first.ics) [json](CH-JU_Europe_Zurich_first.json)
+  - last days [ics](CH-JU_Europe_Zurich_last.ics) [json](CH-JU_Europe_Zurich_last.json)
+- République de Côte d'Ivoire @ Africa/Abidjan
+  - first days [ics](CI_Africa_Abidjan_first.ics) [json](CI_Africa_Abidjan_first.json)
+  - last days [ics](CI_Africa_Abidjan_last.ics) [json](CI_Africa_Abidjan_last.json)
+- Cook Islands @ Pacific/Rarotonga
+  - first days [ics](CK_Pacific_Rarotonga_first.ics) [json](CK_Pacific_Rarotonga_first.json)
+  - last days [ics](CK_Pacific_Rarotonga_last.ics) [json](CK_Pacific_Rarotonga_last.json)
+- Cook Islands Aitutaki @ Pacific/Rarotonga
+  - first days [ics](CK-Aitutaki_Pacific_Rarotonga_first.ics) [json](CK-Aitutaki_Pacific_Rarotonga_first.json)
+  - last days [ics](CK-Aitutaki_Pacific_Rarotonga_last.ics) [json](CK-Aitutaki_Pacific_Rarotonga_last.json)
+- Cook Islands Atiu @ Pacific/Rarotonga
+  - first days [ics](CK-Atiu_Pacific_Rarotonga_first.ics) [json](CK-Atiu_Pacific_Rarotonga_first.json)
+  - last days [ics](CK-Atiu_Pacific_Rarotonga_last.ics) [json](CK-Atiu_Pacific_Rarotonga_last.json)
+- Cook Islands Mangaia @ Pacific/Rarotonga
+  - first days [ics](CK-Mangaia_Pacific_Rarotonga_first.ics) [json](CK-Mangaia_Pacific_Rarotonga_first.json)
+  - last days [ics](CK-Mangaia_Pacific_Rarotonga_last.ics) [json](CK-Mangaia_Pacific_Rarotonga_last.json)
+- Cook Islands Manihiki @ Pacific/Rarotonga
+  - first days [ics](CK-Manihiki_Pacific_Rarotonga_first.ics) [json](CK-Manihiki_Pacific_Rarotonga_first.json)
+  - last days [ics](CK-Manihiki_Pacific_Rarotonga_last.ics) [json](CK-Manihiki_Pacific_Rarotonga_last.json)
+- Cook Islands Mitiaro @ Pacific/Rarotonga
+  - first days [ics](CK-Mitiaro_Pacific_Rarotonga_first.ics) [json](CK-Mitiaro_Pacific_Rarotonga_first.json)
+  - last days [ics](CK-Mitiaro_Pacific_Rarotonga_last.ics) [json](CK-Mitiaro_Pacific_Rarotonga_last.json)
+- Cook Islands Palmerston @ Pacific/Rarotonga
+  - first days [ics](CK-Palmerston_Pacific_Rarotonga_first.ics) [json](CK-Palmerston_Pacific_Rarotonga_first.json)
+  - last days [ics](CK-Palmerston_Pacific_Rarotonga_last.ics) [json](CK-Palmerston_Pacific_Rarotonga_last.json)
+- Cook Islands Penrhyn @ Pacific/Rarotonga
+  - first days [ics](CK-Penrhyn_Pacific_Rarotonga_first.ics) [json](CK-Penrhyn_Pacific_Rarotonga_first.json)
+  - last days [ics](CK-Penrhyn_Pacific_Rarotonga_last.ics) [json](CK-Penrhyn_Pacific_Rarotonga_last.json)
+- Cook Islands Pukapuka @ Pacific/Rarotonga
+  - first days [ics](CK-Pukapuka_Pacific_Rarotonga_first.ics) [json](CK-Pukapuka_Pacific_Rarotonga_first.json)
+  - last days [ics](CK-Pukapuka_Pacific_Rarotonga_last.ics) [json](CK-Pukapuka_Pacific_Rarotonga_last.json)
+- Cook Islands Rakahanga @ Pacific/Rarotonga
+  - first days [ics](CK-Rakahanga_Pacific_Rarotonga_first.ics) [json](CK-Rakahanga_Pacific_Rarotonga_first.json)
+  - last days [ics](CK-Rakahanga_Pacific_Rarotonga_last.ics) [json](CK-Rakahanga_Pacific_Rarotonga_last.json)
+- Cook Islands Rarotonga @ Pacific/Rarotonga
+  - first days [ics](CK-Rarotonga_Pacific_Rarotonga_first.ics) [json](CK-Rarotonga_Pacific_Rarotonga_first.json)
+  - last days [ics](CK-Rarotonga_Pacific_Rarotonga_last.ics) [json](CK-Rarotonga_Pacific_Rarotonga_last.json)
+- Chile @ America/Santiago
+  - first days [ics](CL_America_Santiago_first.ics) [json](CL_America_Santiago_first.json)
+  - last days [ics](CL_America_Santiago_last.ics) [json](CL_America_Santiago_last.json)
+- Chile @ Pacific/Easter
+  - first days [ics](CL_Pacific_Easter_first.ics) [json](CL_Pacific_Easter_first.json)
+  - last days [ics](CL_Pacific_Easter_last.ics) [json](CL_Pacific_Easter_last.json)
+- Chile Arica y Parinacota @ America/Santiago
+  - first days [ics](CL-AP_America_Santiago_first.ics) [json](CL-AP_America_Santiago_first.json)
+  - last days [ics](CL-AP_America_Santiago_last.ics) [json](CL-AP_America_Santiago_last.json)
+- Chile Arica y Parinacota @ Pacific/Easter
+  - first days [ics](CL-AP_Pacific_Easter_first.ics) [json](CL-AP_Pacific_Easter_first.json)
+  - last days [ics](CL-AP_Pacific_Easter_last.ics) [json](CL-AP_Pacific_Easter_last.json)
+- Chile Biobío @ America/Santiago
+  - first days [ics](CL-BI_America_Santiago_first.ics) [json](CL-BI_America_Santiago_first.json)
+  - last days [ics](CL-BI_America_Santiago_last.ics) [json](CL-BI_America_Santiago_last.json)
+- Chile Biobío @ Pacific/Easter
+  - first days [ics](CL-BI_Pacific_Easter_first.ics) [json](CL-BI_Pacific_Easter_first.json)
+  - last days [ics](CL-BI_Pacific_Easter_last.ics) [json](CL-BI_Pacific_Easter_last.json)
+- Chile Biobío Chillán y Chillán Viejo @ America/Santiago
+  - first days [ics](CL-BI-CH_America_Santiago_first.ics) [json](CL-BI-CH_America_Santiago_first.json)
+  - last days [ics](CL-BI-CH_America_Santiago_last.ics) [json](CL-BI-CH_America_Santiago_last.json)
+- Chile Biobío Chillán y Chillán Viejo @ Pacific/Easter
+  - first days [ics](CL-BI-CH_Pacific_Easter_first.ics) [json](CL-BI-CH_Pacific_Easter_first.json)
+  - last days [ics](CL-BI-CH_Pacific_Easter_last.ics) [json](CL-BI-CH_Pacific_Easter_last.json)
+- Chile Ñuble @ America/Santiago
+  - first days [ics](CL-NU_America_Santiago_first.ics) [json](CL-NU_America_Santiago_first.json)
+  - last days [ics](CL-NU_America_Santiago_last.ics) [json](CL-NU_America_Santiago_last.json)
+- Chile Ñuble @ Pacific/Easter
+  - first days [ics](CL-NU_Pacific_Easter_first.ics) [json](CL-NU_Pacific_Easter_first.json)
+  - last days [ics](CL-NU_Pacific_Easter_last.ics) [json](CL-NU_Pacific_Easter_last.json)
+- Chile Ñuble Chillán y Chillán Viejo @ America/Santiago
+  - first days [ics](CL-NU-CH_America_Santiago_first.ics) [json](CL-NU-CH_America_Santiago_first.json)
+  - last days [ics](CL-NU-CH_America_Santiago_last.ics) [json](CL-NU-CH_America_Santiago_last.json)
+- Chile Ñuble Chillán y Chillán Viejo @ Pacific/Easter
+  - first days [ics](CL-NU-CH_Pacific_Easter_first.ics) [json](CL-NU-CH_Pacific_Easter_first.json)
+  - last days [ics](CL-NU-CH_Pacific_Easter_last.ics) [json](CL-NU-CH_Pacific_Easter_last.json)
+- Chile Tarapacá @ America/Santiago
+  - first days [ics](CL-TA_America_Santiago_first.ics) [json](CL-TA_America_Santiago_first.json)
+  - last days [ics](CL-TA_America_Santiago_last.ics) [json](CL-TA_America_Santiago_last.json)
+- Chile Tarapacá @ Pacific/Easter
+  - first days [ics](CL-TA_Pacific_Easter_first.ics) [json](CL-TA_Pacific_Easter_first.json)
+  - last days [ics](CL-TA_Pacific_Easter_last.ics) [json](CL-TA_Pacific_Easter_last.json)
+- Cameroun @ Africa/Lagos
+  - first days [ics](CM_Africa_Lagos_first.ics) [json](CM_Africa_Lagos_first.json)
+  - last days [ics](CM_Africa_Lagos_last.ics) [json](CM_Africa_Lagos_last.json)
+- 中华人民共和国 @ Asia/Shanghai
+  - first days [ics](CN_Asia_Shanghai_first.ics) [json](CN_Asia_Shanghai_first.json)
+  - last days [ics](CN_Asia_Shanghai_last.ics) [json](CN_Asia_Shanghai_last.json)
+- 中华人民共和国 @ Asia/Urumqi
+  - first days [ics](CN_Asia_Urumqi_first.ics) [json](CN_Asia_Urumqi_first.json)
+  - last days [ics](CN_Asia_Urumqi_last.ics) [json](CN_Asia_Urumqi_last.json)
+- Colombia @ America/Bogota
+  - first days [ics](CO_America_Bogota_first.ics) [json](CO_America_Bogota_first.json)
+  - last days [ics](CO_America_Bogota_last.ics) [json](CO_America_Bogota_last.json)
+- Costa Rica @ America/Costa_Rica
+  - first days [ics](CR_America_Costa_Rica_first.ics) [json](CR_America_Costa_Rica_first.json)
+  - last days [ics](CR_America_Costa_Rica_last.ics) [json](CR_America_Costa_Rica_last.json)
+- Cuba @ America/Havana
+  - first days [ics](CU_America_Havana_first.ics) [json](CU_America_Havana_first.json)
+  - last days [ics](CU_America_Havana_last.ics) [json](CU_America_Havana_last.json)
+- República de Cabo Verde @ Atlantic/Cape_Verde
+  - first days [ics](CV_Atlantic_Cape_Verde_first.ics) [json](CV_Atlantic_Cape_Verde_first.json)
+  - last days [ics](CV_Atlantic_Cape_Verde_last.ics) [json](CV_Atlantic_Cape_Verde_last.json)
+- República de Cabo Verde Sotavento Islands @ Atlantic/Cape_Verde
+  - first days [ics](CV-S_Atlantic_Cape_Verde_first.ics) [json](CV-S_Atlantic_Cape_Verde_first.json)
+  - last days [ics](CV-S_Atlantic_Cape_Verde_last.ics) [json](CV-S_Atlantic_Cape_Verde_last.json)
+- República de Cabo Verde Sotavento Islands Praia @ Atlantic/Cape_Verde
+  - first days [ics](CV-S-PR_Atlantic_Cape_Verde_first.ics) [json](CV-S-PR_Atlantic_Cape_Verde_first.json)
+  - last days [ics](CV-S-PR_Atlantic_Cape_Verde_last.ics) [json](CV-S-PR_Atlantic_Cape_Verde_last.json)
+- Curaçao @ America/Curacao
+  - first days [ics](CW_America_Curacao_first.ics) [json](CW_America_Curacao_first.json)
+  - last days [ics](CW_America_Curacao_last.ics) [json](CW_America_Curacao_last.json)
+- Christmas Island @ Indian/Christmas
+  - first days [ics](CX_Indian_Christmas_first.ics) [json](CX_Indian_Christmas_first.json)
+  - last days [ics](CX_Indian_Christmas_last.ics) [json](CX_Indian_Christmas_last.json)
+- Κύπρος @ Asia/Nicosia
+  - first days [ics](CY_Asia_Nicosia_first.ics) [json](CY_Asia_Nicosia_first.json)
+  - last days [ics](CY_Asia_Nicosia_last.ics) [json](CY_Asia_Nicosia_last.json)
+- Česká republika @ Europe/Prague
+  - first days [ics](CZ_Europe_Prague_first.ics) [json](CZ_Europe_Prague_first.json)
+  - last days [ics](CZ_Europe_Prague_last.ics) [json](CZ_Europe_Prague_last.json)
+- Deutschland @ Europe/Berlin
+  - first days [ics](DE_Europe_Berlin_first.ics) [json](DE_Europe_Berlin_first.json)
+  - last days [ics](DE_Europe_Berlin_last.ics) [json](DE_Europe_Berlin_last.json)
+- Deutschland Brandenburg @ Europe/Berlin
+  - first days [ics](DE-BB_Europe_Berlin_first.ics) [json](DE-BB_Europe_Berlin_first.json)
+  - last days [ics](DE-BB_Europe_Berlin_last.ics) [json](DE-BB_Europe_Berlin_last.json)
+- Deutschland Berlin @ Europe/Berlin
+  - first days [ics](DE-BE_Europe_Berlin_first.ics) [json](DE-BE_Europe_Berlin_first.json)
+  - last days [ics](DE-BE_Europe_Berlin_last.ics) [json](DE-BE_Europe_Berlin_last.json)
+- Deutschland Baden-Württemberg @ Europe/Berlin
+  - first days [ics](DE-BW_Europe_Berlin_first.ics) [json](DE-BW_Europe_Berlin_first.json)
+  - last days [ics](DE-BW_Europe_Berlin_last.ics) [json](DE-BW_Europe_Berlin_last.json)
+- Deutschland Bayern @ Europe/Berlin
+  - first days [ics](DE-BY_Europe_Berlin_first.ics) [json](DE-BY_Europe_Berlin_first.json)
+  - last days [ics](DE-BY_Europe_Berlin_last.ics) [json](DE-BY_Europe_Berlin_last.json)
+- Deutschland Bayern Stadt Augsburg @ Europe/Berlin
+  - first days [ics](DE-BY-A_Europe_Berlin_first.ics) [json](DE-BY-A_Europe_Berlin_first.json)
+  - last days [ics](DE-BY-A_Europe_Berlin_last.ics) [json](DE-BY-A_Europe_Berlin_last.json)
+- Deutschland Bayern Überwiegend evangelische Gemeinden @ Europe/Berlin
+  - first days [ics](DE-BY-EVANG_Europe_Berlin_first.ics) [json](DE-BY-EVANG_Europe_Berlin_first.json)
+  - last days [ics](DE-BY-EVANG_Europe_Berlin_last.ics) [json](DE-BY-EVANG_Europe_Berlin_last.json)
+- Deutschland Hansestadt Bremen @ Europe/Berlin
+  - first days [ics](DE-HB_Europe_Berlin_first.ics) [json](DE-HB_Europe_Berlin_first.json)
+  - last days [ics](DE-HB_Europe_Berlin_last.ics) [json](DE-HB_Europe_Berlin_last.json)
+- Deutschland Hessen @ Europe/Berlin
+  - first days [ics](DE-HE_Europe_Berlin_first.ics) [json](DE-HE_Europe_Berlin_first.json)
+  - last days [ics](DE-HE_Europe_Berlin_last.ics) [json](DE-HE_Europe_Berlin_last.json)
+- Deutschland Hansestadt Hamburg @ Europe/Berlin
+  - first days [ics](DE-HH_Europe_Berlin_first.ics) [json](DE-HH_Europe_Berlin_first.json)
+  - last days [ics](DE-HH_Europe_Berlin_last.ics) [json](DE-HH_Europe_Berlin_last.json)
+- Deutschland Mecklenburg Vorpommern @ Europe/Berlin
+  - first days [ics](DE-MV_Europe_Berlin_first.ics) [json](DE-MV_Europe_Berlin_first.json)
+  - last days [ics](DE-MV_Europe_Berlin_last.ics) [json](DE-MV_Europe_Berlin_last.json)
+- Deutschland Niedersachsen @ Europe/Berlin
+  - first days [ics](DE-NI_Europe_Berlin_first.ics) [json](DE-NI_Europe_Berlin_first.json)
+  - last days [ics](DE-NI_Europe_Berlin_last.ics) [json](DE-NI_Europe_Berlin_last.json)
+- Deutschland Nordrhein-Westfalen @ Europe/Berlin
+  - first days [ics](DE-NW_Europe_Berlin_first.ics) [json](DE-NW_Europe_Berlin_first.json)
+  - last days [ics](DE-NW_Europe_Berlin_last.ics) [json](DE-NW_Europe_Berlin_last.json)
+- Deutschland Rheinland-Pfalz @ Europe/Berlin
+  - first days [ics](DE-RP_Europe_Berlin_first.ics) [json](DE-RP_Europe_Berlin_first.json)
+  - last days [ics](DE-RP_Europe_Berlin_last.ics) [json](DE-RP_Europe_Berlin_last.json)
+- Deutschland Schleswig-Holstein @ Europe/Berlin
+  - first days [ics](DE-SH_Europe_Berlin_first.ics) [json](DE-SH_Europe_Berlin_first.json)
+  - last days [ics](DE-SH_Europe_Berlin_last.ics) [json](DE-SH_Europe_Berlin_last.json)
+- Deutschland Saarland @ Europe/Berlin
+  - first days [ics](DE-SL_Europe_Berlin_first.ics) [json](DE-SL_Europe_Berlin_first.json)
+  - last days [ics](DE-SL_Europe_Berlin_last.ics) [json](DE-SL_Europe_Berlin_last.json)
+- Deutschland Sachsen @ Europe/Berlin
+  - first days [ics](DE-SN_Europe_Berlin_first.ics) [json](DE-SN_Europe_Berlin_first.json)
+  - last days [ics](DE-SN_Europe_Berlin_last.ics) [json](DE-SN_Europe_Berlin_last.json)
+- Deutschland Sachsen Landkreis Bautzen @ Europe/Berlin
+  - first days [ics](DE-SN-BZ_Europe_Berlin_first.ics) [json](DE-SN-BZ_Europe_Berlin_first.json)
+  - last days [ics](DE-SN-BZ_Europe_Berlin_last.ics) [json](DE-SN-BZ_Europe_Berlin_last.json)
+- Deutschland Sachsen-Anhalt @ Europe/Berlin
+  - first days [ics](DE-ST_Europe_Berlin_first.ics) [json](DE-ST_Europe_Berlin_first.json)
+  - last days [ics](DE-ST_Europe_Berlin_last.ics) [json](DE-ST_Europe_Berlin_last.json)
+- Deutschland Thüringen @ Europe/Berlin
+  - first days [ics](DE-TH_Europe_Berlin_first.ics) [json](DE-TH_Europe_Berlin_first.json)
+  - last days [ics](DE-TH_Europe_Berlin_last.ics) [json](DE-TH_Europe_Berlin_last.json)
+- Deutschland Thüringen Landkreis Eichfeld @ Europe/Berlin
+  - first days [ics](DE-TH-EIC_Europe_Berlin_first.ics) [json](DE-TH-EIC_Europe_Berlin_first.json)
+  - last days [ics](DE-TH-EIC_Europe_Berlin_last.ics) [json](DE-TH-EIC_Europe_Berlin_last.json)
+- Deutschland Thüringen Unstrut-Hainich-Kreis @ Europe/Berlin
+  - first days [ics](DE-TH-UH_Europe_Berlin_first.ics) [json](DE-TH-UH_Europe_Berlin_first.json)
+  - last days [ics](DE-TH-UH_Europe_Berlin_last.ics) [json](DE-TH-UH_Europe_Berlin_last.json)
+- Deutschland Thüringen Wartburgkreis @ Europe/Berlin
+  - first days [ics](DE-TH-WAK_Europe_Berlin_first.ics) [json](DE-TH-WAK_Europe_Berlin_first.json)
+  - last days [ics](DE-TH-WAK_Europe_Berlin_last.ics) [json](DE-TH-WAK_Europe_Berlin_last.json)
+- République de Djibouti @ Africa/Nairobi
+  - first days [ics](DJ_Africa_Nairobi_first.ics) [json](DJ_Africa_Nairobi_first.json)
+  - last days [ics](DJ_Africa_Nairobi_last.ics) [json](DJ_Africa_Nairobi_last.json)
+- Danmark @ Europe/Copenhagen
+  - first days [ics](DK_Europe_Copenhagen_first.ics) [json](DK_Europe_Copenhagen_first.json)
+  - last days [ics](DK_Europe_Copenhagen_last.ics) [json](DK_Europe_Copenhagen_last.json)
+- Dominica @ America/Port_of_Spain
+  - first days [ics](DM_America_Port_of_Spain_first.ics) [json](DM_America_Port_of_Spain_first.json)
+  - last days [ics](DM_America_Port_of_Spain_last.ics) [json](DM_America_Port_of_Spain_last.json)
+- República Dominicana @ America/Santo_Domingo
+  - first days [ics](DO_America_Santo_Domingo_first.ics) [json](DO_America_Santo_Domingo_first.json)
+  - last days [ics](DO_America_Santo_Domingo_last.ics) [json](DO_America_Santo_Domingo_last.json)
+- الجمهورية الجزائرية الديمقراطية الشعبية @ Africa/Algiers
+  - first days [ics](DZ_Africa_Algiers_first.ics) [json](DZ_Africa_Algiers_first.json)
+  - last days [ics](DZ_Africa_Algiers_last.ics) [json](DZ_Africa_Algiers_last.json)
+- Ecuador @ America/Guayaquil
+  - first days [ics](EC_America_Guayaquil_first.ics) [json](EC_America_Guayaquil_first.json)
+  - last days [ics](EC_America_Guayaquil_last.ics) [json](EC_America_Guayaquil_last.json)
+- Ecuador @ Pacific/Galapagos
+  - first days [ics](EC_Pacific_Galapagos_first.ics) [json](EC_Pacific_Galapagos_first.json)
+  - last days [ics](EC_Pacific_Galapagos_last.ics) [json](EC_Pacific_Galapagos_last.json)
+- Ecuador Pichincha @ America/Guayaquil
+  - first days [ics](EC-P_America_Guayaquil_first.ics) [json](EC-P_America_Guayaquil_first.json)
+  - last days [ics](EC-P_America_Guayaquil_last.ics) [json](EC-P_America_Guayaquil_last.json)
+- Ecuador Pichincha @ Pacific/Galapagos
+  - first days [ics](EC-P_Pacific_Galapagos_first.ics) [json](EC-P_Pacific_Galapagos_first.json)
+  - last days [ics](EC-P_Pacific_Galapagos_last.ics) [json](EC-P_Pacific_Galapagos_last.json)
+- Ecuador Pichincha Quito @ America/Guayaquil
+  - first days [ics](EC-P-QU_America_Guayaquil_first.ics) [json](EC-P-QU_America_Guayaquil_first.json)
+  - last days [ics](EC-P-QU_America_Guayaquil_last.ics) [json](EC-P-QU_America_Guayaquil_last.json)
+- Ecuador Pichincha Quito @ Pacific/Galapagos
+  - first days [ics](EC-P-QU_Pacific_Galapagos_first.ics) [json](EC-P-QU_Pacific_Galapagos_first.json)
+  - last days [ics](EC-P-QU_Pacific_Galapagos_last.ics) [json](EC-P-QU_Pacific_Galapagos_last.json)
+- Eesti @ Europe/Tallinn
+  - first days [ics](EE_Europe_Tallinn_first.ics) [json](EE_Europe_Tallinn_first.json)
+  - last days [ics](EE_Europe_Tallinn_last.ics) [json](EE_Europe_Tallinn_last.json)
+- جمهورية مصر العربية @ Africa/Cairo
+  - first days [ics](EG_Africa_Cairo_first.ics) [json](EG_Africa_Cairo_first.json)
+  - last days [ics](EG_Africa_Cairo_last.ics) [json](EG_Africa_Cairo_last.json)
+- الجمهورية العربية الصحراوية الديمقراطية @ Africa/El_Aaiun
+  - first days [ics](EH_Africa_El_Aaiun_first.ics) [json](EH_Africa_El_Aaiun_first.json)
+  - last days [ics](EH_Africa_El_Aaiun_last.ics) [json](EH_Africa_El_Aaiun_last.json)
+- Eritrea @ Africa/Nairobi
+  - first days [ics](ER_Africa_Nairobi_first.ics) [json](ER_Africa_Nairobi_first.json)
+  - last days [ics](ER_Africa_Nairobi_last.ics) [json](ER_Africa_Nairobi_last.json)
+- España @ Europe/Madrid
+  - first days [ics](ES_Europe_Madrid_first.ics) [json](ES_Europe_Madrid_first.json)
+  - last days [ics](ES_Europe_Madrid_last.ics) [json](ES_Europe_Madrid_last.json)
+- España @ Africa/Ceuta
+  - first days [ics](ES_Africa_Ceuta_first.ics) [json](ES_Africa_Ceuta_first.json)
+  - last days [ics](ES_Africa_Ceuta_last.ics) [json](ES_Africa_Ceuta_last.json)
+- España @ Atlantic/Canary
+  - first days [ics](ES_Atlantic_Canary_first.ics) [json](ES_Atlantic_Canary_first.json)
+  - last days [ics](ES_Atlantic_Canary_last.ics) [json](ES_Atlantic_Canary_last.json)
+- España Andalucía @ Europe/Madrid
+  - first days [ics](ES-AN_Europe_Madrid_first.ics) [json](ES-AN_Europe_Madrid_first.json)
+  - last days [ics](ES-AN_Europe_Madrid_last.ics) [json](ES-AN_Europe_Madrid_last.json)
+- España Andalucía @ Africa/Ceuta
+  - first days [ics](ES-AN_Africa_Ceuta_first.ics) [json](ES-AN_Africa_Ceuta_first.json)
+  - last days [ics](ES-AN_Africa_Ceuta_last.ics) [json](ES-AN_Africa_Ceuta_last.json)
+- España Andalucía @ Atlantic/Canary
+  - first days [ics](ES-AN_Atlantic_Canary_first.ics) [json](ES-AN_Atlantic_Canary_first.json)
+  - last days [ics](ES-AN_Atlantic_Canary_last.ics) [json](ES-AN_Atlantic_Canary_last.json)
+- España Aragón @ Europe/Madrid
+  - first days [ics](ES-AR_Europe_Madrid_first.ics) [json](ES-AR_Europe_Madrid_first.json)
+  - last days [ics](ES-AR_Europe_Madrid_last.ics) [json](ES-AR_Europe_Madrid_last.json)
+- España Aragón @ Africa/Ceuta
+  - first days [ics](ES-AR_Africa_Ceuta_first.ics) [json](ES-AR_Africa_Ceuta_first.json)
+  - last days [ics](ES-AR_Africa_Ceuta_last.ics) [json](ES-AR_Africa_Ceuta_last.json)
+- España Aragón @ Atlantic/Canary
+  - first days [ics](ES-AR_Atlantic_Canary_first.ics) [json](ES-AR_Atlantic_Canary_first.json)
+  - last days [ics](ES-AR_Atlantic_Canary_last.ics) [json](ES-AR_Atlantic_Canary_last.json)
+- España Asturias @ Europe/Madrid
+  - first days [ics](ES-AS_Europe_Madrid_first.ics) [json](ES-AS_Europe_Madrid_first.json)
+  - last days [ics](ES-AS_Europe_Madrid_last.ics) [json](ES-AS_Europe_Madrid_last.json)
+- España Asturias @ Africa/Ceuta
+  - first days [ics](ES-AS_Africa_Ceuta_first.ics) [json](ES-AS_Africa_Ceuta_first.json)
+  - last days [ics](ES-AS_Africa_Ceuta_last.ics) [json](ES-AS_Africa_Ceuta_last.json)
+- España Asturias @ Atlantic/Canary
+  - first days [ics](ES-AS_Atlantic_Canary_first.ics) [json](ES-AS_Atlantic_Canary_first.json)
+  - last days [ics](ES-AS_Atlantic_Canary_last.ics) [json](ES-AS_Atlantic_Canary_last.json)
+- España Cantabria @ Europe/Madrid
+  - first days [ics](ES-CB_Europe_Madrid_first.ics) [json](ES-CB_Europe_Madrid_first.json)
+  - last days [ics](ES-CB_Europe_Madrid_last.ics) [json](ES-CB_Europe_Madrid_last.json)
+- España Cantabria @ Africa/Ceuta
+  - first days [ics](ES-CB_Africa_Ceuta_first.ics) [json](ES-CB_Africa_Ceuta_first.json)
+  - last days [ics](ES-CB_Africa_Ceuta_last.ics) [json](ES-CB_Africa_Ceuta_last.json)
+- España Cantabria @ Atlantic/Canary
+  - first days [ics](ES-CB_Atlantic_Canary_first.ics) [json](ES-CB_Atlantic_Canary_first.json)
+  - last days [ics](ES-CB_Atlantic_Canary_last.ics) [json](ES-CB_Atlantic_Canary_last.json)
+- España Ciudad de Ceuta @ Europe/Madrid
+  - first days [ics](ES-CE_Europe_Madrid_first.ics) [json](ES-CE_Europe_Madrid_first.json)
+  - last days [ics](ES-CE_Europe_Madrid_last.ics) [json](ES-CE_Europe_Madrid_last.json)
+- España Ciudad de Ceuta @ Africa/Ceuta
+  - first days [ics](ES-CE_Africa_Ceuta_first.ics) [json](ES-CE_Africa_Ceuta_first.json)
+  - last days [ics](ES-CE_Africa_Ceuta_last.ics) [json](ES-CE_Africa_Ceuta_last.json)
+- España Ciudad de Ceuta @ Atlantic/Canary
+  - first days [ics](ES-CE_Atlantic_Canary_first.ics) [json](ES-CE_Atlantic_Canary_first.json)
+  - last days [ics](ES-CE_Atlantic_Canary_last.ics) [json](ES-CE_Atlantic_Canary_last.json)
+- España Castilla y León @ Europe/Madrid
+  - first days [ics](ES-CL_Europe_Madrid_first.ics) [json](ES-CL_Europe_Madrid_first.json)
+  - last days [ics](ES-CL_Europe_Madrid_last.ics) [json](ES-CL_Europe_Madrid_last.json)
+- España Castilla y León @ Africa/Ceuta
+  - first days [ics](ES-CL_Africa_Ceuta_first.ics) [json](ES-CL_Africa_Ceuta_first.json)
+  - last days [ics](ES-CL_Africa_Ceuta_last.ics) [json](ES-CL_Africa_Ceuta_last.json)
+- España Castilla y León @ Atlantic/Canary
+  - first days [ics](ES-CL_Atlantic_Canary_first.ics) [json](ES-CL_Atlantic_Canary_first.json)
+  - last days [ics](ES-CL_Atlantic_Canary_last.ics) [json](ES-CL_Atlantic_Canary_last.json)
+- España Castile-La Mancha @ Europe/Madrid
+  - first days [ics](ES-CM_Europe_Madrid_first.ics) [json](ES-CM_Europe_Madrid_first.json)
+  - last days [ics](ES-CM_Europe_Madrid_last.ics) [json](ES-CM_Europe_Madrid_last.json)
+- España Castile-La Mancha @ Africa/Ceuta
+  - first days [ics](ES-CM_Africa_Ceuta_first.ics) [json](ES-CM_Africa_Ceuta_first.json)
+  - last days [ics](ES-CM_Africa_Ceuta_last.ics) [json](ES-CM_Africa_Ceuta_last.json)
+- España Castile-La Mancha @ Atlantic/Canary
+  - first days [ics](ES-CM_Atlantic_Canary_first.ics) [json](ES-CM_Atlantic_Canary_first.json)
+  - last days [ics](ES-CM_Atlantic_Canary_last.ics) [json](ES-CM_Atlantic_Canary_last.json)
+- España Islas Canarias @ Atlantic/Canary
+  - first days [ics](ES-CN_Atlantic_Canary_first.ics) [json](ES-CN_Atlantic_Canary_first.json)
+  - last days [ics](ES-CN_Atlantic_Canary_last.ics) [json](ES-CN_Atlantic_Canary_last.json)
+- España Islas Canarias El Hierro @ Atlantic/Canary
+  - first days [ics](ES-CN-EH_Atlantic_Canary_first.ics) [json](ES-CN-EH_Atlantic_Canary_first.json)
+  - last days [ics](ES-CN-EH_Atlantic_Canary_last.ics) [json](ES-CN-EH_Atlantic_Canary_last.json)
+- España Islas Canarias Fuerteventura @ Atlantic/Canary
+  - first days [ics](ES-CN-FU_Atlantic_Canary_first.ics) [json](ES-CN-FU_Atlantic_Canary_first.json)
+  - last days [ics](ES-CN-FU_Atlantic_Canary_last.ics) [json](ES-CN-FU_Atlantic_Canary_last.json)
+- España Islas Canarias Gran Canaria @ Atlantic/Canary
+  - first days [ics](ES-CN-GC_Atlantic_Canary_first.ics) [json](ES-CN-GC_Atlantic_Canary_first.json)
+  - last days [ics](ES-CN-GC_Atlantic_Canary_last.ics) [json](ES-CN-GC_Atlantic_Canary_last.json)
+- España Islas Canarias La Gomera @ Atlantic/Canary
+  - first days [ics](ES-CN-LG_Atlantic_Canary_first.ics) [json](ES-CN-LG_Atlantic_Canary_first.json)
+  - last days [ics](ES-CN-LG_Atlantic_Canary_last.ics) [json](ES-CN-LG_Atlantic_Canary_last.json)
+- España Islas Canarias La Palma @ Atlantic/Canary
+  - first days [ics](ES-CN-LP_Atlantic_Canary_first.ics) [json](ES-CN-LP_Atlantic_Canary_first.json)
+  - last days [ics](ES-CN-LP_Atlantic_Canary_last.ics) [json](ES-CN-LP_Atlantic_Canary_last.json)
+- España Islas Canarias Lanzarote @ Atlantic/Canary
+  - first days [ics](ES-CN-LA_Atlantic_Canary_first.ics) [json](ES-CN-LA_Atlantic_Canary_first.json)
+  - last days [ics](ES-CN-LA_Atlantic_Canary_last.ics) [json](ES-CN-LA_Atlantic_Canary_last.json)
+- España Islas Canarias Tenerife @ Atlantic/Canary
+  - first days [ics](ES-CN-TE_Atlantic_Canary_first.ics) [json](ES-CN-TE_Atlantic_Canary_first.json)
+  - last days [ics](ES-CN-TE_Atlantic_Canary_last.ics) [json](ES-CN-TE_Atlantic_Canary_last.json)
+- España Cataluña @ Europe/Madrid
+  - first days [ics](ES-CT_Europe_Madrid_first.ics) [json](ES-CT_Europe_Madrid_first.json)
+  - last days [ics](ES-CT_Europe_Madrid_last.ics) [json](ES-CT_Europe_Madrid_last.json)
+- España Cataluña @ Africa/Ceuta
+  - first days [ics](ES-CT_Africa_Ceuta_first.ics) [json](ES-CT_Africa_Ceuta_first.json)
+  - last days [ics](ES-CT_Africa_Ceuta_last.ics) [json](ES-CT_Africa_Ceuta_last.json)
+- España Cataluña @ Atlantic/Canary
+  - first days [ics](ES-CT_Atlantic_Canary_first.ics) [json](ES-CT_Atlantic_Canary_first.json)
+  - last days [ics](ES-CT_Atlantic_Canary_last.ics) [json](ES-CT_Atlantic_Canary_last.json)
+- España Extremadura @ Europe/Madrid
+  - first days [ics](ES-EX_Europe_Madrid_first.ics) [json](ES-EX_Europe_Madrid_first.json)
+  - last days [ics](ES-EX_Europe_Madrid_last.ics) [json](ES-EX_Europe_Madrid_last.json)
+- España Extremadura @ Africa/Ceuta
+  - first days [ics](ES-EX_Africa_Ceuta_first.ics) [json](ES-EX_Africa_Ceuta_first.json)
+  - last days [ics](ES-EX_Africa_Ceuta_last.ics) [json](ES-EX_Africa_Ceuta_last.json)
+- España Extremadura @ Atlantic/Canary
+  - first days [ics](ES-EX_Atlantic_Canary_first.ics) [json](ES-EX_Atlantic_Canary_first.json)
+  - last days [ics](ES-EX_Atlantic_Canary_last.ics) [json](ES-EX_Atlantic_Canary_last.json)
+- España Galicia @ Europe/Madrid
+  - first days [ics](ES-GA_Europe_Madrid_first.ics) [json](ES-GA_Europe_Madrid_first.json)
+  - last days [ics](ES-GA_Europe_Madrid_last.ics) [json](ES-GA_Europe_Madrid_last.json)
+- España Galicia @ Africa/Ceuta
+  - first days [ics](ES-GA_Africa_Ceuta_first.ics) [json](ES-GA_Africa_Ceuta_first.json)
+  - last days [ics](ES-GA_Africa_Ceuta_last.ics) [json](ES-GA_Africa_Ceuta_last.json)
+- España Galicia @ Atlantic/Canary
+  - first days [ics](ES-GA_Atlantic_Canary_first.ics) [json](ES-GA_Atlantic_Canary_first.json)
+  - last days [ics](ES-GA_Atlantic_Canary_last.ics) [json](ES-GA_Atlantic_Canary_last.json)
+- España Illes Balears @ Europe/Madrid
+  - first days [ics](ES-IB_Europe_Madrid_first.ics) [json](ES-IB_Europe_Madrid_first.json)
+  - last days [ics](ES-IB_Europe_Madrid_last.ics) [json](ES-IB_Europe_Madrid_last.json)
+- España Illes Balears @ Africa/Ceuta
+  - first days [ics](ES-IB_Africa_Ceuta_first.ics) [json](ES-IB_Africa_Ceuta_first.json)
+  - last days [ics](ES-IB_Africa_Ceuta_last.ics) [json](ES-IB_Africa_Ceuta_last.json)
+- España Illes Balears @ Atlantic/Canary
+  - first days [ics](ES-IB_Atlantic_Canary_first.ics) [json](ES-IB_Atlantic_Canary_first.json)
+  - last days [ics](ES-IB_Atlantic_Canary_last.ics) [json](ES-IB_Atlantic_Canary_last.json)
+- España Murcia Region @ Europe/Madrid
+  - first days [ics](ES-MC_Europe_Madrid_first.ics) [json](ES-MC_Europe_Madrid_first.json)
+  - last days [ics](ES-MC_Europe_Madrid_last.ics) [json](ES-MC_Europe_Madrid_last.json)
+- España Murcia Region @ Africa/Ceuta
+  - first days [ics](ES-MC_Africa_Ceuta_first.ics) [json](ES-MC_Africa_Ceuta_first.json)
+  - last days [ics](ES-MC_Africa_Ceuta_last.ics) [json](ES-MC_Africa_Ceuta_last.json)
+- España Murcia Region @ Atlantic/Canary
+  - first days [ics](ES-MC_Atlantic_Canary_first.ics) [json](ES-MC_Atlantic_Canary_first.json)
+  - last days [ics](ES-MC_Atlantic_Canary_last.ics) [json](ES-MC_Atlantic_Canary_last.json)
+- España Comunidad de Madrid @ Europe/Madrid
+  - first days [ics](ES-MD_Europe_Madrid_first.ics) [json](ES-MD_Europe_Madrid_first.json)
+  - last days [ics](ES-MD_Europe_Madrid_last.ics) [json](ES-MD_Europe_Madrid_last.json)
+- España Comunidad de Madrid @ Africa/Ceuta
+  - first days [ics](ES-MD_Africa_Ceuta_first.ics) [json](ES-MD_Africa_Ceuta_first.json)
+  - last days [ics](ES-MD_Africa_Ceuta_last.ics) [json](ES-MD_Africa_Ceuta_last.json)
+- España Comunidad de Madrid @ Atlantic/Canary
+  - first days [ics](ES-MD_Atlantic_Canary_first.ics) [json](ES-MD_Atlantic_Canary_first.json)
+  - last days [ics](ES-MD_Atlantic_Canary_last.ics) [json](ES-MD_Atlantic_Canary_last.json)
+- España Ciudad de Melilla @ Europe/Madrid
+  - first days [ics](ES-ML_Europe_Madrid_first.ics) [json](ES-ML_Europe_Madrid_first.json)
+  - last days [ics](ES-ML_Europe_Madrid_last.ics) [json](ES-ML_Europe_Madrid_last.json)
+- España Ciudad de Melilla @ Africa/Ceuta
+  - first days [ics](ES-ML_Africa_Ceuta_first.ics) [json](ES-ML_Africa_Ceuta_first.json)
+  - last days [ics](ES-ML_Africa_Ceuta_last.ics) [json](ES-ML_Africa_Ceuta_last.json)
+- España Ciudad de Melilla @ Atlantic/Canary
+  - first days [ics](ES-ML_Atlantic_Canary_first.ics) [json](ES-ML_Atlantic_Canary_first.json)
+  - last days [ics](ES-ML_Atlantic_Canary_last.ics) [json](ES-ML_Atlantic_Canary_last.json)
+- España Comunidad Foral de Navarra @ Europe/Madrid
+  - first days [ics](ES-NC_Europe_Madrid_first.ics) [json](ES-NC_Europe_Madrid_first.json)
+  - last days [ics](ES-NC_Europe_Madrid_last.ics) [json](ES-NC_Europe_Madrid_last.json)
+- España Comunidad Foral de Navarra @ Africa/Ceuta
+  - first days [ics](ES-NC_Africa_Ceuta_first.ics) [json](ES-NC_Africa_Ceuta_first.json)
+  - last days [ics](ES-NC_Africa_Ceuta_last.ics) [json](ES-NC_Africa_Ceuta_last.json)
+- España Comunidad Foral de Navarra @ Atlantic/Canary
+  - first days [ics](ES-NC_Atlantic_Canary_first.ics) [json](ES-NC_Atlantic_Canary_first.json)
+  - last days [ics](ES-NC_Atlantic_Canary_last.ics) [json](ES-NC_Atlantic_Canary_last.json)
+- España País Vasco @ Europe/Madrid
+  - first days [ics](ES-PV_Europe_Madrid_first.ics) [json](ES-PV_Europe_Madrid_first.json)
+  - last days [ics](ES-PV_Europe_Madrid_last.ics) [json](ES-PV_Europe_Madrid_last.json)
+- España País Vasco @ Africa/Ceuta
+  - first days [ics](ES-PV_Africa_Ceuta_first.ics) [json](ES-PV_Africa_Ceuta_first.json)
+  - last days [ics](ES-PV_Africa_Ceuta_last.ics) [json](ES-PV_Africa_Ceuta_last.json)
+- España País Vasco @ Atlantic/Canary
+  - first days [ics](ES-PV_Atlantic_Canary_first.ics) [json](ES-PV_Atlantic_Canary_first.json)
+  - last days [ics](ES-PV_Atlantic_Canary_last.ics) [json](ES-PV_Atlantic_Canary_last.json)
+- España La Rioja @ Europe/Madrid
+  - first days [ics](ES-RI_Europe_Madrid_first.ics) [json](ES-RI_Europe_Madrid_first.json)
+  - last days [ics](ES-RI_Europe_Madrid_last.ics) [json](ES-RI_Europe_Madrid_last.json)
+- España La Rioja @ Africa/Ceuta
+  - first days [ics](ES-RI_Africa_Ceuta_first.ics) [json](ES-RI_Africa_Ceuta_first.json)
+  - last days [ics](ES-RI_Africa_Ceuta_last.ics) [json](ES-RI_Africa_Ceuta_last.json)
+- España La Rioja @ Atlantic/Canary
+  - first days [ics](ES-RI_Atlantic_Canary_first.ics) [json](ES-RI_Atlantic_Canary_first.json)
+  - last days [ics](ES-RI_Atlantic_Canary_last.ics) [json](ES-RI_Atlantic_Canary_last.json)
+- España Comunitat Valenciana @ Europe/Madrid
+  - first days [ics](ES-VC_Europe_Madrid_first.ics) [json](ES-VC_Europe_Madrid_first.json)
+  - last days [ics](ES-VC_Europe_Madrid_last.ics) [json](ES-VC_Europe_Madrid_last.json)
+- España Comunitat Valenciana @ Africa/Ceuta
+  - first days [ics](ES-VC_Africa_Ceuta_first.ics) [json](ES-VC_Africa_Ceuta_first.json)
+  - last days [ics](ES-VC_Africa_Ceuta_last.ics) [json](ES-VC_Africa_Ceuta_last.json)
+- España Comunitat Valenciana @ Atlantic/Canary
+  - first days [ics](ES-VC_Atlantic_Canary_first.ics) [json](ES-VC_Atlantic_Canary_first.json)
+  - last days [ics](ES-VC_Atlantic_Canary_last.ics) [json](ES-VC_Atlantic_Canary_last.json)
+- ኢትዮጵያ @ Africa/Nairobi
+  - first days [ics](ET_Africa_Nairobi_first.ics) [json](ET_Africa_Nairobi_first.json)
+  - last days [ics](ET_Africa_Nairobi_last.ics) [json](ET_Africa_Nairobi_last.json)
+- Suomi @ Europe/Helsinki
+  - first days [ics](FI_Europe_Helsinki_first.ics) [json](FI_Europe_Helsinki_first.json)
+  - last days [ics](FI_Europe_Helsinki_last.ics) [json](FI_Europe_Helsinki_last.json)
+- Matanitu Tugalala o Viti @ Pacific/Fiji
+  - first days [ics](FJ_Pacific_Fiji_first.ics) [json](FJ_Pacific_Fiji_first.json)
+  - last days [ics](FJ_Pacific_Fiji_last.ics) [json](FJ_Pacific_Fiji_last.json)
+- Føroyar @ Atlantic/Faroe
+  - first days [ics](FO_Atlantic_Faroe_first.ics) [json](FO_Atlantic_Faroe_first.json)
+  - last days [ics](FO_Atlantic_Faroe_last.ics) [json](FO_Atlantic_Faroe_last.json)
+- France @ Europe/Paris
+  - first days [ics](FR_Europe_Paris_first.ics) [json](FR_Europe_Paris_first.json)
+  - last days [ics](FR_Europe_Paris_last.ics) [json](FR_Europe_Paris_last.json)
+- France Département Moselle @ Europe/Paris
+  - first days [ics](FR-57_Europe_Paris_first.ics) [json](FR-57_Europe_Paris_first.json)
+  - last days [ics](FR-57_Europe_Paris_last.ics) [json](FR-57_Europe_Paris_last.json)
+- France Département Bas-Rhin @ Europe/Paris
+  - first days [ics](FR-67_Europe_Paris_first.ics) [json](FR-67_Europe_Paris_first.json)
+  - last days [ics](FR-67_Europe_Paris_last.ics) [json](FR-67_Europe_Paris_last.json)
+- France Département Haut-Rhin @ Europe/Paris
+  - first days [ics](FR-68_Europe_Paris_first.ics) [json](FR-68_Europe_Paris_first.json)
+  - last days [ics](FR-68_Europe_Paris_last.ics) [json](FR-68_Europe_Paris_last.json)
+- France Département et région d'outre-mer Mayotte @ Africa/Nairobi
+  - first days [ics](FR-YT_Africa_Nairobi_first.ics) [json](FR-YT_Africa_Nairobi_first.json)
+  - last days [ics](FR-YT_Africa_Nairobi_last.ics) [json](FR-YT_Africa_Nairobi_last.json)
+- France Département et région d'outre-mer Martinique @ America/Martinique
+  - first days [ics](FR-MQ_America_Martinique_first.ics) [json](FR-MQ_America_Martinique_first.json)
+  - last days [ics](FR-MQ_America_Martinique_last.ics) [json](FR-MQ_America_Martinique_last.json)
+- France Département et région d'outre-mer Guadeloupe @ America/Port_of_Spain
+  - first days [ics](FR-GP_America_Port_of_Spain_first.ics) [json](FR-GP_America_Port_of_Spain_first.json)
+  - last days [ics](FR-GP_America_Port_of_Spain_last.ics) [json](FR-GP_America_Port_of_Spain_last.json)
+- France Département et région d'outre-mer Guyane @ America/Cayenne
+  - first days [ics](FR-GF_America_Cayenne_first.ics) [json](FR-GF_America_Cayenne_first.json)
+  - last days [ics](FR-GF_America_Cayenne_last.ics) [json](FR-GF_America_Cayenne_last.json)
+- France Département et région d'outre-mer La Réunion @ Indian/Reunion
+  - first days [ics](FR-RE_Indian_Reunion_first.ics) [json](FR-RE_Indian_Reunion_first.json)
+  - last days [ics](FR-RE_Indian_Reunion_last.ics) [json](FR-RE_Indian_Reunion_last.json)
+- France Département et région d'outre-mer Saint Martin @ America/Marigot
+  - first days [ics](FR-MF_America_Marigot_first.ics) [json](FR-MF_America_Marigot_first.json)
+  - last days [ics](FR-MF_America_Marigot_last.ics) [json](FR-MF_America_Marigot_last.json)
+- France Département et région d'outre-mer Saint Barthélemy @ America/St_Barthelemy
+  - first days [ics](FR-BL_America_St_Barthelemy_first.ics) [json](FR-BL_America_St_Barthelemy_first.json)
+  - last days [ics](FR-BL_America_St_Barthelemy_last.ics) [json](FR-BL_America_St_Barthelemy_last.json)
+- Gabon @ Africa/Lagos
+  - first days [ics](GA_Africa_Lagos_first.ics) [json](GA_Africa_Lagos_first.json)
+  - last days [ics](GA_Africa_Lagos_last.ics) [json](GA_Africa_Lagos_last.json)
+- United Kingdom @ Europe/London
+  - first days [ics](GB_Europe_London_first.ics) [json](GB_Europe_London_first.json)
+  - last days [ics](GB_Europe_London_last.ics) [json](GB_Europe_London_last.json)
+- United Kingdom Alderney @ Europe/Guernsey
+  - first days [ics](GB-ALD_Europe_Guernsey_first.ics) [json](GB-ALD_Europe_Guernsey_first.json)
+  - last days [ics](GB-ALD_Europe_Guernsey_last.ics) [json](GB-ALD_Europe_Guernsey_last.json)
+- United Kingdom England @ Europe/London
+  - first days [ics](GB-ENG_Europe_London_first.ics) [json](GB-ENG_Europe_London_first.json)
+  - last days [ics](GB-ENG_Europe_London_last.ics) [json](GB-ENG_Europe_London_last.json)
+- United Kingdom Northern Ireland @ Europe/Belfast
+  - first days [ics](GB-NIR_Europe_Belfast_first.ics) [json](GB-NIR_Europe_Belfast_first.json)
+  - last days [ics](GB-NIR_Europe_Belfast_last.ics) [json](GB-NIR_Europe_Belfast_last.json)
+- United Kingdom Scotland @ Europe/London
+  - first days [ics](GB-SCT_Europe_London_first.ics) [json](GB-SCT_Europe_London_first.json)
+  - last days [ics](GB-SCT_Europe_London_last.ics) [json](GB-SCT_Europe_London_last.json)
+- United Kingdom Wales @ Europe/London
+  - first days [ics](GB-WLS_Europe_London_first.ics) [json](GB-WLS_Europe_London_first.json)
+  - last days [ics](GB-WLS_Europe_London_last.ics) [json](GB-WLS_Europe_London_last.json)
+- Grenada @ America/Port_of_Spain
+  - first days [ics](GD_America_Port_of_Spain_first.ics) [json](GD_America_Port_of_Spain_first.json)
+  - last days [ics](GD_America_Port_of_Spain_last.ics) [json](GD_America_Port_of_Spain_last.json)
+- საქართველო @ Asia/Tbilisi
+  - first days [ics](GE_Asia_Tbilisi_first.ics) [json](GE_Asia_Tbilisi_first.json)
+  - last days [ics](GE_Asia_Tbilisi_last.ics) [json](GE_Asia_Tbilisi_last.json)
+- Guyane @ America/Cayenne
+  - first days [ics](GF_America_Cayenne_first.ics) [json](GF_America_Cayenne_first.json)
+  - last days [ics](GF_America_Cayenne_last.ics) [json](GF_America_Cayenne_last.json)
+- Guernsey @ Europe/Guernsey
+  - first days [ics](GG_Europe_Guernsey_first.ics) [json](GG_Europe_Guernsey_first.json)
+  - last days [ics](GG_Europe_Guernsey_last.ics) [json](GG_Europe_Guernsey_last.json)
+- Ghana @ Africa/Accra
+  - first days [ics](GH_Africa_Accra_first.ics) [json](GH_Africa_Accra_first.json)
+  - last days [ics](GH_Africa_Accra_last.ics) [json](GH_Africa_Accra_last.json)
+- Gibraltar @ Europe/Gibraltar
+  - first days [ics](GI_Europe_Gibraltar_first.ics) [json](GI_Europe_Gibraltar_first.json)
+  - last days [ics](GI_Europe_Gibraltar_last.ics) [json](GI_Europe_Gibraltar_last.json)
+- Kalaallit Nunaat @ America/Godthab
+  - first days [ics](GL_America_Godthab_first.ics) [json](GL_America_Godthab_first.json)
+  - last days [ics](GL_America_Godthab_last.ics) [json](GL_America_Godthab_last.json)
+- Kalaallit Nunaat @ America/Danmarkshavn
+  - first days [ics](GL_America_Danmarkshavn_first.ics) [json](GL_America_Danmarkshavn_first.json)
+  - last days [ics](GL_America_Danmarkshavn_last.ics) [json](GL_America_Danmarkshavn_last.json)
+- Kalaallit Nunaat @ America/Scoresbysund
+  - first days [ics](GL_America_Scoresbysund_first.ics) [json](GL_America_Scoresbysund_first.json)
+  - last days [ics](GL_America_Scoresbysund_last.ics) [json](GL_America_Scoresbysund_last.json)
+- Kalaallit Nunaat @ America/Thule
+  - first days [ics](GL_America_Thule_first.ics) [json](GL_America_Thule_first.json)
+  - last days [ics](GL_America_Thule_last.ics) [json](GL_America_Thule_last.json)
+- The Gambia @ Africa/Abidjan
+  - first days [ics](GM_Africa_Abidjan_first.ics) [json](GM_Africa_Abidjan_first.json)
+  - last days [ics](GM_Africa_Abidjan_last.ics) [json](GM_Africa_Abidjan_last.json)
+- Guinée @ Africa/Abidjan
+  - first days [ics](GN_Africa_Abidjan_first.ics) [json](GN_Africa_Abidjan_first.json)
+  - last days [ics](GN_Africa_Abidjan_last.ics) [json](GN_Africa_Abidjan_last.json)
+- Guadeloupe @ America/Port_of_Spain
+  - first days [ics](GP_America_Port_of_Spain_first.ics) [json](GP_America_Port_of_Spain_first.json)
+  - last days [ics](GP_America_Port_of_Spain_last.ics) [json](GP_America_Port_of_Spain_last.json)
+- República de Guinea Ecuatorial @ Africa/Lagos
+  - first days [ics](GQ_Africa_Lagos_first.ics) [json](GQ_Africa_Lagos_first.json)
+  - last days [ics](GQ_Africa_Lagos_last.ics) [json](GQ_Africa_Lagos_last.json)
+- Ελλάδα @ Europe/Athens
+  - first days [ics](GR_Europe_Athens_first.ics) [json](GR_Europe_Athens_first.json)
+  - last days [ics](GR_Europe_Athens_last.ics) [json](GR_Europe_Athens_last.json)
+- Guatemala @ America/Guatemala
+  - first days [ics](GT_America_Guatemala_first.ics) [json](GT_America_Guatemala_first.json)
+  - last days [ics](GT_America_Guatemala_last.ics) [json](GT_America_Guatemala_last.json)
+- Guam @ Pacific/Guam
+  - first days [ics](GU_Pacific_Guam_first.ics) [json](GU_Pacific_Guam_first.json)
+  - last days [ics](GU_Pacific_Guam_last.ics) [json](GU_Pacific_Guam_last.json)
+- Guiné-Bissau @ Africa/Bissau
+  - first days [ics](GW_Africa_Bissau_first.ics) [json](GW_Africa_Bissau_first.json)
+  - last days [ics](GW_Africa_Bissau_last.ics) [json](GW_Africa_Bissau_last.json)
+- Guyana @ America/Guyana
+  - first days [ics](GY_America_Guyana_first.ics) [json](GY_America_Guyana_first.json)
+  - last days [ics](GY_America_Guyana_last.ics) [json](GY_America_Guyana_last.json)
+- 香港 @ Asia/Hong_Kong
+  - first days [ics](HK_Asia_Hong_Kong_first.ics) [json](HK_Asia_Hong_Kong_first.json)
+  - last days [ics](HK_Asia_Hong_Kong_last.ics) [json](HK_Asia_Hong_Kong_last.json)
+- Honduras @ America/Tegucigalpa
+  - first days [ics](HN_America_Tegucigalpa_first.ics) [json](HN_America_Tegucigalpa_first.json)
+  - last days [ics](HN_America_Tegucigalpa_last.ics) [json](HN_America_Tegucigalpa_last.json)
+- Hrvatska @ Europe/Belgrade
+  - first days [ics](HR_Europe_Belgrade_first.ics) [json](HR_Europe_Belgrade_first.json)
+  - last days [ics](HR_Europe_Belgrade_last.ics) [json](HR_Europe_Belgrade_last.json)
+- Hrvatska Split-Dalmatia @ Europe/Belgrade
+  - first days [ics](HR-17_Europe_Belgrade_first.ics) [json](HR-17_Europe_Belgrade_first.json)
+  - last days [ics](HR-17_Europe_Belgrade_last.ics) [json](HR-17_Europe_Belgrade_last.json)
+- Hrvatska Dubrovnik-Neretva @ Europe/Belgrade
+  - first days [ics](HR-19_Europe_Belgrade_first.ics) [json](HR-19_Europe_Belgrade_first.json)
+  - last days [ics](HR-19_Europe_Belgrade_last.ics) [json](HR-19_Europe_Belgrade_last.json)
+- Haïti @ America/Port-au-Prince
+  - first days [ics](HT_America_Port-au-Prince_first.ics) [json](HT_America_Port-au-Prince_first.json)
+  - last days [ics](HT_America_Port-au-Prince_last.ics) [json](HT_America_Port-au-Prince_last.json)
+- Magyarország @ Europe/Budapest
+  - first days [ics](HU_Europe_Budapest_first.ics) [json](HU_Europe_Budapest_first.json)
+  - last days [ics](HU_Europe_Budapest_last.ics) [json](HU_Europe_Budapest_last.json)
+- Islas Canarias @ Atlantic/Canary
+  - first days [ics](IC_Atlantic_Canary_first.ics) [json](IC_Atlantic_Canary_first.json)
+  - last days [ics](IC_Atlantic_Canary_last.ics) [json](IC_Atlantic_Canary_last.json)
+- Islas Canarias El Hierro @ Atlantic/Canary
+  - first days [ics](IC-EH_Atlantic_Canary_first.ics) [json](IC-EH_Atlantic_Canary_first.json)
+  - last days [ics](IC-EH_Atlantic_Canary_last.ics) [json](IC-EH_Atlantic_Canary_last.json)
+- Islas Canarias Fuerteventura @ Atlantic/Canary
+  - first days [ics](IC-FU_Atlantic_Canary_first.ics) [json](IC-FU_Atlantic_Canary_first.json)
+  - last days [ics](IC-FU_Atlantic_Canary_last.ics) [json](IC-FU_Atlantic_Canary_last.json)
+- Islas Canarias Gran Canaria @ Atlantic/Canary
+  - first days [ics](IC-GC_Atlantic_Canary_first.ics) [json](IC-GC_Atlantic_Canary_first.json)
+  - last days [ics](IC-GC_Atlantic_Canary_last.ics) [json](IC-GC_Atlantic_Canary_last.json)
+- Islas Canarias La Gomera @ Atlantic/Canary
+  - first days [ics](IC-LG_Atlantic_Canary_first.ics) [json](IC-LG_Atlantic_Canary_first.json)
+  - last days [ics](IC-LG_Atlantic_Canary_last.ics) [json](IC-LG_Atlantic_Canary_last.json)
+- Islas Canarias La Palma @ Atlantic/Canary
+  - first days [ics](IC-LP_Atlantic_Canary_first.ics) [json](IC-LP_Atlantic_Canary_first.json)
+  - last days [ics](IC-LP_Atlantic_Canary_last.ics) [json](IC-LP_Atlantic_Canary_last.json)
+- Islas Canarias Lanzarote @ Atlantic/Canary
+  - first days [ics](IC-LA_Atlantic_Canary_first.ics) [json](IC-LA_Atlantic_Canary_first.json)
+  - last days [ics](IC-LA_Atlantic_Canary_last.ics) [json](IC-LA_Atlantic_Canary_last.json)
+- Islas Canarias Tenerife @ Atlantic/Canary
+  - first days [ics](IC-TE_Atlantic_Canary_first.ics) [json](IC-TE_Atlantic_Canary_first.json)
+  - last days [ics](IC-TE_Atlantic_Canary_last.ics) [json](IC-TE_Atlantic_Canary_last.json)
+- Indonesia @ Asia/Jakarta
+  - first days [ics](ID_Asia_Jakarta_first.ics) [json](ID_Asia_Jakarta_first.json)
+  - last days [ics](ID_Asia_Jakarta_last.ics) [json](ID_Asia_Jakarta_last.json)
+- Indonesia @ Asia/Pontianak
+  - first days [ics](ID_Asia_Pontianak_first.ics) [json](ID_Asia_Pontianak_first.json)
+  - last days [ics](ID_Asia_Pontianak_last.ics) [json](ID_Asia_Pontianak_last.json)
+- Indonesia @ Asia/Makassar
+  - first days [ics](ID_Asia_Makassar_first.ics) [json](ID_Asia_Makassar_first.json)
+  - last days [ics](ID_Asia_Makassar_last.ics) [json](ID_Asia_Makassar_last.json)
+- Indonesia @ Asia/Jayapura
+  - first days [ics](ID_Asia_Jayapura_first.ics) [json](ID_Asia_Jayapura_first.json)
+  - last days [ics](ID_Asia_Jayapura_last.ics) [json](ID_Asia_Jayapura_last.json)
+- Ireland @ Europe/Dublin
+  - first days [ics](IE_Europe_Dublin_first.ics) [json](IE_Europe_Dublin_first.json)
+  - last days [ics](IE_Europe_Dublin_last.ics) [json](IE_Europe_Dublin_last.json)
+- מְדִינַת יִשְׂרָאֵל @ Asia/Jerusalem
+  - first days [ics](IL_Asia_Jerusalem_first.ics) [json](IL_Asia_Jerusalem_first.json)
+  - last days [ics](IL_Asia_Jerusalem_last.ics) [json](IL_Asia_Jerusalem_last.json)
+- Isle of Man @ Europe/Isle_of_Man
+  - first days [ics](IM_Europe_Isle_of_Man_first.ics) [json](IM_Europe_Isle_of_Man_first.json)
+  - last days [ics](IM_Europe_Isle_of_Man_last.ics) [json](IM_Europe_Isle_of_Man_last.json)
+- جمهوری اسلامی ایران @ Asia/Tehran
+  - first days [ics](IR_Asia_Tehran_first.ics) [json](IR_Asia_Tehran_first.json)
+  - last days [ics](IR_Asia_Tehran_last.ics) [json](IR_Asia_Tehran_last.json)
+- Ísland @ Atlantic/Reykjavik
+  - first days [ics](IS_Atlantic_Reykjavik_first.ics) [json](IS_Atlantic_Reykjavik_first.json)
+  - last days [ics](IS_Atlantic_Reykjavik_last.ics) [json](IS_Atlantic_Reykjavik_last.json)
+- Italia @ Europe/Rome
+  - first days [ics](IT_Europe_Rome_first.ics) [json](IT_Europe_Rome_first.json)
+  - last days [ics](IT_Europe_Rome_last.ics) [json](IT_Europe_Rome_last.json)
+- Italia Lombardy @ Europe/Rome
+  - first days [ics](IT-25_Europe_Rome_first.ics) [json](IT-25_Europe_Rome_first.json)
+  - last days [ics](IT-25_Europe_Rome_last.ics) [json](IT-25_Europe_Rome_last.json)
+- Italia Lombardy Milan @ Europe/Rome
+  - first days [ics](IT-25-MI_Europe_Rome_first.ics) [json](IT-25-MI_Europe_Rome_first.json)
+  - last days [ics](IT-25-MI_Europe_Rome_last.ics) [json](IT-25-MI_Europe_Rome_last.json)
+- Italia Südtirol, Alto Adige @ Europe/Rome
+  - first days [ics](IT-32_Europe_Rome_first.ics) [json](IT-32_Europe_Rome_first.json)
+  - last days [ics](IT-32_Europe_Rome_last.ics) [json](IT-32_Europe_Rome_last.json)
+- Jersey @ Europe/Jersey
+  - first days [ics](JE_Europe_Jersey_first.ics) [json](JE_Europe_Jersey_first.json)
+  - last days [ics](JE_Europe_Jersey_last.ics) [json](JE_Europe_Jersey_last.json)
+- Jamaica @ America/Jamaica
+  - first days [ics](JM_America_Jamaica_first.ics) [json](JM_America_Jamaica_first.json)
+  - last days [ics](JM_America_Jamaica_last.ics) [json](JM_America_Jamaica_last.json)
+- 日本 @ Asia/Tokyo
+  - first days [ics](JP_Asia_Tokyo_first.ics) [json](JP_Asia_Tokyo_first.json)
+  - last days [ics](JP_Asia_Tokyo_last.ics) [json](JP_Asia_Tokyo_last.json)
+- Kenya @ Africa/Nairobi
+  - first days [ics](KE_Africa_Nairobi_first.ics) [json](KE_Africa_Nairobi_first.json)
+  - last days [ics](KE_Africa_Nairobi_last.ics) [json](KE_Africa_Nairobi_last.json)
+- Union des Comores @ Africa/Nairobi
+  - first days [ics](KM_Africa_Nairobi_first.ics) [json](KM_Africa_Nairobi_first.json)
+  - last days [ics](KM_Africa_Nairobi_last.ics) [json](KM_Africa_Nairobi_last.json)
+- St. Kitts & Nevis @ America/Port_of_Spain
+  - first days [ics](KN_America_Port_of_Spain_first.ics) [json](KN_America_Port_of_Spain_first.json)
+  - last days [ics](KN_America_Port_of_Spain_last.ics) [json](KN_America_Port_of_Spain_last.json)
+- 대한민국 @ Asia/Seoul
+  - first days [ics](KR_Asia_Seoul_first.ics) [json](KR_Asia_Seoul_first.json)
+  - last days [ics](KR_Asia_Seoul_last.ics) [json](KR_Asia_Seoul_last.json)
+- Cayman Islands @ America/Panama
+  - first days [ics](KY_America_Panama_first.ics) [json](KY_America_Panama_first.json)
+  - last days [ics](KY_America_Panama_last.ics) [json](KY_America_Panama_last.json)
+- St. Lucia @ America/Port_of_Spain
+  - first days [ics](LC_America_Port_of_Spain_first.ics) [json](LC_America_Port_of_Spain_first.json)
+  - last days [ics](LC_America_Port_of_Spain_last.ics) [json](LC_America_Port_of_Spain_last.json)
+- Lichtenstein @ Europe/Zurich
+  - first days [ics](LI_Europe_Zurich_first.ics) [json](LI_Europe_Zurich_first.json)
+  - last days [ics](LI_Europe_Zurich_last.ics) [json](LI_Europe_Zurich_last.json)
+- Liberia @ Africa/Monrovia
+  - first days [ics](LR_Africa_Monrovia_first.ics) [json](LR_Africa_Monrovia_first.json)
+  - last days [ics](LR_Africa_Monrovia_last.ics) [json](LR_Africa_Monrovia_last.json)
+- \'Muso oa Lesotho @ Africa/Johannesburg
+  - first days [ics](LS_Africa_Johannesburg_first.ics) [json](LS_Africa_Johannesburg_first.json)
+  - last days [ics](LS_Africa_Johannesburg_last.ics) [json](LS_Africa_Johannesburg_last.json)
+- Lietuva @ Europe/Vilnius
+  - first days [ics](LT_Europe_Vilnius_first.ics) [json](LT_Europe_Vilnius_first.json)
+  - last days [ics](LT_Europe_Vilnius_last.ics) [json](LT_Europe_Vilnius_last.json)
+- Luxembourg @ Europe/Luxembourg
+  - first days [ics](LU_Europe_Luxembourg_first.ics) [json](LU_Europe_Luxembourg_first.json)
+  - last days [ics](LU_Europe_Luxembourg_last.ics) [json](LU_Europe_Luxembourg_last.json)
+- Latvija @ Europe/Riga
+  - first days [ics](LV_Europe_Riga_first.ics) [json](LV_Europe_Riga_first.json)
+  - last days [ics](LV_Europe_Riga_last.ics) [json](LV_Europe_Riga_last.json)
+- دولة ليبيا @ Africa/Tripoli
+  - first days [ics](LY_Africa_Tripoli_first.ics) [json](LY_Africa_Tripoli_first.json)
+  - last days [ics](LY_Africa_Tripoli_last.ics) [json](LY_Africa_Tripoli_last.json)
+- المملكة المغربية @ Africa/Casablanca
+  - first days [ics](MA_Africa_Casablanca_first.ics) [json](MA_Africa_Casablanca_first.json)
+  - last days [ics](MA_Africa_Casablanca_last.ics) [json](MA_Africa_Casablanca_last.json)
+- Monaco @ Europe/Monaco
+  - first days [ics](MC_Europe_Monaco_first.ics) [json](MC_Europe_Monaco_first.json)
+  - last days [ics](MC_Europe_Monaco_last.ics) [json](MC_Europe_Monaco_last.json)
+- Republica Moldova @ Europe/Chisinau
+  - first days [ics](MD_Europe_Chisinau_first.ics) [json](MD_Europe_Chisinau_first.json)
+  - last days [ics](MD_Europe_Chisinau_last.ics) [json](MD_Europe_Chisinau_last.json)
+- Republica Moldova Cahul @ Europe/Chisinau
+  - first days [ics](MD-CA_Europe_Chisinau_first.ics) [json](MD-CA_Europe_Chisinau_first.json)
+  - last days [ics](MD-CA_Europe_Chisinau_last.ics) [json](MD-CA_Europe_Chisinau_last.json)
+- Republica Moldova Chișinău @ Europe/Chisinau
+  - first days [ics](MD-CU_Europe_Chisinau_first.ics) [json](MD-CU_Europe_Chisinau_first.json)
+  - last days [ics](MD-CU_Europe_Chisinau_last.ics) [json](MD-CU_Europe_Chisinau_last.json)
+- Crna Gora @ Europe/Belgrade
+  - first days [ics](ME_Europe_Belgrade_first.ics) [json](ME_Europe_Belgrade_first.json)
+  - last days [ics](ME_Europe_Belgrade_last.ics) [json](ME_Europe_Belgrade_last.json)
+- Saint Martin @ America/Marigot
+  - first days [ics](MF_America_Marigot_first.ics) [json](MF_America_Marigot_first.json)
+  - last days [ics](MF_America_Marigot_last.ics) [json](MF_America_Marigot_last.json)
+- Repoblikan'i Madagasikara @ Africa/Nairobi
+  - first days [ics](MG_Africa_Nairobi_first.ics) [json](MG_Africa_Nairobi_first.json)
+  - last days [ics](MG_Africa_Nairobi_last.ics) [json](MG_Africa_Nairobi_last.json)
+- Република Македонија @ Europe/Belgrade
+  - first days [ics](MK_Europe_Belgrade_first.ics) [json](MK_Europe_Belgrade_first.json)
+  - last days [ics](MK_Europe_Belgrade_last.ics) [json](MK_Europe_Belgrade_last.json)
+- République du Mali @ Africa/Abidjan
+  - first days [ics](ML_Africa_Abidjan_first.ics) [json](ML_Africa_Abidjan_first.json)
+  - last days [ics](ML_Africa_Abidjan_last.ics) [json](ML_Africa_Abidjan_last.json)
+- Martinique @ America/Martinique
+  - first days [ics](MQ_America_Martinique_first.ics) [json](MQ_America_Martinique_first.json)
+  - last days [ics](MQ_America_Martinique_last.ics) [json](MQ_America_Martinique_last.json)
+- الجمهورية الإسلامية الموريتانية @ Africa/Abidjan
+  - first days [ics](MR_Africa_Abidjan_first.ics) [json](MR_Africa_Abidjan_first.json)
+  - last days [ics](MR_Africa_Abidjan_last.ics) [json](MR_Africa_Abidjan_last.json)
+- Montserrat @ America/Port_of_Spain
+  - first days [ics](MS_America_Port_of_Spain_first.ics) [json](MS_America_Port_of_Spain_first.json)
+  - last days [ics](MS_America_Port_of_Spain_last.ics) [json](MS_America_Port_of_Spain_last.json)
+- Malta @ Europe/Malta
+  - first days [ics](MT_Europe_Malta_first.ics) [json](MT_Europe_Malta_first.json)
+  - last days [ics](MT_Europe_Malta_last.ics) [json](MT_Europe_Malta_last.json)
+- Malawi @ Africa/Maputo
+  - first days [ics](MW_Africa_Maputo_first.ics) [json](MW_Africa_Maputo_first.json)
+  - last days [ics](MW_Africa_Maputo_last.ics) [json](MW_Africa_Maputo_last.json)
+- México @ America/Mexico_City
+  - first days [ics](MX_America_Mexico_City_first.ics) [json](MX_America_Mexico_City_first.json)
+  - last days [ics](MX_America_Mexico_City_last.ics) [json](MX_America_Mexico_City_last.json)
+- México @ America/Cancun
+  - first days [ics](MX_America_Cancun_first.ics) [json](MX_America_Cancun_first.json)
+  - last days [ics](MX_America_Cancun_last.ics) [json](MX_America_Cancun_last.json)
+- México @ America/Merida
+  - first days [ics](MX_America_Merida_first.ics) [json](MX_America_Merida_first.json)
+  - last days [ics](MX_America_Merida_last.ics) [json](MX_America_Merida_last.json)
+- México @ America/Monterrey
+  - first days [ics](MX_America_Monterrey_first.ics) [json](MX_America_Monterrey_first.json)
+  - last days [ics](MX_America_Monterrey_last.ics) [json](MX_America_Monterrey_last.json)
+- México @ America/Matamoros
+  - first days [ics](MX_America_Matamoros_first.ics) [json](MX_America_Matamoros_first.json)
+  - last days [ics](MX_America_Matamoros_last.ics) [json](MX_America_Matamoros_last.json)
+- México @ America/Mazatlan
+  - first days [ics](MX_America_Mazatlan_first.ics) [json](MX_America_Mazatlan_first.json)
+  - last days [ics](MX_America_Mazatlan_last.ics) [json](MX_America_Mazatlan_last.json)
+- México @ America/Chihuahua
+  - first days [ics](MX_America_Chihuahua_first.ics) [json](MX_America_Chihuahua_first.json)
+  - last days [ics](MX_America_Chihuahua_last.ics) [json](MX_America_Chihuahua_last.json)
+- México @ America/Ojinaga
+  - first days [ics](MX_America_Ojinaga_first.ics) [json](MX_America_Ojinaga_first.json)
+  - last days [ics](MX_America_Ojinaga_last.ics) [json](MX_America_Ojinaga_last.json)
+- México @ America/Hermosillo
+  - first days [ics](MX_America_Hermosillo_first.ics) [json](MX_America_Hermosillo_first.json)
+  - last days [ics](MX_America_Hermosillo_last.ics) [json](MX_America_Hermosillo_last.json)
+- México @ America/Tijuana
+  - first days [ics](MX_America_Tijuana_first.ics) [json](MX_America_Tijuana_first.json)
+  - last days [ics](MX_America_Tijuana_last.ics) [json](MX_America_Tijuana_last.json)
+- México @ America/Santa_Isabel
+  - first days [ics](MX_America_Santa_Isabel_first.ics) [json](MX_America_Santa_Isabel_first.json)
+  - last days [ics](MX_America_Santa_Isabel_last.ics) [json](MX_America_Santa_Isabel_last.json)
+- México @ America/Bahia_Banderas
+  - first days [ics](MX_America_Bahia_Banderas_first.ics) [json](MX_America_Bahia_Banderas_first.json)
+  - last days [ics](MX_America_Bahia_Banderas_last.ics) [json](MX_America_Bahia_Banderas_last.json)
+- Malaysia @ Asia/Kuala_Lumpur
+  - first days [ics](MY_Asia_Kuala_Lumpur_first.ics) [json](MY_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY_Asia_Kuala_Lumpur_last.ics) [json](MY_Asia_Kuala_Lumpur_last.json)
+- Malaysia @ Asia/Kuching
+  - first days [ics](MY_Asia_Kuching_first.ics) [json](MY_Asia_Kuching_first.json)
+  - last days [ics](MY_Asia_Kuching_last.ics) [json](MY_Asia_Kuching_last.json)
+- Malaysia Selangor @ Asia/Kuala_Lumpur
+  - first days [ics](MY-10_Asia_Kuala_Lumpur_first.ics) [json](MY-10_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-10_Asia_Kuala_Lumpur_last.ics) [json](MY-10_Asia_Kuala_Lumpur_last.json)
+- Malaysia Selangor @ Asia/Kuching
+  - first days [ics](MY-10_Asia_Kuching_first.ics) [json](MY-10_Asia_Kuching_first.json)
+  - last days [ics](MY-10_Asia_Kuching_last.ics) [json](MY-10_Asia_Kuching_last.json)
+- Malaysia Terengganu @ Asia/Kuala_Lumpur
+  - first days [ics](MY-11_Asia_Kuala_Lumpur_first.ics) [json](MY-11_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-11_Asia_Kuala_Lumpur_last.ics) [json](MY-11_Asia_Kuala_Lumpur_last.json)
+- Malaysia Terengganu @ Asia/Kuching
+  - first days [ics](MY-11_Asia_Kuching_first.ics) [json](MY-11_Asia_Kuching_first.json)
+  - last days [ics](MY-11_Asia_Kuching_last.ics) [json](MY-11_Asia_Kuching_last.json)
+- Malaysia Sabah @ Asia/Kuala_Lumpur
+  - first days [ics](MY-12_Asia_Kuala_Lumpur_first.ics) [json](MY-12_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-12_Asia_Kuala_Lumpur_last.ics) [json](MY-12_Asia_Kuala_Lumpur_last.json)
+- Malaysia Sabah @ Asia/Kuching
+  - first days [ics](MY-12_Asia_Kuching_first.ics) [json](MY-12_Asia_Kuching_first.json)
+  - last days [ics](MY-12_Asia_Kuching_last.ics) [json](MY-12_Asia_Kuching_last.json)
+- Malaysia Sarawak @ Asia/Kuala_Lumpur
+  - first days [ics](MY-13_Asia_Kuala_Lumpur_first.ics) [json](MY-13_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-13_Asia_Kuala_Lumpur_last.ics) [json](MY-13_Asia_Kuala_Lumpur_last.json)
+- Malaysia Sarawak @ Asia/Kuching
+  - first days [ics](MY-13_Asia_Kuching_first.ics) [json](MY-13_Asia_Kuching_first.json)
+  - last days [ics](MY-13_Asia_Kuching_last.ics) [json](MY-13_Asia_Kuching_last.json)
+- Malaysia Kuala Lumpur @ Asia/Kuala_Lumpur
+  - first days [ics](MY-14_Asia_Kuala_Lumpur_first.ics) [json](MY-14_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-14_Asia_Kuala_Lumpur_last.ics) [json](MY-14_Asia_Kuala_Lumpur_last.json)
+- Malaysia Kuala Lumpur @ Asia/Kuching
+  - first days [ics](MY-14_Asia_Kuching_first.ics) [json](MY-14_Asia_Kuching_first.json)
+  - last days [ics](MY-14_Asia_Kuching_last.ics) [json](MY-14_Asia_Kuching_last.json)
+- Malaysia Labuan @ Asia/Kuala_Lumpur
+  - first days [ics](MY-15_Asia_Kuala_Lumpur_first.ics) [json](MY-15_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-15_Asia_Kuala_Lumpur_last.ics) [json](MY-15_Asia_Kuala_Lumpur_last.json)
+- Malaysia Labuan @ Asia/Kuching
+  - first days [ics](MY-15_Asia_Kuching_first.ics) [json](MY-15_Asia_Kuching_first.json)
+  - last days [ics](MY-15_Asia_Kuching_last.ics) [json](MY-15_Asia_Kuching_last.json)
+- Malaysia Putrajaya @ Asia/Kuala_Lumpur
+  - first days [ics](MY-16_Asia_Kuala_Lumpur_first.ics) [json](MY-16_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-16_Asia_Kuala_Lumpur_last.ics) [json](MY-16_Asia_Kuala_Lumpur_last.json)
+- Malaysia Putrajaya @ Asia/Kuching
+  - first days [ics](MY-16_Asia_Kuching_first.ics) [json](MY-16_Asia_Kuching_first.json)
+  - last days [ics](MY-16_Asia_Kuching_last.ics) [json](MY-16_Asia_Kuching_last.json)
+- Malaysia Johor @ Asia/Kuala_Lumpur
+  - first days [ics](MY-01_Asia_Kuala_Lumpur_first.ics) [json](MY-01_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-01_Asia_Kuala_Lumpur_last.ics) [json](MY-01_Asia_Kuala_Lumpur_last.json)
+- Malaysia Johor @ Asia/Kuching
+  - first days [ics](MY-01_Asia_Kuching_first.ics) [json](MY-01_Asia_Kuching_first.json)
+  - last days [ics](MY-01_Asia_Kuching_last.ics) [json](MY-01_Asia_Kuching_last.json)
+- Malaysia Kedah @ Asia/Kuala_Lumpur
+  - first days [ics](MY-02_Asia_Kuala_Lumpur_first.ics) [json](MY-02_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-02_Asia_Kuala_Lumpur_last.ics) [json](MY-02_Asia_Kuala_Lumpur_last.json)
+- Malaysia Kedah @ Asia/Kuching
+  - first days [ics](MY-02_Asia_Kuching_first.ics) [json](MY-02_Asia_Kuching_first.json)
+  - last days [ics](MY-02_Asia_Kuching_last.ics) [json](MY-02_Asia_Kuching_last.json)
+- Malaysia Kelantan @ Asia/Kuala_Lumpur
+  - first days [ics](MY-03_Asia_Kuala_Lumpur_first.ics) [json](MY-03_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-03_Asia_Kuala_Lumpur_last.ics) [json](MY-03_Asia_Kuala_Lumpur_last.json)
+- Malaysia Kelantan @ Asia/Kuching
+  - first days [ics](MY-03_Asia_Kuching_first.ics) [json](MY-03_Asia_Kuching_first.json)
+  - last days [ics](MY-03_Asia_Kuching_last.ics) [json](MY-03_Asia_Kuching_last.json)
+- Malaysia Malacca @ Asia/Kuala_Lumpur
+  - first days [ics](MY-04_Asia_Kuala_Lumpur_first.ics) [json](MY-04_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-04_Asia_Kuala_Lumpur_last.ics) [json](MY-04_Asia_Kuala_Lumpur_last.json)
+- Malaysia Malacca @ Asia/Kuching
+  - first days [ics](MY-04_Asia_Kuching_first.ics) [json](MY-04_Asia_Kuching_first.json)
+  - last days [ics](MY-04_Asia_Kuching_last.ics) [json](MY-04_Asia_Kuching_last.json)
+- Malaysia Negeri Sembilan @ Asia/Kuala_Lumpur
+  - first days [ics](MY-05_Asia_Kuala_Lumpur_first.ics) [json](MY-05_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-05_Asia_Kuala_Lumpur_last.ics) [json](MY-05_Asia_Kuala_Lumpur_last.json)
+- Malaysia Negeri Sembilan @ Asia/Kuching
+  - first days [ics](MY-05_Asia_Kuching_first.ics) [json](MY-05_Asia_Kuching_first.json)
+  - last days [ics](MY-05_Asia_Kuching_last.ics) [json](MY-05_Asia_Kuching_last.json)
+- Malaysia Pahang @ Asia/Kuala_Lumpur
+  - first days [ics](MY-06_Asia_Kuala_Lumpur_first.ics) [json](MY-06_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-06_Asia_Kuala_Lumpur_last.ics) [json](MY-06_Asia_Kuala_Lumpur_last.json)
+- Malaysia Pahang @ Asia/Kuching
+  - first days [ics](MY-06_Asia_Kuching_first.ics) [json](MY-06_Asia_Kuching_first.json)
+  - last days [ics](MY-06_Asia_Kuching_last.ics) [json](MY-06_Asia_Kuching_last.json)
+- Malaysia Penang @ Asia/Kuala_Lumpur
+  - first days [ics](MY-07_Asia_Kuala_Lumpur_first.ics) [json](MY-07_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-07_Asia_Kuala_Lumpur_last.ics) [json](MY-07_Asia_Kuala_Lumpur_last.json)
+- Malaysia Penang @ Asia/Kuching
+  - first days [ics](MY-07_Asia_Kuching_first.ics) [json](MY-07_Asia_Kuching_first.json)
+  - last days [ics](MY-07_Asia_Kuching_last.ics) [json](MY-07_Asia_Kuching_last.json)
+- Malaysia Perak @ Asia/Kuala_Lumpur
+  - first days [ics](MY-08_Asia_Kuala_Lumpur_first.ics) [json](MY-08_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-08_Asia_Kuala_Lumpur_last.ics) [json](MY-08_Asia_Kuala_Lumpur_last.json)
+- Malaysia Perak @ Asia/Kuching
+  - first days [ics](MY-08_Asia_Kuching_first.ics) [json](MY-08_Asia_Kuching_first.json)
+  - last days [ics](MY-08_Asia_Kuching_last.ics) [json](MY-08_Asia_Kuching_last.json)
+- Malaysia Perlis @ Asia/Kuala_Lumpur
+  - first days [ics](MY-09_Asia_Kuala_Lumpur_first.ics) [json](MY-09_Asia_Kuala_Lumpur_first.json)
+  - last days [ics](MY-09_Asia_Kuala_Lumpur_last.ics) [json](MY-09_Asia_Kuala_Lumpur_last.json)
+- Malaysia Perlis @ Asia/Kuching
+  - first days [ics](MY-09_Asia_Kuching_first.ics) [json](MY-09_Asia_Kuching_first.json)
+  - last days [ics](MY-09_Asia_Kuching_last.ics) [json](MY-09_Asia_Kuching_last.json)
+- Moçambique @ Africa/Maputo
+  - first days [ics](MZ_Africa_Maputo_first.ics) [json](MZ_Africa_Maputo_first.json)
+  - last days [ics](MZ_Africa_Maputo_last.ics) [json](MZ_Africa_Maputo_last.json)
+- Namibia @ Africa/Windhoek
+  - first days [ics](NA_Africa_Windhoek_first.ics) [json](NA_Africa_Windhoek_first.json)
+  - last days [ics](NA_Africa_Windhoek_last.ics) [json](NA_Africa_Windhoek_last.json)
+- Nouvelle-Calédonie @ Pacific/Noumea
+  - first days [ics](NC_Pacific_Noumea_first.ics) [json](NC_Pacific_Noumea_first.json)
+  - last days [ics](NC_Pacific_Noumea_last.ics) [json](NC_Pacific_Noumea_last.json)
+- République du Niger @ Africa/Lagos
+  - first days [ics](NE_Africa_Lagos_first.ics) [json](NE_Africa_Lagos_first.json)
+  - last days [ics](NE_Africa_Lagos_last.ics) [json](NE_Africa_Lagos_last.json)
+- Nigeria @ Africa/Lagos
+  - first days [ics](NG_Africa_Lagos_first.ics) [json](NG_Africa_Lagos_first.json)
+  - last days [ics](NG_Africa_Lagos_last.ics) [json](NG_Africa_Lagos_last.json)
+- Nicaragua @ America/Managua
+  - first days [ics](NI_America_Managua_first.ics) [json](NI_America_Managua_first.json)
+  - last days [ics](NI_America_Managua_last.ics) [json](NI_America_Managua_last.json)
+- Nederland @ Europe/Amsterdam
+  - first days [ics](NL_Europe_Amsterdam_first.ics) [json](NL_Europe_Amsterdam_first.json)
+  - last days [ics](NL_Europe_Amsterdam_last.ics) [json](NL_Europe_Amsterdam_last.json)
+- Norge @ Europe/Oslo
+  - first days [ics](NO_Europe_Oslo_first.ics) [json](NO_Europe_Oslo_first.json)
+  - last days [ics](NO_Europe_Oslo_last.ics) [json](NO_Europe_Oslo_last.json)
+- New Zealand @ Pacific/Auckland
+  - first days [ics](NZ_Pacific_Auckland_first.ics) [json](NZ_Pacific_Auckland_first.json)
+  - last days [ics](NZ_Pacific_Auckland_last.ics) [json](NZ_Pacific_Auckland_last.json)
+- New Zealand @ Pacific/Chatham
+  - first days [ics](NZ_Pacific_Chatham_first.ics) [json](NZ_Pacific_Chatham_first.json)
+  - last days [ics](NZ_Pacific_Chatham_last.ics) [json](NZ_Pacific_Chatham_last.json)
+- New Zealand Auckland Province @ Pacific/Auckland
+  - first days [ics](NZ-AUK_Pacific_Auckland_first.ics) [json](NZ-AUK_Pacific_Auckland_first.json)
+  - last days [ics](NZ-AUK_Pacific_Auckland_last.ics) [json](NZ-AUK_Pacific_Auckland_last.json)
+- New Zealand Auckland Province @ Pacific/Chatham
+  - first days [ics](NZ-AUK_Pacific_Chatham_first.ics) [json](NZ-AUK_Pacific_Chatham_first.json)
+  - last days [ics](NZ-AUK_Pacific_Chatham_last.ics) [json](NZ-AUK_Pacific_Chatham_last.json)
+- New Zealand Bay of Plenty @ Pacific/Auckland
+  - first days [ics](NZ-BOP_Pacific_Auckland_first.ics) [json](NZ-BOP_Pacific_Auckland_first.json)
+  - last days [ics](NZ-BOP_Pacific_Auckland_last.ics) [json](NZ-BOP_Pacific_Auckland_last.json)
+- New Zealand Bay of Plenty @ Pacific/Chatham
+  - first days [ics](NZ-BOP_Pacific_Chatham_first.ics) [json](NZ-BOP_Pacific_Chatham_first.json)
+  - last days [ics](NZ-BOP_Pacific_Chatham_last.ics) [json](NZ-BOP_Pacific_Chatham_last.json)
+- New Zealand Canterbury @ Pacific/Auckland
+  - first days [ics](NZ-CAN_Pacific_Auckland_first.ics) [json](NZ-CAN_Pacific_Auckland_first.json)
+  - last days [ics](NZ-CAN_Pacific_Auckland_last.ics) [json](NZ-CAN_Pacific_Auckland_last.json)
+- New Zealand Canterbury @ Pacific/Chatham
+  - first days [ics](NZ-CAN_Pacific_Chatham_first.ics) [json](NZ-CAN_Pacific_Chatham_first.json)
+  - last days [ics](NZ-CAN_Pacific_Chatham_last.ics) [json](NZ-CAN_Pacific_Chatham_last.json)
+- New Zealand Canterbury Timaru District @ Pacific/Auckland
+  - first days [ics](NZ-CAN-Timaru_Pacific_Auckland_first.ics) [json](NZ-CAN-Timaru_Pacific_Auckland_first.json)
+  - last days [ics](NZ-CAN-Timaru_Pacific_Auckland_last.ics) [json](NZ-CAN-Timaru_Pacific_Auckland_last.json)
+- New Zealand Canterbury Timaru District @ Pacific/Chatham
+  - first days [ics](NZ-CAN-Timaru_Pacific_Chatham_first.ics) [json](NZ-CAN-Timaru_Pacific_Chatham_first.json)
+  - last days [ics](NZ-CAN-Timaru_Pacific_Chatham_last.ics) [json](NZ-CAN-Timaru_Pacific_Chatham_last.json)
+- New Zealand Chatham Islands @ Pacific/Auckland
+  - first days [ics](NZ-CIT_Pacific_Auckland_first.ics) [json](NZ-CIT_Pacific_Auckland_first.json)
+  - last days [ics](NZ-CIT_Pacific_Auckland_last.ics) [json](NZ-CIT_Pacific_Auckland_last.json)
+- New Zealand Chatham Islands @ Pacific/Chatham
+  - first days [ics](NZ-CIT_Pacific_Chatham_first.ics) [json](NZ-CIT_Pacific_Chatham_first.json)
+  - last days [ics](NZ-CIT_Pacific_Chatham_last.ics) [json](NZ-CIT_Pacific_Chatham_last.json)
+- New Zealand Gisborne @ Pacific/Auckland
+  - first days [ics](NZ-GIS_Pacific_Auckland_first.ics) [json](NZ-GIS_Pacific_Auckland_first.json)
+  - last days [ics](NZ-GIS_Pacific_Auckland_last.ics) [json](NZ-GIS_Pacific_Auckland_last.json)
+- New Zealand Gisborne @ Pacific/Chatham
+  - first days [ics](NZ-GIS_Pacific_Chatham_first.ics) [json](NZ-GIS_Pacific_Chatham_first.json)
+  - last days [ics](NZ-GIS_Pacific_Chatham_last.ics) [json](NZ-GIS_Pacific_Chatham_last.json)
+- New Zealand Hawke's Bay @ Pacific/Auckland
+  - first days [ics](NZ-HKB_Pacific_Auckland_first.ics) [json](NZ-HKB_Pacific_Auckland_first.json)
+  - last days [ics](NZ-HKB_Pacific_Auckland_last.ics) [json](NZ-HKB_Pacific_Auckland_last.json)
+- New Zealand Hawke's Bay @ Pacific/Chatham
+  - first days [ics](NZ-HKB_Pacific_Chatham_first.ics) [json](NZ-HKB_Pacific_Chatham_first.json)
+  - last days [ics](NZ-HKB_Pacific_Chatham_last.ics) [json](NZ-HKB_Pacific_Chatham_last.json)
+- New Zealand Marlborough @ Pacific/Auckland
+  - first days [ics](NZ-MBH_Pacific_Auckland_first.ics) [json](NZ-MBH_Pacific_Auckland_first.json)
+  - last days [ics](NZ-MBH_Pacific_Auckland_last.ics) [json](NZ-MBH_Pacific_Auckland_last.json)
+- New Zealand Marlborough @ Pacific/Chatham
+  - first days [ics](NZ-MBH_Pacific_Chatham_first.ics) [json](NZ-MBH_Pacific_Chatham_first.json)
+  - last days [ics](NZ-MBH_Pacific_Chatham_last.ics) [json](NZ-MBH_Pacific_Chatham_last.json)
+- New Zealand Manawatu-Wanganui @ Pacific/Auckland
+  - first days [ics](NZ-MWT_Pacific_Auckland_first.ics) [json](NZ-MWT_Pacific_Auckland_first.json)
+  - last days [ics](NZ-MWT_Pacific_Auckland_last.ics) [json](NZ-MWT_Pacific_Auckland_last.json)
+- New Zealand Manawatu-Wanganui @ Pacific/Chatham
+  - first days [ics](NZ-MWT_Pacific_Chatham_first.ics) [json](NZ-MWT_Pacific_Chatham_first.json)
+  - last days [ics](NZ-MWT_Pacific_Chatham_last.ics) [json](NZ-MWT_Pacific_Chatham_last.json)
+- New Zealand Nelson @ Pacific/Auckland
+  - first days [ics](NZ-NSN_Pacific_Auckland_first.ics) [json](NZ-NSN_Pacific_Auckland_first.json)
+  - last days [ics](NZ-NSN_Pacific_Auckland_last.ics) [json](NZ-NSN_Pacific_Auckland_last.json)
+- New Zealand Nelson @ Pacific/Chatham
+  - first days [ics](NZ-NSN_Pacific_Chatham_first.ics) [json](NZ-NSN_Pacific_Chatham_first.json)
+  - last days [ics](NZ-NSN_Pacific_Chatham_last.ics) [json](NZ-NSN_Pacific_Chatham_last.json)
+- New Zealand Northland @ Pacific/Auckland
+  - first days [ics](NZ-NTL_Pacific_Auckland_first.ics) [json](NZ-NTL_Pacific_Auckland_first.json)
+  - last days [ics](NZ-NTL_Pacific_Auckland_last.ics) [json](NZ-NTL_Pacific_Auckland_last.json)
+- New Zealand Northland @ Pacific/Chatham
+  - first days [ics](NZ-NTL_Pacific_Chatham_first.ics) [json](NZ-NTL_Pacific_Chatham_first.json)
+  - last days [ics](NZ-NTL_Pacific_Chatham_last.ics) [json](NZ-NTL_Pacific_Chatham_last.json)
+- New Zealand Otago Province @ Pacific/Auckland
+  - first days [ics](NZ-OTA_Pacific_Auckland_first.ics) [json](NZ-OTA_Pacific_Auckland_first.json)
+  - last days [ics](NZ-OTA_Pacific_Auckland_last.ics) [json](NZ-OTA_Pacific_Auckland_last.json)
+- New Zealand Otago Province @ Pacific/Chatham
+  - first days [ics](NZ-OTA_Pacific_Chatham_first.ics) [json](NZ-OTA_Pacific_Chatham_first.json)
+  - last days [ics](NZ-OTA_Pacific_Chatham_last.ics) [json](NZ-OTA_Pacific_Chatham_last.json)
+- New Zealand Southland @ Pacific/Auckland
+  - first days [ics](NZ-STL_Pacific_Auckland_first.ics) [json](NZ-STL_Pacific_Auckland_first.json)
+  - last days [ics](NZ-STL_Pacific_Auckland_last.ics) [json](NZ-STL_Pacific_Auckland_last.json)
+- New Zealand Southland @ Pacific/Chatham
+  - first days [ics](NZ-STL_Pacific_Chatham_first.ics) [json](NZ-STL_Pacific_Chatham_first.json)
+  - last days [ics](NZ-STL_Pacific_Chatham_last.ics) [json](NZ-STL_Pacific_Chatham_last.json)
+- New Zealand Tasman @ Pacific/Auckland
+  - first days [ics](NZ-TAS_Pacific_Auckland_first.ics) [json](NZ-TAS_Pacific_Auckland_first.json)
+  - last days [ics](NZ-TAS_Pacific_Auckland_last.ics) [json](NZ-TAS_Pacific_Auckland_last.json)
+- New Zealand Tasman @ Pacific/Chatham
+  - first days [ics](NZ-TAS_Pacific_Chatham_first.ics) [json](NZ-TAS_Pacific_Chatham_first.json)
+  - last days [ics](NZ-TAS_Pacific_Chatham_last.ics) [json](NZ-TAS_Pacific_Chatham_last.json)
+- New Zealand Taranaki @ Pacific/Auckland
+  - first days [ics](NZ-TKI_Pacific_Auckland_first.ics) [json](NZ-TKI_Pacific_Auckland_first.json)
+  - last days [ics](NZ-TKI_Pacific_Auckland_last.ics) [json](NZ-TKI_Pacific_Auckland_last.json)
+- New Zealand Taranaki @ Pacific/Chatham
+  - first days [ics](NZ-TKI_Pacific_Chatham_first.ics) [json](NZ-TKI_Pacific_Chatham_first.json)
+  - last days [ics](NZ-TKI_Pacific_Chatham_last.ics) [json](NZ-TKI_Pacific_Chatham_last.json)
+- New Zealand Waikato @ Pacific/Auckland
+  - first days [ics](NZ-WKO_Pacific_Auckland_first.ics) [json](NZ-WKO_Pacific_Auckland_first.json)
+  - last days [ics](NZ-WKO_Pacific_Auckland_last.ics) [json](NZ-WKO_Pacific_Auckland_last.json)
+- New Zealand Waikato @ Pacific/Chatham
+  - first days [ics](NZ-WKO_Pacific_Chatham_first.ics) [json](NZ-WKO_Pacific_Chatham_first.json)
+  - last days [ics](NZ-WKO_Pacific_Chatham_last.ics) [json](NZ-WKO_Pacific_Chatham_last.json)
+- New Zealand Wellington Province @ Pacific/Auckland
+  - first days [ics](NZ-WGN_Pacific_Auckland_first.ics) [json](NZ-WGN_Pacific_Auckland_first.json)
+  - last days [ics](NZ-WGN_Pacific_Auckland_last.ics) [json](NZ-WGN_Pacific_Auckland_last.json)
+- New Zealand Wellington Province @ Pacific/Chatham
+  - first days [ics](NZ-WGN_Pacific_Chatham_first.ics) [json](NZ-WGN_Pacific_Chatham_first.json)
+  - last days [ics](NZ-WGN_Pacific_Chatham_last.ics) [json](NZ-WGN_Pacific_Chatham_last.json)
+- New Zealand Westland @ Pacific/Auckland
+  - first days [ics](NZ-WTC_Pacific_Auckland_first.ics) [json](NZ-WTC_Pacific_Auckland_first.json)
+  - last days [ics](NZ-WTC_Pacific_Auckland_last.ics) [json](NZ-WTC_Pacific_Auckland_last.json)
+- New Zealand Westland @ Pacific/Chatham
+  - first days [ics](NZ-WTC_Pacific_Chatham_first.ics) [json](NZ-WTC_Pacific_Chatham_first.json)
+  - last days [ics](NZ-WTC_Pacific_Chatham_last.ics) [json](NZ-WTC_Pacific_Chatham_last.json)
+- New Zealand Westland Buller district @ Pacific/Auckland
+  - first days [ics](NZ-WTC-Buller_Pacific_Auckland_first.ics) [json](NZ-WTC-Buller_Pacific_Auckland_first.json)
+  - last days [ics](NZ-WTC-Buller_Pacific_Auckland_last.ics) [json](NZ-WTC-Buller_Pacific_Auckland_last.json)
+- New Zealand Westland Buller district @ Pacific/Chatham
+  - first days [ics](NZ-WTC-Buller_Pacific_Chatham_first.ics) [json](NZ-WTC-Buller_Pacific_Chatham_first.json)
+  - last days [ics](NZ-WTC-Buller_Pacific_Chatham_last.ics) [json](NZ-WTC-Buller_Pacific_Chatham_last.json)
+- Panamá @ America/Panama
+  - first days [ics](PA_America_Panama_first.ics) [json](PA_America_Panama_first.json)
+  - last days [ics](PA_America_Panama_last.ics) [json](PA_America_Panama_last.json)
+- Perú @ America/Lima
+  - first days [ics](PE_America_Lima_first.ics) [json](PE_America_Lima_first.json)
+  - last days [ics](PE_America_Lima_last.ics) [json](PE_America_Lima_last.json)
+- Perú Cuzco @ America/Lima
+  - first days [ics](PE-CUS_America_Lima_first.ics) [json](PE-CUS_America_Lima_first.json)
+  - last days [ics](PE-CUS_America_Lima_last.ics) [json](PE-CUS_America_Lima_last.json)
+- Philippines @ Asia/Manila
+  - first days [ics](PH_Asia_Manila_first.ics) [json](PH_Asia_Manila_first.json)
+  - last days [ics](PH_Asia_Manila_last.ics) [json](PH_Asia_Manila_last.json)
+- Polska @ Europe/Warsaw
+  - first days [ics](PL_Europe_Warsaw_first.ics) [json](PL_Europe_Warsaw_first.json)
+  - last days [ics](PL_Europe_Warsaw_last.ics) [json](PL_Europe_Warsaw_last.json)
+- St. Pierre & Miquelon @ America/Miquelon
+  - first days [ics](PM_America_Miquelon_first.ics) [json](PM_America_Miquelon_first.json)
+  - last days [ics](PM_America_Miquelon_last.ics) [json](PM_America_Miquelon_last.json)
+- Puerto Rico @ America/Puerto_Rico
+  - first days [ics](PR_America_Puerto_Rico_first.ics) [json](PR_America_Puerto_Rico_first.json)
+  - last days [ics](PR_America_Puerto_Rico_last.ics) [json](PR_America_Puerto_Rico_last.json)
+- Portugal @ Europe/Lisbon
+  - first days [ics](PT_Europe_Lisbon_first.ics) [json](PT_Europe_Lisbon_first.json)
+  - last days [ics](PT_Europe_Lisbon_last.ics) [json](PT_Europe_Lisbon_last.json)
+- Portugal @ Atlantic/Madeira
+  - first days [ics](PT_Atlantic_Madeira_first.ics) [json](PT_Atlantic_Madeira_first.json)
+  - last days [ics](PT_Atlantic_Madeira_last.ics) [json](PT_Atlantic_Madeira_last.json)
+- Portugal @ Atlantic/Azores
+  - first days [ics](PT_Atlantic_Azores_first.ics) [json](PT_Atlantic_Azores_first.json)
+  - last days [ics](PT_Atlantic_Azores_last.ics) [json](PT_Atlantic_Azores_last.json)
+- Paraguay @ America/Asuncion
+  - first days [ics](PY_America_Asuncion_first.ics) [json](PY_America_Asuncion_first.json)
+  - last days [ics](PY_America_Asuncion_last.ics) [json](PY_America_Asuncion_last.json)
+- Réunion @ Indian/Reunion
+  - first days [ics](RE_Indian_Reunion_first.ics) [json](RE_Indian_Reunion_first.json)
+  - last days [ics](RE_Indian_Reunion_last.ics) [json](RE_Indian_Reunion_last.json)
+- Romania @ Europe/Bucharest
+  - first days [ics](RO_Europe_Bucharest_first.ics) [json](RO_Europe_Bucharest_first.json)
+  - last days [ics](RO_Europe_Bucharest_last.ics) [json](RO_Europe_Bucharest_last.json)
+- Република Србија @ Europe/Belgrade
+  - first days [ics](RS_Europe_Belgrade_first.ics) [json](RS_Europe_Belgrade_first.json)
+  - last days [ics](RS_Europe_Belgrade_last.ics) [json](RS_Europe_Belgrade_last.json)
+- Россия @ Europe/Moscow
+  - first days [ics](RU_Europe_Moscow_first.ics) [json](RU_Europe_Moscow_first.json)
+  - last days [ics](RU_Europe_Moscow_last.ics) [json](RU_Europe_Moscow_last.json)
+- Россия @ Europe/Kaliningrad
+  - first days [ics](RU_Europe_Kaliningrad_first.ics) [json](RU_Europe_Kaliningrad_first.json)
+  - last days [ics](RU_Europe_Kaliningrad_last.ics) [json](RU_Europe_Kaliningrad_last.json)
+- Россия @ Europe/Simferopol
+  - first days [ics](RU_Europe_Simferopol_first.ics) [json](RU_Europe_Simferopol_first.json)
+  - last days [ics](RU_Europe_Simferopol_last.ics) [json](RU_Europe_Simferopol_last.json)
+- Россия @ Europe/Volgograd
+  - first days [ics](RU_Europe_Volgograd_first.ics) [json](RU_Europe_Volgograd_first.json)
+  - last days [ics](RU_Europe_Volgograd_last.ics) [json](RU_Europe_Volgograd_last.json)
+- Россия @ Europe/Samara
+  - first days [ics](RU_Europe_Samara_first.ics) [json](RU_Europe_Samara_first.json)
+  - last days [ics](RU_Europe_Samara_last.ics) [json](RU_Europe_Samara_last.json)
+- Россия @ Asia/Yekaterinburg
+  - first days [ics](RU_Asia_Yekaterinburg_first.ics) [json](RU_Asia_Yekaterinburg_first.json)
+  - last days [ics](RU_Asia_Yekaterinburg_last.ics) [json](RU_Asia_Yekaterinburg_last.json)
+- Россия @ Asia/Omsk
+  - first days [ics](RU_Asia_Omsk_first.ics) [json](RU_Asia_Omsk_first.json)
+  - last days [ics](RU_Asia_Omsk_last.ics) [json](RU_Asia_Omsk_last.json)
+- Россия @ Asia/Novosibirsk
+  - first days [ics](RU_Asia_Novosibirsk_first.ics) [json](RU_Asia_Novosibirsk_first.json)
+  - last days [ics](RU_Asia_Novosibirsk_last.ics) [json](RU_Asia_Novosibirsk_last.json)
+- Россия @ Asia/Novokuznetsk
+  - first days [ics](RU_Asia_Novokuznetsk_first.ics) [json](RU_Asia_Novokuznetsk_first.json)
+  - last days [ics](RU_Asia_Novokuznetsk_last.ics) [json](RU_Asia_Novokuznetsk_last.json)
+- Россия @ Asia/Krasnoyarsk
+  - first days [ics](RU_Asia_Krasnoyarsk_first.ics) [json](RU_Asia_Krasnoyarsk_first.json)
+  - last days [ics](RU_Asia_Krasnoyarsk_last.ics) [json](RU_Asia_Krasnoyarsk_last.json)
+- Россия @ Asia/Irkutsk
+  - first days [ics](RU_Asia_Irkutsk_first.ics) [json](RU_Asia_Irkutsk_first.json)
+  - last days [ics](RU_Asia_Irkutsk_last.ics) [json](RU_Asia_Irkutsk_last.json)
+- Россия @ Asia/Chita
+  - first days [ics](RU_Asia_Chita_first.ics) [json](RU_Asia_Chita_first.json)
+  - last days [ics](RU_Asia_Chita_last.ics) [json](RU_Asia_Chita_last.json)
+- Россия @ Asia/Yakutsk
+  - first days [ics](RU_Asia_Yakutsk_first.ics) [json](RU_Asia_Yakutsk_first.json)
+  - last days [ics](RU_Asia_Yakutsk_last.ics) [json](RU_Asia_Yakutsk_last.json)
+- Россия @ Asia/Khandyga
+  - first days [ics](RU_Asia_Khandyga_first.ics) [json](RU_Asia_Khandyga_first.json)
+  - last days [ics](RU_Asia_Khandyga_last.ics) [json](RU_Asia_Khandyga_last.json)
+- Россия @ Asia/Vladivostok
+  - first days [ics](RU_Asia_Vladivostok_first.ics) [json](RU_Asia_Vladivostok_first.json)
+  - last days [ics](RU_Asia_Vladivostok_last.ics) [json](RU_Asia_Vladivostok_last.json)
+- Россия @ Asia/Sakhalin
+  - first days [ics](RU_Asia_Sakhalin_first.ics) [json](RU_Asia_Sakhalin_first.json)
+  - last days [ics](RU_Asia_Sakhalin_last.ics) [json](RU_Asia_Sakhalin_last.json)
+- Россия @ Asia/Ust-Nera
+  - first days [ics](RU_Asia_Ust-Nera_first.ics) [json](RU_Asia_Ust-Nera_first.json)
+  - last days [ics](RU_Asia_Ust-Nera_last.ics) [json](RU_Asia_Ust-Nera_last.json)
+- Россия @ Asia/Magadan
+  - first days [ics](RU_Asia_Magadan_first.ics) [json](RU_Asia_Magadan_first.json)
+  - last days [ics](RU_Asia_Magadan_last.ics) [json](RU_Asia_Magadan_last.json)
+- Россия @ Asia/Srednekolymsk
+  - first days [ics](RU_Asia_Srednekolymsk_first.ics) [json](RU_Asia_Srednekolymsk_first.json)
+  - last days [ics](RU_Asia_Srednekolymsk_last.ics) [json](RU_Asia_Srednekolymsk_last.json)
+- Россия @ Asia/Kamchatka
+  - first days [ics](RU_Asia_Kamchatka_first.ics) [json](RU_Asia_Kamchatka_first.json)
+  - last days [ics](RU_Asia_Kamchatka_last.ics) [json](RU_Asia_Kamchatka_last.json)
+- Россия @ Asia/Anadyr
+  - first days [ics](RU_Asia_Anadyr_first.ics) [json](RU_Asia_Anadyr_first.json)
+  - last days [ics](RU_Asia_Anadyr_last.ics) [json](RU_Asia_Anadyr_last.json)
+- Rwanda @ Africa/Maputo
+  - first days [ics](RW_Africa_Maputo_first.ics) [json](RW_Africa_Maputo_first.json)
+  - last days [ics](RW_Africa_Maputo_last.ics) [json](RW_Africa_Maputo_last.json)
+- Seychelles @ Indian/Mahe
+  - first days [ics](SC_Indian_Mahe_first.ics) [json](SC_Indian_Mahe_first.json)
+  - last days [ics](SC_Indian_Mahe_last.ics) [json](SC_Indian_Mahe_last.json)
+- جمهورية السودان @ Africa/Khartoum
+  - first days [ics](SD_Africa_Khartoum_first.ics) [json](SD_Africa_Khartoum_first.json)
+  - last days [ics](SD_Africa_Khartoum_last.ics) [json](SD_Africa_Khartoum_last.json)
+- Sverige @ Europe/Stockholm
+  - first days [ics](SE_Europe_Stockholm_first.ics) [json](SE_Europe_Stockholm_first.json)
+  - last days [ics](SE_Europe_Stockholm_last.ics) [json](SE_Europe_Stockholm_last.json)
+- Singapore @ Asia/Singapore
+  - first days [ics](SG_Asia_Singapore_first.ics) [json](SG_Asia_Singapore_first.json)
+  - last days [ics](SG_Asia_Singapore_last.ics) [json](SG_Asia_Singapore_last.json)
+- St. Helena @ Africa/Abidjan
+  - first days [ics](SH_Africa_Abidjan_first.ics) [json](SH_Africa_Abidjan_first.json)
+  - last days [ics](SH_Africa_Abidjan_last.ics) [json](SH_Africa_Abidjan_last.json)
+- St. Helena Ascension Island @ Africa/Abidjan
+  - first days [ics](SH-AC_Africa_Abidjan_first.ics) [json](SH-AC_Africa_Abidjan_first.json)
+  - last days [ics](SH-AC_Africa_Abidjan_last.ics) [json](SH-AC_Africa_Abidjan_last.json)
+- St. Helena Saint Helena @ Africa/Abidjan
+  - first days [ics](SH-HL_Africa_Abidjan_first.ics) [json](SH-HL_Africa_Abidjan_first.json)
+  - last days [ics](SH-HL_Africa_Abidjan_last.ics) [json](SH-HL_Africa_Abidjan_last.json)
+- St. Helena Tristan da Cunha @ Africa/Abidjan
+  - first days [ics](SH-TA_Africa_Abidjan_first.ics) [json](SH-TA_Africa_Abidjan_first.json)
+  - last days [ics](SH-TA_Africa_Abidjan_last.ics) [json](SH-TA_Africa_Abidjan_last.json)
+- Republika Slovenija @ Europe/Belgrade
+  - first days [ics](SI_Europe_Belgrade_first.ics) [json](SI_Europe_Belgrade_first.json)
+  - last days [ics](SI_Europe_Belgrade_last.ics) [json](SI_Europe_Belgrade_last.json)
+- Svalbard & Jan Mayen @ Europe/Oslo
+  - first days [ics](SJ_Europe_Oslo_first.ics) [json](SJ_Europe_Oslo_first.json)
+  - last days [ics](SJ_Europe_Oslo_last.ics) [json](SJ_Europe_Oslo_last.json)
+- Slovenská republika @ Europe/Prague
+  - first days [ics](SK_Europe_Prague_first.ics) [json](SK_Europe_Prague_first.json)
+  - last days [ics](SK_Europe_Prague_last.ics) [json](SK_Europe_Prague_last.json)
+- Sierra Leone @ Africa/Abidjan
+  - first days [ics](SL_Africa_Abidjan_first.ics) [json](SL_Africa_Abidjan_first.json)
+  - last days [ics](SL_Africa_Abidjan_last.ics) [json](SL_Africa_Abidjan_last.json)
+- San Marino @ Europe/Rome
+  - first days [ics](SM_Europe_Rome_first.ics) [json](SM_Europe_Rome_first.json)
+  - last days [ics](SM_Europe_Rome_last.ics) [json](SM_Europe_Rome_last.json)
+- République du Sénégal @ Africa/Abidjan
+  - first days [ics](SN_Africa_Abidjan_first.ics) [json](SN_Africa_Abidjan_first.json)
+  - last days [ics](SN_Africa_Abidjan_last.ics) [json](SN_Africa_Abidjan_last.json)
+- Jamhuuriyadda Federaalka Soomaaliya @ Africa/Nairobi
+  - first days [ics](SO_Africa_Nairobi_first.ics) [json](SO_Africa_Nairobi_first.json)
+  - last days [ics](SO_Africa_Nairobi_last.ics) [json](SO_Africa_Nairobi_last.json)
+- Jamhuuriyadda Federaalka Soomaaliya Awdal @ Africa/Nairobi
+  - first days [ics](SO-AW_Africa_Nairobi_first.ics) [json](SO-AW_Africa_Nairobi_first.json)
+  - last days [ics](SO-AW_Africa_Nairobi_last.ics) [json](SO-AW_Africa_Nairobi_last.json)
+- Jamhuuriyadda Federaalka Soomaaliya Sanaag @ Africa/Nairobi
+  - first days [ics](SO-SA_Africa_Nairobi_first.ics) [json](SO-SA_Africa_Nairobi_first.json)
+  - last days [ics](SO-SA_Africa_Nairobi_last.ics) [json](SO-SA_Africa_Nairobi_last.json)
+- Jamhuuriyadda Federaalka Soomaaliya Sool @ Africa/Nairobi
+  - first days [ics](SO-SO_Africa_Nairobi_first.ics) [json](SO-SO_Africa_Nairobi_first.json)
+  - last days [ics](SO-SO_Africa_Nairobi_last.ics) [json](SO-SO_Africa_Nairobi_last.json)
+- Jamhuuriyadda Federaalka Soomaaliya Togdheer @ Africa/Nairobi
+  - first days [ics](SO-TO_Africa_Nairobi_first.ics) [json](SO-TO_Africa_Nairobi_first.json)
+  - last days [ics](SO-TO_Africa_Nairobi_last.ics) [json](SO-TO_Africa_Nairobi_last.json)
+- Jamhuuriyadda Federaalka Soomaaliya Woqooyi Galbeed @ Africa/Nairobi
+  - first days [ics](SO-WO_Africa_Nairobi_first.ics) [json](SO-WO_Africa_Nairobi_first.json)
+  - last days [ics](SO-WO_Africa_Nairobi_last.ics) [json](SO-WO_Africa_Nairobi_last.json)
+- Suriname @ America/Paramaribo
+  - first days [ics](SR_America_Paramaribo_first.ics) [json](SR_America_Paramaribo_first.json)
+  - last days [ics](SR_America_Paramaribo_last.ics) [json](SR_America_Paramaribo_last.json)
+- South Sudan @ Africa/Maputo
+  - first days [ics](SS_Africa_Maputo_first.ics) [json](SS_Africa_Maputo_first.json)
+  - last days [ics](SS_Africa_Maputo_last.ics) [json](SS_Africa_Maputo_last.json)
+- São Tomé & Príncipe @ Africa/Abidjan
+  - first days [ics](ST_Africa_Abidjan_first.ics) [json](ST_Africa_Abidjan_first.json)
+  - last days [ics](ST_Africa_Abidjan_last.ics) [json](ST_Africa_Abidjan_last.json)
+- El Salvador @ America/El_Salvador
+  - first days [ics](SV_America_El_Salvador_first.ics) [json](SV_America_El_Salvador_first.json)
+  - last days [ics](SV_America_El_Salvador_last.ics) [json](SV_America_El_Salvador_last.json)
+- El Salvador San Salvador @ America/El_Salvador
+  - first days [ics](SV-SS_America_El_Salvador_first.ics) [json](SV-SS_America_El_Salvador_first.json)
+  - last days [ics](SV-SS_America_El_Salvador_last.ics) [json](SV-SS_America_El_Salvador_last.json)
+- Sint Maarten @ America/Curacao
+  - first days [ics](SX_America_Curacao_first.ics) [json](SX_America_Curacao_first.json)
+  - last days [ics](SX_America_Curacao_last.ics) [json](SX_America_Curacao_last.json)
+- Eswatini @ Africa/Johannesburg
+  - first days [ics](SZ_Africa_Johannesburg_first.ics) [json](SZ_Africa_Johannesburg_first.json)
+  - last days [ics](SZ_Africa_Johannesburg_last.ics) [json](SZ_Africa_Johannesburg_last.json)
+- Turks & Caicos Islands @ America/Grand_Turk
+  - first days [ics](TC_America_Grand_Turk_first.ics) [json](TC_America_Grand_Turk_first.json)
+  - last days [ics](TC_America_Grand_Turk_last.ics) [json](TC_America_Grand_Turk_last.json)
+- جمهورية تشاد @ Africa/Ndjamena
+  - first days [ics](TD_Africa_Ndjamena_first.ics) [json](TD_Africa_Ndjamena_first.json)
+  - last days [ics](TD_Africa_Ndjamena_last.ics) [json](TD_Africa_Ndjamena_last.json)
+- République togolaise @ Africa/Abidjan
+  - first days [ics](TG_Africa_Abidjan_first.ics) [json](TG_Africa_Abidjan_first.json)
+  - last days [ics](TG_Africa_Abidjan_last.ics) [json](TG_Africa_Abidjan_last.json)
+- Thailand @ Asia/Bangkok
+  - first days [ics](TH_Asia_Bangkok_first.ics) [json](TH_Asia_Bangkok_first.json)
+  - last days [ics](TH_Asia_Bangkok_last.ics) [json](TH_Asia_Bangkok_last.json)
+- الجمهورية التونسية @ Africa/Tunis
+  - first days [ics](TN_Africa_Tunis_first.ics) [json](TN_Africa_Tunis_first.json)
+  - last days [ics](TN_Africa_Tunis_last.ics) [json](TN_Africa_Tunis_last.json)
+- Puleʻanga Fakatuʻi ʻo Tonga @ Pacific/Tongatapu
+  - first days [ics](TO_Pacific_Tongatapu_first.ics) [json](TO_Pacific_Tongatapu_first.json)
+  - last days [ics](TO_Pacific_Tongatapu_last.ics) [json](TO_Pacific_Tongatapu_last.json)
+- Türkiye @ Europe/Istanbul
+  - first days [ics](TR_Europe_Istanbul_first.ics) [json](TR_Europe_Istanbul_first.json)
+  - last days [ics](TR_Europe_Istanbul_last.ics) [json](TR_Europe_Istanbul_last.json)
+- Trinidad & Tobago @ America/Port_of_Spain
+  - first days [ics](TT_America_Port_of_Spain_first.ics) [json](TT_America_Port_of_Spain_first.json)
+  - last days [ics](TT_America_Port_of_Spain_last.ics) [json](TT_America_Port_of_Spain_last.json)
+- 中華民國 @ Asia/Taipei
+  - first days [ics](TW_Asia_Taipei_first.ics) [json](TW_Asia_Taipei_first.json)
+  - last days [ics](TW_Asia_Taipei_last.ics) [json](TW_Asia_Taipei_last.json)
+- Tanzania @ Africa/Nairobi
+  - first days [ics](TZ_Africa_Nairobi_first.ics) [json](TZ_Africa_Nairobi_first.json)
+  - last days [ics](TZ_Africa_Nairobi_last.ics) [json](TZ_Africa_Nairobi_last.json)
+- Україна @ Europe/Kiev
+  - first days [ics](UA_Europe_Kiev_first.ics) [json](UA_Europe_Kiev_first.json)
+  - last days [ics](UA_Europe_Kiev_last.ics) [json](UA_Europe_Kiev_last.json)
+- Україна @ Europe/Uzhgorod
+  - first days [ics](UA_Europe_Uzhgorod_first.ics) [json](UA_Europe_Uzhgorod_first.json)
+  - last days [ics](UA_Europe_Uzhgorod_last.ics) [json](UA_Europe_Uzhgorod_last.json)
+- Україна @ Europe/Zaporozhye
+  - first days [ics](UA_Europe_Zaporozhye_first.ics) [json](UA_Europe_Zaporozhye_first.json)
+  - last days [ics](UA_Europe_Zaporozhye_last.ics) [json](UA_Europe_Zaporozhye_last.json)
+- Uganda @ Africa/Nairobi
+  - first days [ics](UG_Africa_Nairobi_first.ics) [json](UG_Africa_Nairobi_first.json)
+  - last days [ics](UG_Africa_Nairobi_last.ics) [json](UG_Africa_Nairobi_last.json)
+- United States of America @ America/New_York
+  - first days [ics](US_America_New_York_first.ics) [json](US_America_New_York_first.json)
+  - last days [ics](US_America_New_York_last.ics) [json](US_America_New_York_last.json)
+- United States of America @ America/Detroit
+  - first days [ics](US_America_Detroit_first.ics) [json](US_America_Detroit_first.json)
+  - last days [ics](US_America_Detroit_last.ics) [json](US_America_Detroit_last.json)
+- United States of America @ America/Kentucky/Louisville
+  - first days [ics](US_America_Kentucky_Louisville_first.ics) [json](US_America_Kentucky_Louisville_first.json)
+  - last days [ics](US_America_Kentucky_Louisville_last.ics) [json](US_America_Kentucky_Louisville_last.json)
+- United States of America @ America/Kentucky/Monticello
+  - first days [ics](US_America_Kentucky_Monticello_first.ics) [json](US_America_Kentucky_Monticello_first.json)
+  - last days [ics](US_America_Kentucky_Monticello_last.ics) [json](US_America_Kentucky_Monticello_last.json)
+- United States of America @ America/Indiana/Indianapolis
+  - first days [ics](US_America_Indiana_Indianapolis_first.ics) [json](US_America_Indiana_Indianapolis_first.json)
+  - last days [ics](US_America_Indiana_Indianapolis_last.ics) [json](US_America_Indiana_Indianapolis_last.json)
+- United States of America @ America/Indiana/Vincennes
+  - first days [ics](US_America_Indiana_Vincennes_first.ics) [json](US_America_Indiana_Vincennes_first.json)
+  - last days [ics](US_America_Indiana_Vincennes_last.ics) [json](US_America_Indiana_Vincennes_last.json)
+- United States of America @ America/Indiana/Winamac
+  - first days [ics](US_America_Indiana_Winamac_first.ics) [json](US_America_Indiana_Winamac_first.json)
+  - last days [ics](US_America_Indiana_Winamac_last.ics) [json](US_America_Indiana_Winamac_last.json)
+- United States of America @ America/Indiana/Marengo
+  - first days [ics](US_America_Indiana_Marengo_first.ics) [json](US_America_Indiana_Marengo_first.json)
+  - last days [ics](US_America_Indiana_Marengo_last.ics) [json](US_America_Indiana_Marengo_last.json)
+- United States of America @ America/Indiana/Petersburg
+  - first days [ics](US_America_Indiana_Petersburg_first.ics) [json](US_America_Indiana_Petersburg_first.json)
+  - last days [ics](US_America_Indiana_Petersburg_last.ics) [json](US_America_Indiana_Petersburg_last.json)
+- United States of America @ America/Indiana/Vevay
+  - first days [ics](US_America_Indiana_Vevay_first.ics) [json](US_America_Indiana_Vevay_first.json)
+  - last days [ics](US_America_Indiana_Vevay_last.ics) [json](US_America_Indiana_Vevay_last.json)
+- United States of America @ America/Chicago
+  - first days [ics](US_America_Chicago_first.ics) [json](US_America_Chicago_first.json)
+  - last days [ics](US_America_Chicago_last.ics) [json](US_America_Chicago_last.json)
+- United States of America @ America/Indiana/Tell_City
+  - first days [ics](US_America_Indiana_Tell_City_first.ics) [json](US_America_Indiana_Tell_City_first.json)
+  - last days [ics](US_America_Indiana_Tell_City_last.ics) [json](US_America_Indiana_Tell_City_last.json)
+- United States of America @ America/Indiana/Knox
+  - first days [ics](US_America_Indiana_Knox_first.ics) [json](US_America_Indiana_Knox_first.json)
+  - last days [ics](US_America_Indiana_Knox_last.ics) [json](US_America_Indiana_Knox_last.json)
+- United States of America @ America/Menominee
+  - first days [ics](US_America_Menominee_first.ics) [json](US_America_Menominee_first.json)
+  - last days [ics](US_America_Menominee_last.ics) [json](US_America_Menominee_last.json)
+- United States of America @ America/North_Dakota/Center
+  - first days [ics](US_America_North_Dakota_Center_first.ics) [json](US_America_North_Dakota_Center_first.json)
+  - last days [ics](US_America_North_Dakota_Center_last.ics) [json](US_America_North_Dakota_Center_last.json)
+- United States of America @ America/North_Dakota/New_Salem
+  - first days [ics](US_America_North_Dakota_New_Salem_first.ics) [json](US_America_North_Dakota_New_Salem_first.json)
+  - last days [ics](US_America_North_Dakota_New_Salem_last.ics) [json](US_America_North_Dakota_New_Salem_last.json)
+- United States of America @ America/North_Dakota/Beulah
+  - first days [ics](US_America_North_Dakota_Beulah_first.ics) [json](US_America_North_Dakota_Beulah_first.json)
+  - last days [ics](US_America_North_Dakota_Beulah_last.ics) [json](US_America_North_Dakota_Beulah_last.json)
+- United States of America @ America/Denver
+  - first days [ics](US_America_Denver_first.ics) [json](US_America_Denver_first.json)
+  - last days [ics](US_America_Denver_last.ics) [json](US_America_Denver_last.json)
+- United States of America @ America/Boise
+  - first days [ics](US_America_Boise_first.ics) [json](US_America_Boise_first.json)
+  - last days [ics](US_America_Boise_last.ics) [json](US_America_Boise_last.json)
+- United States of America @ America/Phoenix
+  - first days [ics](US_America_Phoenix_first.ics) [json](US_America_Phoenix_first.json)
+  - last days [ics](US_America_Phoenix_last.ics) [json](US_America_Phoenix_last.json)
+- United States of America @ America/Los_Angeles
+  - first days [ics](US_America_Los_Angeles_first.ics) [json](US_America_Los_Angeles_first.json)
+  - last days [ics](US_America_Los_Angeles_last.ics) [json](US_America_Los_Angeles_last.json)
+- United States of America @ America/Metlakatla
+  - first days [ics](US_America_Metlakatla_first.ics) [json](US_America_Metlakatla_first.json)
+  - last days [ics](US_America_Metlakatla_last.ics) [json](US_America_Metlakatla_last.json)
+- United States of America @ America/Anchorage
+  - first days [ics](US_America_Anchorage_first.ics) [json](US_America_Anchorage_first.json)
+  - last days [ics](US_America_Anchorage_last.ics) [json](US_America_Anchorage_last.json)
+- United States of America @ America/Juneau
+  - first days [ics](US_America_Juneau_first.ics) [json](US_America_Juneau_first.json)
+  - last days [ics](US_America_Juneau_last.ics) [json](US_America_Juneau_last.json)
+- United States of America @ America/Sitka
+  - first days [ics](US_America_Sitka_first.ics) [json](US_America_Sitka_first.json)
+  - last days [ics](US_America_Sitka_last.ics) [json](US_America_Sitka_last.json)
+- United States of America @ America/Yakutat
+  - first days [ics](US_America_Yakutat_first.ics) [json](US_America_Yakutat_first.json)
+  - last days [ics](US_America_Yakutat_last.ics) [json](US_America_Yakutat_last.json)
+- United States of America @ America/Nome
+  - first days [ics](US_America_Nome_first.ics) [json](US_America_Nome_first.json)
+  - last days [ics](US_America_Nome_last.ics) [json](US_America_Nome_last.json)
+- United States of America @ America/Adak
+  - first days [ics](US_America_Adak_first.ics) [json](US_America_Adak_first.json)
+  - last days [ics](US_America_Adak_last.ics) [json](US_America_Adak_last.json)
+- United States of America @ Pacific/Honolulu
+  - first days [ics](US_Pacific_Honolulu_first.ics) [json](US_Pacific_Honolulu_first.json)
+  - last days [ics](US_Pacific_Honolulu_last.ics) [json](US_Pacific_Honolulu_last.json)
+- United States of America Alabama @ America/Chicago
+  - first days [ics](US-AL_America_Chicago_first.ics) [json](US-AL_America_Chicago_first.json)
+  - last days [ics](US-AL_America_Chicago_last.ics) [json](US-AL_America_Chicago_last.json)
+- United States of America Alaska @ America/Anchorage
+  - first days [ics](US-AK_America_Anchorage_first.ics) [json](US-AK_America_Anchorage_first.json)
+  - last days [ics](US-AK_America_Anchorage_last.ics) [json](US-AK_America_Anchorage_last.json)
+- United States of America Alaska @ America/Metlakatla
+  - first days [ics](US-AK_America_Metlakatla_first.ics) [json](US-AK_America_Metlakatla_first.json)
+  - last days [ics](US-AK_America_Metlakatla_last.ics) [json](US-AK_America_Metlakatla_last.json)
+- United States of America Alaska @ America/Juneau
+  - first days [ics](US-AK_America_Juneau_first.ics) [json](US-AK_America_Juneau_first.json)
+  - last days [ics](US-AK_America_Juneau_last.ics) [json](US-AK_America_Juneau_last.json)
+- United States of America Alaska @ America/Sitka
+  - first days [ics](US-AK_America_Sitka_first.ics) [json](US-AK_America_Sitka_first.json)
+  - last days [ics](US-AK_America_Sitka_last.ics) [json](US-AK_America_Sitka_last.json)
+- United States of America Alaska @ America/Yakutat
+  - first days [ics](US-AK_America_Yakutat_first.ics) [json](US-AK_America_Yakutat_first.json)
+  - last days [ics](US-AK_America_Yakutat_last.ics) [json](US-AK_America_Yakutat_last.json)
+- United States of America Alaska @ America/Nome
+  - first days [ics](US-AK_America_Nome_first.ics) [json](US-AK_America_Nome_first.json)
+  - last days [ics](US-AK_America_Nome_last.ics) [json](US-AK_America_Nome_last.json)
+- United States of America Arizona @ America/Phoenix
+  - first days [ics](US-AZ_America_Phoenix_first.ics) [json](US-AZ_America_Phoenix_first.json)
+  - last days [ics](US-AZ_America_Phoenix_last.ics) [json](US-AZ_America_Phoenix_last.json)
+- United States of America Arizona @ America/Denver
+  - first days [ics](US-AZ_America_Denver_first.ics) [json](US-AZ_America_Denver_first.json)
+  - last days [ics](US-AZ_America_Denver_last.ics) [json](US-AZ_America_Denver_last.json)
+- United States of America Arkansas @ America/Chicago
+  - first days [ics](US-AR_America_Chicago_first.ics) [json](US-AR_America_Chicago_first.json)
+  - last days [ics](US-AR_America_Chicago_last.ics) [json](US-AR_America_Chicago_last.json)
+- United States of America California @ America/Los_Angeles
+  - first days [ics](US-CA_America_Los_Angeles_first.ics) [json](US-CA_America_Los_Angeles_first.json)
+  - last days [ics](US-CA_America_Los_Angeles_last.ics) [json](US-CA_America_Los_Angeles_last.json)
+- United States of America California Los Angeles @ America/Los_Angeles
+  - first days [ics](US-CA-LA_America_Los_Angeles_first.ics) [json](US-CA-LA_America_Los_Angeles_first.json)
+  - last days [ics](US-CA-LA_America_Los_Angeles_last.ics) [json](US-CA-LA_America_Los_Angeles_last.json)
+- United States of America Colorado @ America/Denver
+  - first days [ics](US-CO_America_Denver_first.ics) [json](US-CO_America_Denver_first.json)
+  - last days [ics](US-CO_America_Denver_last.ics) [json](US-CO_America_Denver_last.json)
+- United States of America Connecticut @ America/New_York
+  - first days [ics](US-CT_America_New_York_first.ics) [json](US-CT_America_New_York_first.json)
+  - last days [ics](US-CT_America_New_York_last.ics) [json](US-CT_America_New_York_last.json)
+- United States of America Delaware @ America/New_York
+  - first days [ics](US-DE_America_New_York_first.ics) [json](US-DE_America_New_York_first.json)
+  - last days [ics](US-DE_America_New_York_last.ics) [json](US-DE_America_New_York_last.json)
+- United States of America Delaware @ America/Detroit
+  - first days [ics](US-DE_America_Detroit_first.ics) [json](US-DE_America_Detroit_first.json)
+  - last days [ics](US-DE_America_Detroit_last.ics) [json](US-DE_America_Detroit_last.json)
+- United States of America Delaware @ America/Kentucky/Louisville
+  - first days [ics](US-DE_America_Kentucky_Louisville_first.ics) [json](US-DE_America_Kentucky_Louisville_first.json)
+  - last days [ics](US-DE_America_Kentucky_Louisville_last.ics) [json](US-DE_America_Kentucky_Louisville_last.json)
+- United States of America Delaware @ America/Kentucky/Monticello
+  - first days [ics](US-DE_America_Kentucky_Monticello_first.ics) [json](US-DE_America_Kentucky_Monticello_first.json)
+  - last days [ics](US-DE_America_Kentucky_Monticello_last.ics) [json](US-DE_America_Kentucky_Monticello_last.json)
+- United States of America Delaware @ America/Indiana/Indianapolis
+  - first days [ics](US-DE_America_Indiana_Indianapolis_first.ics) [json](US-DE_America_Indiana_Indianapolis_first.json)
+  - last days [ics](US-DE_America_Indiana_Indianapolis_last.ics) [json](US-DE_America_Indiana_Indianapolis_last.json)
+- United States of America Delaware @ America/Indiana/Vincennes
+  - first days [ics](US-DE_America_Indiana_Vincennes_first.ics) [json](US-DE_America_Indiana_Vincennes_first.json)
+  - last days [ics](US-DE_America_Indiana_Vincennes_last.ics) [json](US-DE_America_Indiana_Vincennes_last.json)
+- United States of America Delaware @ America/Indiana/Winamac
+  - first days [ics](US-DE_America_Indiana_Winamac_first.ics) [json](US-DE_America_Indiana_Winamac_first.json)
+  - last days [ics](US-DE_America_Indiana_Winamac_last.ics) [json](US-DE_America_Indiana_Winamac_last.json)
+- United States of America Delaware @ America/Indiana/Marengo
+  - first days [ics](US-DE_America_Indiana_Marengo_first.ics) [json](US-DE_America_Indiana_Marengo_first.json)
+  - last days [ics](US-DE_America_Indiana_Marengo_last.ics) [json](US-DE_America_Indiana_Marengo_last.json)
+- United States of America Delaware @ America/Indiana/Petersburg
+  - first days [ics](US-DE_America_Indiana_Petersburg_first.ics) [json](US-DE_America_Indiana_Petersburg_first.json)
+  - last days [ics](US-DE_America_Indiana_Petersburg_last.ics) [json](US-DE_America_Indiana_Petersburg_last.json)
+- United States of America Delaware @ America/Indiana/Vevay
+  - first days [ics](US-DE_America_Indiana_Vevay_first.ics) [json](US-DE_America_Indiana_Vevay_first.json)
+  - last days [ics](US-DE_America_Indiana_Vevay_last.ics) [json](US-DE_America_Indiana_Vevay_last.json)
+- United States of America Delaware @ America/Chicago
+  - first days [ics](US-DE_America_Chicago_first.ics) [json](US-DE_America_Chicago_first.json)
+  - last days [ics](US-DE_America_Chicago_last.ics) [json](US-DE_America_Chicago_last.json)
+- United States of America Delaware @ America/Indiana/Tell_City
+  - first days [ics](US-DE_America_Indiana_Tell_City_first.ics) [json](US-DE_America_Indiana_Tell_City_first.json)
+  - last days [ics](US-DE_America_Indiana_Tell_City_last.ics) [json](US-DE_America_Indiana_Tell_City_last.json)
+- United States of America Delaware @ America/Indiana/Knox
+  - first days [ics](US-DE_America_Indiana_Knox_first.ics) [json](US-DE_America_Indiana_Knox_first.json)
+  - last days [ics](US-DE_America_Indiana_Knox_last.ics) [json](US-DE_America_Indiana_Knox_last.json)
+- United States of America Delaware @ America/Menominee
+  - first days [ics](US-DE_America_Menominee_first.ics) [json](US-DE_America_Menominee_first.json)
+  - last days [ics](US-DE_America_Menominee_last.ics) [json](US-DE_America_Menominee_last.json)
+- United States of America Delaware @ America/North_Dakota/Center
+  - first days [ics](US-DE_America_North_Dakota_Center_first.ics) [json](US-DE_America_North_Dakota_Center_first.json)
+  - last days [ics](US-DE_America_North_Dakota_Center_last.ics) [json](US-DE_America_North_Dakota_Center_last.json)
+- United States of America Delaware @ America/North_Dakota/New_Salem
+  - first days [ics](US-DE_America_North_Dakota_New_Salem_first.ics) [json](US-DE_America_North_Dakota_New_Salem_first.json)
+  - last days [ics](US-DE_America_North_Dakota_New_Salem_last.ics) [json](US-DE_America_North_Dakota_New_Salem_last.json)
+- United States of America Delaware @ America/North_Dakota/Beulah
+  - first days [ics](US-DE_America_North_Dakota_Beulah_first.ics) [json](US-DE_America_North_Dakota_Beulah_first.json)
+  - last days [ics](US-DE_America_North_Dakota_Beulah_last.ics) [json](US-DE_America_North_Dakota_Beulah_last.json)
+- United States of America Delaware @ America/Denver
+  - first days [ics](US-DE_America_Denver_first.ics) [json](US-DE_America_Denver_first.json)
+  - last days [ics](US-DE_America_Denver_last.ics) [json](US-DE_America_Denver_last.json)
+- United States of America Delaware @ America/Boise
+  - first days [ics](US-DE_America_Boise_first.ics) [json](US-DE_America_Boise_first.json)
+  - last days [ics](US-DE_America_Boise_last.ics) [json](US-DE_America_Boise_last.json)
+- United States of America Delaware @ America/Phoenix
+  - first days [ics](US-DE_America_Phoenix_first.ics) [json](US-DE_America_Phoenix_first.json)
+  - last days [ics](US-DE_America_Phoenix_last.ics) [json](US-DE_America_Phoenix_last.json)
+- United States of America Delaware @ America/Los_Angeles
+  - first days [ics](US-DE_America_Los_Angeles_first.ics) [json](US-DE_America_Los_Angeles_first.json)
+  - last days [ics](US-DE_America_Los_Angeles_last.ics) [json](US-DE_America_Los_Angeles_last.json)
+- United States of America Delaware @ America/Metlakatla
+  - first days [ics](US-DE_America_Metlakatla_first.ics) [json](US-DE_America_Metlakatla_first.json)
+  - last days [ics](US-DE_America_Metlakatla_last.ics) [json](US-DE_America_Metlakatla_last.json)
+- United States of America Delaware @ America/Anchorage
+  - first days [ics](US-DE_America_Anchorage_first.ics) [json](US-DE_America_Anchorage_first.json)
+  - last days [ics](US-DE_America_Anchorage_last.ics) [json](US-DE_America_Anchorage_last.json)
+- United States of America Delaware @ America/Juneau
+  - first days [ics](US-DE_America_Juneau_first.ics) [json](US-DE_America_Juneau_first.json)
+  - last days [ics](US-DE_America_Juneau_last.ics) [json](US-DE_America_Juneau_last.json)
+- United States of America Delaware @ America/Sitka
+  - first days [ics](US-DE_America_Sitka_first.ics) [json](US-DE_America_Sitka_first.json)
+  - last days [ics](US-DE_America_Sitka_last.ics) [json](US-DE_America_Sitka_last.json)
+- United States of America Delaware @ America/Yakutat
+  - first days [ics](US-DE_America_Yakutat_first.ics) [json](US-DE_America_Yakutat_first.json)
+  - last days [ics](US-DE_America_Yakutat_last.ics) [json](US-DE_America_Yakutat_last.json)
+- United States of America Delaware @ America/Nome
+  - first days [ics](US-DE_America_Nome_first.ics) [json](US-DE_America_Nome_first.json)
+  - last days [ics](US-DE_America_Nome_last.ics) [json](US-DE_America_Nome_last.json)
+- United States of America Delaware @ America/Adak
+  - first days [ics](US-DE_America_Adak_first.ics) [json](US-DE_America_Adak_first.json)
+  - last days [ics](US-DE_America_Adak_last.ics) [json](US-DE_America_Adak_last.json)
+- United States of America Delaware @ Pacific/Honolulu
+  - first days [ics](US-DE_Pacific_Honolulu_first.ics) [json](US-DE_Pacific_Honolulu_first.json)
+  - last days [ics](US-DE_Pacific_Honolulu_last.ics) [json](US-DE_Pacific_Honolulu_last.json)
+- United States of America District of Columbia @ America/New_York
+  - first days [ics](US-DC_America_New_York_first.ics) [json](US-DC_America_New_York_first.json)
+  - last days [ics](US-DC_America_New_York_last.ics) [json](US-DC_America_New_York_last.json)
+- United States of America District of Columbia @ America/Detroit
+  - first days [ics](US-DC_America_Detroit_first.ics) [json](US-DC_America_Detroit_first.json)
+  - last days [ics](US-DC_America_Detroit_last.ics) [json](US-DC_America_Detroit_last.json)
+- United States of America District of Columbia @ America/Kentucky/Louisville
+  - first days [ics](US-DC_America_Kentucky_Louisville_first.ics) [json](US-DC_America_Kentucky_Louisville_first.json)
+  - last days [ics](US-DC_America_Kentucky_Louisville_last.ics) [json](US-DC_America_Kentucky_Louisville_last.json)
+- United States of America District of Columbia @ America/Kentucky/Monticello
+  - first days [ics](US-DC_America_Kentucky_Monticello_first.ics) [json](US-DC_America_Kentucky_Monticello_first.json)
+  - last days [ics](US-DC_America_Kentucky_Monticello_last.ics) [json](US-DC_America_Kentucky_Monticello_last.json)
+- United States of America District of Columbia @ America/Indiana/Indianapolis
+  - first days [ics](US-DC_America_Indiana_Indianapolis_first.ics) [json](US-DC_America_Indiana_Indianapolis_first.json)
+  - last days [ics](US-DC_America_Indiana_Indianapolis_last.ics) [json](US-DC_America_Indiana_Indianapolis_last.json)
+- United States of America District of Columbia @ America/Indiana/Vincennes
+  - first days [ics](US-DC_America_Indiana_Vincennes_first.ics) [json](US-DC_America_Indiana_Vincennes_first.json)
+  - last days [ics](US-DC_America_Indiana_Vincennes_last.ics) [json](US-DC_America_Indiana_Vincennes_last.json)
+- United States of America District of Columbia @ America/Indiana/Winamac
+  - first days [ics](US-DC_America_Indiana_Winamac_first.ics) [json](US-DC_America_Indiana_Winamac_first.json)
+  - last days [ics](US-DC_America_Indiana_Winamac_last.ics) [json](US-DC_America_Indiana_Winamac_last.json)
+- United States of America District of Columbia @ America/Indiana/Marengo
+  - first days [ics](US-DC_America_Indiana_Marengo_first.ics) [json](US-DC_America_Indiana_Marengo_first.json)
+  - last days [ics](US-DC_America_Indiana_Marengo_last.ics) [json](US-DC_America_Indiana_Marengo_last.json)
+- United States of America District of Columbia @ America/Indiana/Petersburg
+  - first days [ics](US-DC_America_Indiana_Petersburg_first.ics) [json](US-DC_America_Indiana_Petersburg_first.json)
+  - last days [ics](US-DC_America_Indiana_Petersburg_last.ics) [json](US-DC_America_Indiana_Petersburg_last.json)
+- United States of America District of Columbia @ America/Indiana/Vevay
+  - first days [ics](US-DC_America_Indiana_Vevay_first.ics) [json](US-DC_America_Indiana_Vevay_first.json)
+  - last days [ics](US-DC_America_Indiana_Vevay_last.ics) [json](US-DC_America_Indiana_Vevay_last.json)
+- United States of America District of Columbia @ America/Chicago
+  - first days [ics](US-DC_America_Chicago_first.ics) [json](US-DC_America_Chicago_first.json)
+  - last days [ics](US-DC_America_Chicago_last.ics) [json](US-DC_America_Chicago_last.json)
+- United States of America District of Columbia @ America/Indiana/Tell_City
+  - first days [ics](US-DC_America_Indiana_Tell_City_first.ics) [json](US-DC_America_Indiana_Tell_City_first.json)
+  - last days [ics](US-DC_America_Indiana_Tell_City_last.ics) [json](US-DC_America_Indiana_Tell_City_last.json)
+- United States of America District of Columbia @ America/Indiana/Knox
+  - first days [ics](US-DC_America_Indiana_Knox_first.ics) [json](US-DC_America_Indiana_Knox_first.json)
+  - last days [ics](US-DC_America_Indiana_Knox_last.ics) [json](US-DC_America_Indiana_Knox_last.json)
+- United States of America District of Columbia @ America/Menominee
+  - first days [ics](US-DC_America_Menominee_first.ics) [json](US-DC_America_Menominee_first.json)
+  - last days [ics](US-DC_America_Menominee_last.ics) [json](US-DC_America_Menominee_last.json)
+- United States of America District of Columbia @ America/North_Dakota/Center
+  - first days [ics](US-DC_America_North_Dakota_Center_first.ics) [json](US-DC_America_North_Dakota_Center_first.json)
+  - last days [ics](US-DC_America_North_Dakota_Center_last.ics) [json](US-DC_America_North_Dakota_Center_last.json)
+- United States of America District of Columbia @ America/North_Dakota/New_Salem
+  - first days [ics](US-DC_America_North_Dakota_New_Salem_first.ics) [json](US-DC_America_North_Dakota_New_Salem_first.json)
+  - last days [ics](US-DC_America_North_Dakota_New_Salem_last.ics) [json](US-DC_America_North_Dakota_New_Salem_last.json)
+- United States of America District of Columbia @ America/North_Dakota/Beulah
+  - first days [ics](US-DC_America_North_Dakota_Beulah_first.ics) [json](US-DC_America_North_Dakota_Beulah_first.json)
+  - last days [ics](US-DC_America_North_Dakota_Beulah_last.ics) [json](US-DC_America_North_Dakota_Beulah_last.json)
+- United States of America District of Columbia @ America/Denver
+  - first days [ics](US-DC_America_Denver_first.ics) [json](US-DC_America_Denver_first.json)
+  - last days [ics](US-DC_America_Denver_last.ics) [json](US-DC_America_Denver_last.json)
+- United States of America District of Columbia @ America/Boise
+  - first days [ics](US-DC_America_Boise_first.ics) [json](US-DC_America_Boise_first.json)
+  - last days [ics](US-DC_America_Boise_last.ics) [json](US-DC_America_Boise_last.json)
+- United States of America District of Columbia @ America/Phoenix
+  - first days [ics](US-DC_America_Phoenix_first.ics) [json](US-DC_America_Phoenix_first.json)
+  - last days [ics](US-DC_America_Phoenix_last.ics) [json](US-DC_America_Phoenix_last.json)
+- United States of America District of Columbia @ America/Los_Angeles
+  - first days [ics](US-DC_America_Los_Angeles_first.ics) [json](US-DC_America_Los_Angeles_first.json)
+  - last days [ics](US-DC_America_Los_Angeles_last.ics) [json](US-DC_America_Los_Angeles_last.json)
+- United States of America District of Columbia @ America/Metlakatla
+  - first days [ics](US-DC_America_Metlakatla_first.ics) [json](US-DC_America_Metlakatla_first.json)
+  - last days [ics](US-DC_America_Metlakatla_last.ics) [json](US-DC_America_Metlakatla_last.json)
+- United States of America District of Columbia @ America/Anchorage
+  - first days [ics](US-DC_America_Anchorage_first.ics) [json](US-DC_America_Anchorage_first.json)
+  - last days [ics](US-DC_America_Anchorage_last.ics) [json](US-DC_America_Anchorage_last.json)
+- United States of America District of Columbia @ America/Juneau
+  - first days [ics](US-DC_America_Juneau_first.ics) [json](US-DC_America_Juneau_first.json)
+  - last days [ics](US-DC_America_Juneau_last.ics) [json](US-DC_America_Juneau_last.json)
+- United States of America District of Columbia @ America/Sitka
+  - first days [ics](US-DC_America_Sitka_first.ics) [json](US-DC_America_Sitka_first.json)
+  - last days [ics](US-DC_America_Sitka_last.ics) [json](US-DC_America_Sitka_last.json)
+- United States of America District of Columbia @ America/Yakutat
+  - first days [ics](US-DC_America_Yakutat_first.ics) [json](US-DC_America_Yakutat_first.json)
+  - last days [ics](US-DC_America_Yakutat_last.ics) [json](US-DC_America_Yakutat_last.json)
+- United States of America District of Columbia @ America/Nome
+  - first days [ics](US-DC_America_Nome_first.ics) [json](US-DC_America_Nome_first.json)
+  - last days [ics](US-DC_America_Nome_last.ics) [json](US-DC_America_Nome_last.json)
+- United States of America District of Columbia @ America/Adak
+  - first days [ics](US-DC_America_Adak_first.ics) [json](US-DC_America_Adak_first.json)
+  - last days [ics](US-DC_America_Adak_last.ics) [json](US-DC_America_Adak_last.json)
+- United States of America District of Columbia @ Pacific/Honolulu
+  - first days [ics](US-DC_Pacific_Honolulu_first.ics) [json](US-DC_Pacific_Honolulu_first.json)
+  - last days [ics](US-DC_Pacific_Honolulu_last.ics) [json](US-DC_Pacific_Honolulu_last.json)
+- United States of America Florida @ America/New_York
+  - first days [ics](US-FL_America_New_York_first.ics) [json](US-FL_America_New_York_first.json)
+  - last days [ics](US-FL_America_New_York_last.ics) [json](US-FL_America_New_York_last.json)
+- United States of America Florida @ America/Detroit
+  - first days [ics](US-FL_America_Detroit_first.ics) [json](US-FL_America_Detroit_first.json)
+  - last days [ics](US-FL_America_Detroit_last.ics) [json](US-FL_America_Detroit_last.json)
+- United States of America Florida @ America/Kentucky/Louisville
+  - first days [ics](US-FL_America_Kentucky_Louisville_first.ics) [json](US-FL_America_Kentucky_Louisville_first.json)
+  - last days [ics](US-FL_America_Kentucky_Louisville_last.ics) [json](US-FL_America_Kentucky_Louisville_last.json)
+- United States of America Florida @ America/Kentucky/Monticello
+  - first days [ics](US-FL_America_Kentucky_Monticello_first.ics) [json](US-FL_America_Kentucky_Monticello_first.json)
+  - last days [ics](US-FL_America_Kentucky_Monticello_last.ics) [json](US-FL_America_Kentucky_Monticello_last.json)
+- United States of America Florida @ America/Indiana/Indianapolis
+  - first days [ics](US-FL_America_Indiana_Indianapolis_first.ics) [json](US-FL_America_Indiana_Indianapolis_first.json)
+  - last days [ics](US-FL_America_Indiana_Indianapolis_last.ics) [json](US-FL_America_Indiana_Indianapolis_last.json)
+- United States of America Florida @ America/Indiana/Vincennes
+  - first days [ics](US-FL_America_Indiana_Vincennes_first.ics) [json](US-FL_America_Indiana_Vincennes_first.json)
+  - last days [ics](US-FL_America_Indiana_Vincennes_last.ics) [json](US-FL_America_Indiana_Vincennes_last.json)
+- United States of America Florida @ America/Indiana/Winamac
+  - first days [ics](US-FL_America_Indiana_Winamac_first.ics) [json](US-FL_America_Indiana_Winamac_first.json)
+  - last days [ics](US-FL_America_Indiana_Winamac_last.ics) [json](US-FL_America_Indiana_Winamac_last.json)
+- United States of America Florida @ America/Indiana/Marengo
+  - first days [ics](US-FL_America_Indiana_Marengo_first.ics) [json](US-FL_America_Indiana_Marengo_first.json)
+  - last days [ics](US-FL_America_Indiana_Marengo_last.ics) [json](US-FL_America_Indiana_Marengo_last.json)
+- United States of America Florida @ America/Indiana/Petersburg
+  - first days [ics](US-FL_America_Indiana_Petersburg_first.ics) [json](US-FL_America_Indiana_Petersburg_first.json)
+  - last days [ics](US-FL_America_Indiana_Petersburg_last.ics) [json](US-FL_America_Indiana_Petersburg_last.json)
+- United States of America Florida @ America/Indiana/Vevay
+  - first days [ics](US-FL_America_Indiana_Vevay_first.ics) [json](US-FL_America_Indiana_Vevay_first.json)
+  - last days [ics](US-FL_America_Indiana_Vevay_last.ics) [json](US-FL_America_Indiana_Vevay_last.json)
+- United States of America Florida @ America/Chicago
+  - first days [ics](US-FL_America_Chicago_first.ics) [json](US-FL_America_Chicago_first.json)
+  - last days [ics](US-FL_America_Chicago_last.ics) [json](US-FL_America_Chicago_last.json)
+- United States of America Florida @ America/Indiana/Tell_City
+  - first days [ics](US-FL_America_Indiana_Tell_City_first.ics) [json](US-FL_America_Indiana_Tell_City_first.json)
+  - last days [ics](US-FL_America_Indiana_Tell_City_last.ics) [json](US-FL_America_Indiana_Tell_City_last.json)
+- United States of America Florida @ America/Indiana/Knox
+  - first days [ics](US-FL_America_Indiana_Knox_first.ics) [json](US-FL_America_Indiana_Knox_first.json)
+  - last days [ics](US-FL_America_Indiana_Knox_last.ics) [json](US-FL_America_Indiana_Knox_last.json)
+- United States of America Florida @ America/Menominee
+  - first days [ics](US-FL_America_Menominee_first.ics) [json](US-FL_America_Menominee_first.json)
+  - last days [ics](US-FL_America_Menominee_last.ics) [json](US-FL_America_Menominee_last.json)
+- United States of America Florida @ America/North_Dakota/Center
+  - first days [ics](US-FL_America_North_Dakota_Center_first.ics) [json](US-FL_America_North_Dakota_Center_first.json)
+  - last days [ics](US-FL_America_North_Dakota_Center_last.ics) [json](US-FL_America_North_Dakota_Center_last.json)
+- United States of America Florida @ America/North_Dakota/New_Salem
+  - first days [ics](US-FL_America_North_Dakota_New_Salem_first.ics) [json](US-FL_America_North_Dakota_New_Salem_first.json)
+  - last days [ics](US-FL_America_North_Dakota_New_Salem_last.ics) [json](US-FL_America_North_Dakota_New_Salem_last.json)
+- United States of America Florida @ America/North_Dakota/Beulah
+  - first days [ics](US-FL_America_North_Dakota_Beulah_first.ics) [json](US-FL_America_North_Dakota_Beulah_first.json)
+  - last days [ics](US-FL_America_North_Dakota_Beulah_last.ics) [json](US-FL_America_North_Dakota_Beulah_last.json)
+- United States of America Florida @ America/Denver
+  - first days [ics](US-FL_America_Denver_first.ics) [json](US-FL_America_Denver_first.json)
+  - last days [ics](US-FL_America_Denver_last.ics) [json](US-FL_America_Denver_last.json)
+- United States of America Florida @ America/Boise
+  - first days [ics](US-FL_America_Boise_first.ics) [json](US-FL_America_Boise_first.json)
+  - last days [ics](US-FL_America_Boise_last.ics) [json](US-FL_America_Boise_last.json)
+- United States of America Florida @ America/Phoenix
+  - first days [ics](US-FL_America_Phoenix_first.ics) [json](US-FL_America_Phoenix_first.json)
+  - last days [ics](US-FL_America_Phoenix_last.ics) [json](US-FL_America_Phoenix_last.json)
+- United States of America Florida @ America/Los_Angeles
+  - first days [ics](US-FL_America_Los_Angeles_first.ics) [json](US-FL_America_Los_Angeles_first.json)
+  - last days [ics](US-FL_America_Los_Angeles_last.ics) [json](US-FL_America_Los_Angeles_last.json)
+- United States of America Florida @ America/Metlakatla
+  - first days [ics](US-FL_America_Metlakatla_first.ics) [json](US-FL_America_Metlakatla_first.json)
+  - last days [ics](US-FL_America_Metlakatla_last.ics) [json](US-FL_America_Metlakatla_last.json)
+- United States of America Florida @ America/Anchorage
+  - first days [ics](US-FL_America_Anchorage_first.ics) [json](US-FL_America_Anchorage_first.json)
+  - last days [ics](US-FL_America_Anchorage_last.ics) [json](US-FL_America_Anchorage_last.json)
+- United States of America Florida @ America/Juneau
+  - first days [ics](US-FL_America_Juneau_first.ics) [json](US-FL_America_Juneau_first.json)
+  - last days [ics](US-FL_America_Juneau_last.ics) [json](US-FL_America_Juneau_last.json)
+- United States of America Florida @ America/Sitka
+  - first days [ics](US-FL_America_Sitka_first.ics) [json](US-FL_America_Sitka_first.json)
+  - last days [ics](US-FL_America_Sitka_last.ics) [json](US-FL_America_Sitka_last.json)
+- United States of America Florida @ America/Yakutat
+  - first days [ics](US-FL_America_Yakutat_first.ics) [json](US-FL_America_Yakutat_first.json)
+  - last days [ics](US-FL_America_Yakutat_last.ics) [json](US-FL_America_Yakutat_last.json)
+- United States of America Florida @ America/Nome
+  - first days [ics](US-FL_America_Nome_first.ics) [json](US-FL_America_Nome_first.json)
+  - last days [ics](US-FL_America_Nome_last.ics) [json](US-FL_America_Nome_last.json)
+- United States of America Florida @ America/Adak
+  - first days [ics](US-FL_America_Adak_first.ics) [json](US-FL_America_Adak_first.json)
+  - last days [ics](US-FL_America_Adak_last.ics) [json](US-FL_America_Adak_last.json)
+- United States of America Florida @ Pacific/Honolulu
+  - first days [ics](US-FL_Pacific_Honolulu_first.ics) [json](US-FL_Pacific_Honolulu_first.json)
+  - last days [ics](US-FL_Pacific_Honolulu_last.ics) [json](US-FL_Pacific_Honolulu_last.json)
+- United States of America Georgia @ America/New_York
+  - first days [ics](US-GA_America_New_York_first.ics) [json](US-GA_America_New_York_first.json)
+  - last days [ics](US-GA_America_New_York_last.ics) [json](US-GA_America_New_York_last.json)
+- United States of America Georgia @ America/Detroit
+  - first days [ics](US-GA_America_Detroit_first.ics) [json](US-GA_America_Detroit_first.json)
+  - last days [ics](US-GA_America_Detroit_last.ics) [json](US-GA_America_Detroit_last.json)
+- United States of America Georgia @ America/Kentucky/Louisville
+  - first days [ics](US-GA_America_Kentucky_Louisville_first.ics) [json](US-GA_America_Kentucky_Louisville_first.json)
+  - last days [ics](US-GA_America_Kentucky_Louisville_last.ics) [json](US-GA_America_Kentucky_Louisville_last.json)
+- United States of America Georgia @ America/Kentucky/Monticello
+  - first days [ics](US-GA_America_Kentucky_Monticello_first.ics) [json](US-GA_America_Kentucky_Monticello_first.json)
+  - last days [ics](US-GA_America_Kentucky_Monticello_last.ics) [json](US-GA_America_Kentucky_Monticello_last.json)
+- United States of America Georgia @ America/Indiana/Indianapolis
+  - first days [ics](US-GA_America_Indiana_Indianapolis_first.ics) [json](US-GA_America_Indiana_Indianapolis_first.json)
+  - last days [ics](US-GA_America_Indiana_Indianapolis_last.ics) [json](US-GA_America_Indiana_Indianapolis_last.json)
+- United States of America Georgia @ America/Indiana/Vincennes
+  - first days [ics](US-GA_America_Indiana_Vincennes_first.ics) [json](US-GA_America_Indiana_Vincennes_first.json)
+  - last days [ics](US-GA_America_Indiana_Vincennes_last.ics) [json](US-GA_America_Indiana_Vincennes_last.json)
+- United States of America Georgia @ America/Indiana/Winamac
+  - first days [ics](US-GA_America_Indiana_Winamac_first.ics) [json](US-GA_America_Indiana_Winamac_first.json)
+  - last days [ics](US-GA_America_Indiana_Winamac_last.ics) [json](US-GA_America_Indiana_Winamac_last.json)
+- United States of America Georgia @ America/Indiana/Marengo
+  - first days [ics](US-GA_America_Indiana_Marengo_first.ics) [json](US-GA_America_Indiana_Marengo_first.json)
+  - last days [ics](US-GA_America_Indiana_Marengo_last.ics) [json](US-GA_America_Indiana_Marengo_last.json)
+- United States of America Georgia @ America/Indiana/Petersburg
+  - first days [ics](US-GA_America_Indiana_Petersburg_first.ics) [json](US-GA_America_Indiana_Petersburg_first.json)
+  - last days [ics](US-GA_America_Indiana_Petersburg_last.ics) [json](US-GA_America_Indiana_Petersburg_last.json)
+- United States of America Georgia @ America/Indiana/Vevay
+  - first days [ics](US-GA_America_Indiana_Vevay_first.ics) [json](US-GA_America_Indiana_Vevay_first.json)
+  - last days [ics](US-GA_America_Indiana_Vevay_last.ics) [json](US-GA_America_Indiana_Vevay_last.json)
+- United States of America Georgia @ America/Chicago
+  - first days [ics](US-GA_America_Chicago_first.ics) [json](US-GA_America_Chicago_first.json)
+  - last days [ics](US-GA_America_Chicago_last.ics) [json](US-GA_America_Chicago_last.json)
+- United States of America Georgia @ America/Indiana/Tell_City
+  - first days [ics](US-GA_America_Indiana_Tell_City_first.ics) [json](US-GA_America_Indiana_Tell_City_first.json)
+  - last days [ics](US-GA_America_Indiana_Tell_City_last.ics) [json](US-GA_America_Indiana_Tell_City_last.json)
+- United States of America Georgia @ America/Indiana/Knox
+  - first days [ics](US-GA_America_Indiana_Knox_first.ics) [json](US-GA_America_Indiana_Knox_first.json)
+  - last days [ics](US-GA_America_Indiana_Knox_last.ics) [json](US-GA_America_Indiana_Knox_last.json)
+- United States of America Georgia @ America/Menominee
+  - first days [ics](US-GA_America_Menominee_first.ics) [json](US-GA_America_Menominee_first.json)
+  - last days [ics](US-GA_America_Menominee_last.ics) [json](US-GA_America_Menominee_last.json)
+- United States of America Georgia @ America/North_Dakota/Center
+  - first days [ics](US-GA_America_North_Dakota_Center_first.ics) [json](US-GA_America_North_Dakota_Center_first.json)
+  - last days [ics](US-GA_America_North_Dakota_Center_last.ics) [json](US-GA_America_North_Dakota_Center_last.json)
+- United States of America Georgia @ America/North_Dakota/New_Salem
+  - first days [ics](US-GA_America_North_Dakota_New_Salem_first.ics) [json](US-GA_America_North_Dakota_New_Salem_first.json)
+  - last days [ics](US-GA_America_North_Dakota_New_Salem_last.ics) [json](US-GA_America_North_Dakota_New_Salem_last.json)
+- United States of America Georgia @ America/North_Dakota/Beulah
+  - first days [ics](US-GA_America_North_Dakota_Beulah_first.ics) [json](US-GA_America_North_Dakota_Beulah_first.json)
+  - last days [ics](US-GA_America_North_Dakota_Beulah_last.ics) [json](US-GA_America_North_Dakota_Beulah_last.json)
+- United States of America Georgia @ America/Denver
+  - first days [ics](US-GA_America_Denver_first.ics) [json](US-GA_America_Denver_first.json)
+  - last days [ics](US-GA_America_Denver_last.ics) [json](US-GA_America_Denver_last.json)
+- United States of America Georgia @ America/Boise
+  - first days [ics](US-GA_America_Boise_first.ics) [json](US-GA_America_Boise_first.json)
+  - last days [ics](US-GA_America_Boise_last.ics) [json](US-GA_America_Boise_last.json)
+- United States of America Georgia @ America/Phoenix
+  - first days [ics](US-GA_America_Phoenix_first.ics) [json](US-GA_America_Phoenix_first.json)
+  - last days [ics](US-GA_America_Phoenix_last.ics) [json](US-GA_America_Phoenix_last.json)
+- United States of America Georgia @ America/Los_Angeles
+  - first days [ics](US-GA_America_Los_Angeles_first.ics) [json](US-GA_America_Los_Angeles_first.json)
+  - last days [ics](US-GA_America_Los_Angeles_last.ics) [json](US-GA_America_Los_Angeles_last.json)
+- United States of America Georgia @ America/Metlakatla
+  - first days [ics](US-GA_America_Metlakatla_first.ics) [json](US-GA_America_Metlakatla_first.json)
+  - last days [ics](US-GA_America_Metlakatla_last.ics) [json](US-GA_America_Metlakatla_last.json)
+- United States of America Georgia @ America/Anchorage
+  - first days [ics](US-GA_America_Anchorage_first.ics) [json](US-GA_America_Anchorage_first.json)
+  - last days [ics](US-GA_America_Anchorage_last.ics) [json](US-GA_America_Anchorage_last.json)
+- United States of America Georgia @ America/Juneau
+  - first days [ics](US-GA_America_Juneau_first.ics) [json](US-GA_America_Juneau_first.json)
+  - last days [ics](US-GA_America_Juneau_last.ics) [json](US-GA_America_Juneau_last.json)
+- United States of America Georgia @ America/Sitka
+  - first days [ics](US-GA_America_Sitka_first.ics) [json](US-GA_America_Sitka_first.json)
+  - last days [ics](US-GA_America_Sitka_last.ics) [json](US-GA_America_Sitka_last.json)
+- United States of America Georgia @ America/Yakutat
+  - first days [ics](US-GA_America_Yakutat_first.ics) [json](US-GA_America_Yakutat_first.json)
+  - last days [ics](US-GA_America_Yakutat_last.ics) [json](US-GA_America_Yakutat_last.json)
+- United States of America Georgia @ America/Nome
+  - first days [ics](US-GA_America_Nome_first.ics) [json](US-GA_America_Nome_first.json)
+  - last days [ics](US-GA_America_Nome_last.ics) [json](US-GA_America_Nome_last.json)
+- United States of America Georgia @ America/Adak
+  - first days [ics](US-GA_America_Adak_first.ics) [json](US-GA_America_Adak_first.json)
+  - last days [ics](US-GA_America_Adak_last.ics) [json](US-GA_America_Adak_last.json)
+- United States of America Georgia @ Pacific/Honolulu
+  - first days [ics](US-GA_Pacific_Honolulu_first.ics) [json](US-GA_Pacific_Honolulu_first.json)
+  - last days [ics](US-GA_Pacific_Honolulu_last.ics) [json](US-GA_Pacific_Honolulu_last.json)
+- United States of America Hawaii @ Pacific/Honolulu
+  - first days [ics](US-HI_Pacific_Honolulu_first.ics) [json](US-HI_Pacific_Honolulu_first.json)
+  - last days [ics](US-HI_Pacific_Honolulu_last.ics) [json](US-HI_Pacific_Honolulu_last.json)
+- United States of America Idaho @ America/Boise
+  - first days [ics](US-ID_America_Boise_first.ics) [json](US-ID_America_Boise_first.json)
+  - last days [ics](US-ID_America_Boise_last.ics) [json](US-ID_America_Boise_last.json)
+- United States of America Idaho @ America/Los_Angeles
+  - first days [ics](US-ID_America_Los_Angeles_first.ics) [json](US-ID_America_Los_Angeles_first.json)
+  - last days [ics](US-ID_America_Los_Angeles_last.ics) [json](US-ID_America_Los_Angeles_last.json)
+- United States of America Illinois @ America/Chicago
+  - first days [ics](US-IL_America_Chicago_first.ics) [json](US-IL_America_Chicago_first.json)
+  - last days [ics](US-IL_America_Chicago_last.ics) [json](US-IL_America_Chicago_last.json)
+- United States of America Indiana @ America/Indiana/Indianapolis
+  - first days [ics](US-IN_America_Indiana_Indianapolis_first.ics) [json](US-IN_America_Indiana_Indianapolis_first.json)
+  - last days [ics](US-IN_America_Indiana_Indianapolis_last.ics) [json](US-IN_America_Indiana_Indianapolis_last.json)
+- United States of America Indiana @ America/Indiana/Vincennes
+  - first days [ics](US-IN_America_Indiana_Vincennes_first.ics) [json](US-IN_America_Indiana_Vincennes_first.json)
+  - last days [ics](US-IN_America_Indiana_Vincennes_last.ics) [json](US-IN_America_Indiana_Vincennes_last.json)
+- United States of America Indiana @ America/Indiana/Winamac
+  - first days [ics](US-IN_America_Indiana_Winamac_first.ics) [json](US-IN_America_Indiana_Winamac_first.json)
+  - last days [ics](US-IN_America_Indiana_Winamac_last.ics) [json](US-IN_America_Indiana_Winamac_last.json)
+- United States of America Indiana @ America/Indiana/Marengo
+  - first days [ics](US-IN_America_Indiana_Marengo_first.ics) [json](US-IN_America_Indiana_Marengo_first.json)
+  - last days [ics](US-IN_America_Indiana_Marengo_last.ics) [json](US-IN_America_Indiana_Marengo_last.json)
+- United States of America Indiana @ America/Indiana/Petersburg
+  - first days [ics](US-IN_America_Indiana_Petersburg_first.ics) [json](US-IN_America_Indiana_Petersburg_first.json)
+  - last days [ics](US-IN_America_Indiana_Petersburg_last.ics) [json](US-IN_America_Indiana_Petersburg_last.json)
+- United States of America Indiana @ America/Indiana/Vevay
+  - first days [ics](US-IN_America_Indiana_Vevay_first.ics) [json](US-IN_America_Indiana_Vevay_first.json)
+  - last days [ics](US-IN_America_Indiana_Vevay_last.ics) [json](US-IN_America_Indiana_Vevay_last.json)
+- United States of America Indiana @ America/Indiana/Tell_City
+  - first days [ics](US-IN_America_Indiana_Tell_City_first.ics) [json](US-IN_America_Indiana_Tell_City_first.json)
+  - last days [ics](US-IN_America_Indiana_Tell_City_last.ics) [json](US-IN_America_Indiana_Tell_City_last.json)
+- United States of America Indiana @ America/Indiana/Knox
+  - first days [ics](US-IN_America_Indiana_Knox_first.ics) [json](US-IN_America_Indiana_Knox_first.json)
+  - last days [ics](US-IN_America_Indiana_Knox_last.ics) [json](US-IN_America_Indiana_Knox_last.json)
+- United States of America Iowa @ America/Chicago
+  - first days [ics](US-IA_America_Chicago_first.ics) [json](US-IA_America_Chicago_first.json)
+  - last days [ics](US-IA_America_Chicago_last.ics) [json](US-IA_America_Chicago_last.json)
+- United States of America Kansas @ America/Chicago
+  - first days [ics](US-KS_America_Chicago_first.ics) [json](US-KS_America_Chicago_first.json)
+  - last days [ics](US-KS_America_Chicago_last.ics) [json](US-KS_America_Chicago_last.json)
+- United States of America Kansas @ America/Denver
+  - first days [ics](US-KS_America_Denver_first.ics) [json](US-KS_America_Denver_first.json)
+  - last days [ics](US-KS_America_Denver_last.ics) [json](US-KS_America_Denver_last.json)
+- United States of America Kentucky @ America/Kentucky/Louisville
+  - first days [ics](US-KY_America_Kentucky_Louisville_first.ics) [json](US-KY_America_Kentucky_Louisville_first.json)
+  - last days [ics](US-KY_America_Kentucky_Louisville_last.ics) [json](US-KY_America_Kentucky_Louisville_last.json)
+- United States of America Kentucky @ America/Kentucky/Monticello
+  - first days [ics](US-KY_America_Kentucky_Monticello_first.ics) [json](US-KY_America_Kentucky_Monticello_first.json)
+  - last days [ics](US-KY_America_Kentucky_Monticello_last.ics) [json](US-KY_America_Kentucky_Monticello_last.json)
+- United States of America Louisiana @ America/Chicago
+  - first days [ics](US-LA_America_Chicago_first.ics) [json](US-LA_America_Chicago_first.json)
+  - last days [ics](US-LA_America_Chicago_last.ics) [json](US-LA_America_Chicago_last.json)
+- United States of America Louisiana New Orleans @ America/Chicago
+  - first days [ics](US-LA-NO_America_Chicago_first.ics) [json](US-LA-NO_America_Chicago_first.json)
+  - last days [ics](US-LA-NO_America_Chicago_last.ics) [json](US-LA-NO_America_Chicago_last.json)
+- United States of America Maine @ America/New_York
+  - first days [ics](US-ME_America_New_York_first.ics) [json](US-ME_America_New_York_first.json)
+  - last days [ics](US-ME_America_New_York_last.ics) [json](US-ME_America_New_York_last.json)
+- United States of America Maryland @ America/New_York
+  - first days [ics](US-MD_America_New_York_first.ics) [json](US-MD_America_New_York_first.json)
+  - last days [ics](US-MD_America_New_York_last.ics) [json](US-MD_America_New_York_last.json)
+- United States of America Massachusetts @ America/New_York
+  - first days [ics](US-MA_America_New_York_first.ics) [json](US-MA_America_New_York_first.json)
+  - last days [ics](US-MA_America_New_York_last.ics) [json](US-MA_America_New_York_last.json)
+- United States of America Michigan @ America/Detroit
+  - first days [ics](US-MI_America_Detroit_first.ics) [json](US-MI_America_Detroit_first.json)
+  - last days [ics](US-MI_America_Detroit_last.ics) [json](US-MI_America_Detroit_last.json)
+- United States of America Michigan @ America/Menominee
+  - first days [ics](US-MI_America_Menominee_first.ics) [json](US-MI_America_Menominee_first.json)
+  - last days [ics](US-MI_America_Menominee_last.ics) [json](US-MI_America_Menominee_last.json)
+- United States of America Minnesota @ America/Chicago
+  - first days [ics](US-MN_America_Chicago_first.ics) [json](US-MN_America_Chicago_first.json)
+  - last days [ics](US-MN_America_Chicago_last.ics) [json](US-MN_America_Chicago_last.json)
+- United States of America Mississippi @ America/Chicago
+  - first days [ics](US-MS_America_Chicago_first.ics) [json](US-MS_America_Chicago_first.json)
+  - last days [ics](US-MS_America_Chicago_last.ics) [json](US-MS_America_Chicago_last.json)
+- United States of America Missouri @ America/Chicago
+  - first days [ics](US-MO_America_Chicago_first.ics) [json](US-MO_America_Chicago_first.json)
+  - last days [ics](US-MO_America_Chicago_last.ics) [json](US-MO_America_Chicago_last.json)
+- United States of America Montana @ America/Denver
+  - first days [ics](US-MT_America_Denver_first.ics) [json](US-MT_America_Denver_first.json)
+  - last days [ics](US-MT_America_Denver_last.ics) [json](US-MT_America_Denver_last.json)
+- United States of America Nebraska @ America/Chicago
+  - first days [ics](US-NE_America_Chicago_first.ics) [json](US-NE_America_Chicago_first.json)
+  - last days [ics](US-NE_America_Chicago_last.ics) [json](US-NE_America_Chicago_last.json)
+- United States of America Nebraska @ America/Denver
+  - first days [ics](US-NE_America_Denver_first.ics) [json](US-NE_America_Denver_first.json)
+  - last days [ics](US-NE_America_Denver_last.ics) [json](US-NE_America_Denver_last.json)
+- United States of America Nevada @ America/Los_Angeles
+  - first days [ics](US-NV_America_Los_Angeles_first.ics) [json](US-NV_America_Los_Angeles_first.json)
+  - last days [ics](US-NV_America_Los_Angeles_last.ics) [json](US-NV_America_Los_Angeles_last.json)
+- United States of America New Hampshire @ America/New_York
+  - first days [ics](US-NH_America_New_York_first.ics) [json](US-NH_America_New_York_first.json)
+  - last days [ics](US-NH_America_New_York_last.ics) [json](US-NH_America_New_York_last.json)
+- United States of America New Jersey @ America/New_York
+  - first days [ics](US-NJ_America_New_York_first.ics) [json](US-NJ_America_New_York_first.json)
+  - last days [ics](US-NJ_America_New_York_last.ics) [json](US-NJ_America_New_York_last.json)
+- United States of America New Mexico @ America/Denver
+  - first days [ics](US-NM_America_Denver_first.ics) [json](US-NM_America_Denver_first.json)
+  - last days [ics](US-NM_America_Denver_last.ics) [json](US-NM_America_Denver_last.json)
+- United States of America New York @ America/New_York
+  - first days [ics](US-NY_America_New_York_first.ics) [json](US-NY_America_New_York_first.json)
+  - last days [ics](US-NY_America_New_York_last.ics) [json](US-NY_America_New_York_last.json)
+- United States of America North Carolina @ America/New_York
+  - first days [ics](US-NC_America_New_York_first.ics) [json](US-NC_America_New_York_first.json)
+  - last days [ics](US-NC_America_New_York_last.ics) [json](US-NC_America_New_York_last.json)
+- United States of America North Dakota @ America/North_Dakota/Center
+  - first days [ics](US-ND_America_North_Dakota_Center_first.ics) [json](US-ND_America_North_Dakota_Center_first.json)
+  - last days [ics](US-ND_America_North_Dakota_Center_last.ics) [json](US-ND_America_North_Dakota_Center_last.json)
+- United States of America North Dakota @ America/North_Dakota/New_Salem
+  - first days [ics](US-ND_America_North_Dakota_New_Salem_first.ics) [json](US-ND_America_North_Dakota_New_Salem_first.json)
+  - last days [ics](US-ND_America_North_Dakota_New_Salem_last.ics) [json](US-ND_America_North_Dakota_New_Salem_last.json)
+- United States of America North Dakota @ America/North_Dakota/Beulah
+  - first days [ics](US-ND_America_North_Dakota_Beulah_first.ics) [json](US-ND_America_North_Dakota_Beulah_first.json)
+  - last days [ics](US-ND_America_North_Dakota_Beulah_last.ics) [json](US-ND_America_North_Dakota_Beulah_last.json)
+- United States of America Ohio @ America/New_York
+  - first days [ics](US-OH_America_New_York_first.ics) [json](US-OH_America_New_York_first.json)
+  - last days [ics](US-OH_America_New_York_last.ics) [json](US-OH_America_New_York_last.json)
+- United States of America Oklahoma @ America/Chicago
+  - first days [ics](US-OK_America_Chicago_first.ics) [json](US-OK_America_Chicago_first.json)
+  - last days [ics](US-OK_America_Chicago_last.ics) [json](US-OK_America_Chicago_last.json)
+- United States of America Oregon @ America/Los_Angeles
+  - first days [ics](US-OR_America_Los_Angeles_first.ics) [json](US-OR_America_Los_Angeles_first.json)
+  - last days [ics](US-OR_America_Los_Angeles_last.ics) [json](US-OR_America_Los_Angeles_last.json)
+- United States of America Pennsylvania @ America/New_York
+  - first days [ics](US-PA_America_New_York_first.ics) [json](US-PA_America_New_York_first.json)
+  - last days [ics](US-PA_America_New_York_last.ics) [json](US-PA_America_New_York_last.json)
+- United States of America Rhode Island @ America/New_York
+  - first days [ics](US-RI_America_New_York_first.ics) [json](US-RI_America_New_York_first.json)
+  - last days [ics](US-RI_America_New_York_last.ics) [json](US-RI_America_New_York_last.json)
+- United States of America South Carolina @ America/New_York
+  - first days [ics](US-SC_America_New_York_first.ics) [json](US-SC_America_New_York_first.json)
+  - last days [ics](US-SC_America_New_York_last.ics) [json](US-SC_America_New_York_last.json)
+- United States of America South Dakota @ America/Chicago
+  - first days [ics](US-SD_America_Chicago_first.ics) [json](US-SD_America_Chicago_first.json)
+  - last days [ics](US-SD_America_Chicago_last.ics) [json](US-SD_America_Chicago_last.json)
+- United States of America South Dakota @ America/Denver
+  - first days [ics](US-SD_America_Denver_first.ics) [json](US-SD_America_Denver_first.json)
+  - last days [ics](US-SD_America_Denver_last.ics) [json](US-SD_America_Denver_last.json)
+- United States of America Tennessee @ America/Chicago
+  - first days [ics](US-TN_America_Chicago_first.ics) [json](US-TN_America_Chicago_first.json)
+  - last days [ics](US-TN_America_Chicago_last.ics) [json](US-TN_America_Chicago_last.json)
+- United States of America Tennessee @ America/New_York
+  - first days [ics](US-TN_America_New_York_first.ics) [json](US-TN_America_New_York_first.json)
+  - last days [ics](US-TN_America_New_York_last.ics) [json](US-TN_America_New_York_last.json)
+- United States of America Texas @ America/Chicago
+  - first days [ics](US-TX_America_Chicago_first.ics) [json](US-TX_America_Chicago_first.json)
+  - last days [ics](US-TX_America_Chicago_last.ics) [json](US-TX_America_Chicago_last.json)
+- United States of America Texas @ America/Denver
+  - first days [ics](US-TX_America_Denver_first.ics) [json](US-TX_America_Denver_first.json)
+  - last days [ics](US-TX_America_Denver_last.ics) [json](US-TX_America_Denver_last.json)
+- United States of America Utah @ America/Denver
+  - first days [ics](US-UT_America_Denver_first.ics) [json](US-UT_America_Denver_first.json)
+  - last days [ics](US-UT_America_Denver_last.ics) [json](US-UT_America_Denver_last.json)
+- United States of America Vermont @ America/New_York
+  - first days [ics](US-VT_America_New_York_first.ics) [json](US-VT_America_New_York_first.json)
+  - last days [ics](US-VT_America_New_York_last.ics) [json](US-VT_America_New_York_last.json)
+- United States of America Virginia @ America/New_York
+  - first days [ics](US-VA_America_New_York_first.ics) [json](US-VA_America_New_York_first.json)
+  - last days [ics](US-VA_America_New_York_last.ics) [json](US-VA_America_New_York_last.json)
+- United States of America Washington @ America/Los_Angeles
+  - first days [ics](US-WA_America_Los_Angeles_first.ics) [json](US-WA_America_Los_Angeles_first.json)
+  - last days [ics](US-WA_America_Los_Angeles_last.ics) [json](US-WA_America_Los_Angeles_last.json)
+- United States of America West Virginia @ America/New_York
+  - first days [ics](US-WV_America_New_York_first.ics) [json](US-WV_America_New_York_first.json)
+  - last days [ics](US-WV_America_New_York_last.ics) [json](US-WV_America_New_York_last.json)
+- United States of America Wisconsin @ America/Chicago
+  - first days [ics](US-WI_America_Chicago_first.ics) [json](US-WI_America_Chicago_first.json)
+  - last days [ics](US-WI_America_Chicago_last.ics) [json](US-WI_America_Chicago_last.json)
+- United States of America Wyoming @ America/Denver
+  - first days [ics](US-WY_America_Denver_first.ics) [json](US-WY_America_Denver_first.json)
+  - last days [ics](US-WY_America_Denver_last.ics) [json](US-WY_America_Denver_last.json)
+- Uruguay @ America/Montevideo
+  - first days [ics](UY_America_Montevideo_first.ics) [json](UY_America_Montevideo_first.json)
+  - last days [ics](UY_America_Montevideo_last.ics) [json](UY_America_Montevideo_last.json)
+- Stato della Città del Vaticano @ Europe/Rome
+  - first days [ics](VA_Europe_Rome_first.ics) [json](VA_Europe_Rome_first.json)
+  - last days [ics](VA_Europe_Rome_last.ics) [json](VA_Europe_Rome_last.json)
+- St. Vincent & Grenadines @ America/Port_of_Spain
+  - first days [ics](VC_America_Port_of_Spain_first.ics) [json](VC_America_Port_of_Spain_first.json)
+  - last days [ics](VC_America_Port_of_Spain_last.ics) [json](VC_America_Port_of_Spain_last.json)
+- Venezuela @ America/Caracas
+  - first days [ics](VE_America_Caracas_first.ics) [json](VE_America_Caracas_first.json)
+  - last days [ics](VE_America_Caracas_last.ics) [json](VE_America_Caracas_last.json)
+- Venezuela Anzoátegui @ America/Caracas
+  - first days [ics](VE-B_America_Caracas_first.ics) [json](VE-B_America_Caracas_first.json)
+  - last days [ics](VE-B_America_Caracas_last.ics) [json](VE-B_America_Caracas_last.json)
+- Venezuela Carabobo @ America/Caracas
+  - first days [ics](VE-G_America_Caracas_first.ics) [json](VE-G_America_Caracas_first.json)
+  - last days [ics](VE-G_America_Caracas_last.ics) [json](VE-G_America_Caracas_last.json)
+- Venezuela Lara @ America/Caracas
+  - first days [ics](VE-K_America_Caracas_first.ics) [json](VE-K_America_Caracas_first.json)
+  - last days [ics](VE-K_America_Caracas_last.ics) [json](VE-K_America_Caracas_last.json)
+- Venezuela Lara Barquisimeto @ America/Caracas
+  - first days [ics](VE-K-BA_America_Caracas_first.ics) [json](VE-K-BA_America_Caracas_first.json)
+  - last days [ics](VE-K-BA_America_Caracas_last.ics) [json](VE-K-BA_America_Caracas_last.json)
+- Venezuela Miranda @ America/Caracas
+  - first days [ics](VE-M_America_Caracas_first.ics) [json](VE-M_America_Caracas_first.json)
+  - last days [ics](VE-M_America_Caracas_last.ics) [json](VE-M_America_Caracas_last.json)
+- Venezuela Monagas @ America/Caracas
+  - first days [ics](VE-N_America_Caracas_first.ics) [json](VE-N_America_Caracas_first.json)
+  - last days [ics](VE-N_America_Caracas_last.ics) [json](VE-N_America_Caracas_last.json)
+- Venezuela Táchira @ America/Caracas
+  - first days [ics](VE-S_America_Caracas_first.ics) [json](VE-S_America_Caracas_first.json)
+  - last days [ics](VE-S_America_Caracas_last.ics) [json](VE-S_America_Caracas_last.json)
+- Venezuela Zulia @ America/Caracas
+  - first days [ics](VE-V_America_Caracas_first.ics) [json](VE-V_America_Caracas_first.json)
+  - last days [ics](VE-V_America_Caracas_last.ics) [json](VE-V_America_Caracas_last.json)
+- British Virgin Islands @ America/Port_of_Spain
+  - first days [ics](VG_America_Port_of_Spain_first.ics) [json](VG_America_Port_of_Spain_first.json)
+  - last days [ics](VG_America_Port_of_Spain_last.ics) [json](VG_America_Port_of_Spain_last.json)
+- U.S. Virgin Islands @ America/Port_of_Spain
+  - first days [ics](VI_America_Port_of_Spain_first.ics) [json](VI_America_Port_of_Spain_first.json)
+  - last days [ics](VI_America_Port_of_Spain_last.ics) [json](VI_America_Port_of_Spain_last.json)
+- Cộng hòa Xã hội chủ nghĩa Việt Nam @ Asia/Ho_Chi_Minh
+  - first days [ics](VN_Asia_Ho_Chi_Minh_first.ics) [json](VN_Asia_Ho_Chi_Minh_first.json)
+  - last days [ics](VN_Asia_Ho_Chi_Minh_last.ics) [json](VN_Asia_Ho_Chi_Minh_last.json)
+- Cộng hòa Xã hội chủ nghĩa Việt Nam @ Asia/Bangkok
+  - first days [ics](VN_Asia_Bangkok_first.ics) [json](VN_Asia_Bangkok_first.json)
+  - last days [ics](VN_Asia_Bangkok_last.ics) [json](VN_Asia_Bangkok_last.json)
+- République de Vanuatu @ Pacific/Efate
+  - first days [ics](VU_Pacific_Efate_first.ics) [json](VU_Pacific_Efate_first.json)
+  - last days [ics](VU_Pacific_Efate_last.ics) [json](VU_Pacific_Efate_last.json)
+- Republika e Kosovës @ Europe/Belgrade
+  - first days [ics](XK_Europe_Belgrade_first.ics) [json](XK_Europe_Belgrade_first.json)
+  - last days [ics](XK_Europe_Belgrade_last.ics) [json](XK_Europe_Belgrade_last.json)
+- Mayotte @ Africa/Nairobi
+  - first days [ics](YT_Africa_Nairobi_first.ics) [json](YT_Africa_Nairobi_first.json)
+  - last days [ics](YT_Africa_Nairobi_last.ics) [json](YT_Africa_Nairobi_last.json)
+- South Africa @ Africa/Johannesburg
+  - first days [ics](ZA_Africa_Johannesburg_first.ics) [json](ZA_Africa_Johannesburg_first.json)
+  - last days [ics](ZA_Africa_Johannesburg_last.ics) [json](ZA_Africa_Johannesburg_last.json)
+- Zambia @ Africa/Maputo
+  - first days [ics](ZM_Africa_Maputo_first.ics) [json](ZM_Africa_Maputo_first.json)
+  - last days [ics](ZM_Africa_Maputo_last.ics) [json](ZM_Africa_Maputo_last.json)
+- Zimbabwe @ Africa/Maputo
+  - first days [ics](ZW_Africa_Maputo_first.ics) [json](ZW_Africa_Maputo_first.json)
+  - last days [ics](ZW_Africa_Maputo_last.ics) [json](ZW_Africa_Maputo_last.json)

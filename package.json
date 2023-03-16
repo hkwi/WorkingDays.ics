@@ -1,0 +1,7 @@
+{
+  "name": "WorkingDays.ics",
+  "packageManager": "yarn",
+  "dependencies": {
+    "date-holidays-ical": ">=2"
+  }
+}
