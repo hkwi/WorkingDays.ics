@@ -111,10 +111,10 @@ for(const x of walker()){
     ])
 
     const first_content = first_days.filter(d=>{
-        return ![0,11].includes(d.month())
+        return ![0,11].includes(d.month()) && ![0,6].includes(d.day())
     });
     fs.writeFileSync(`${outdir}/${file_prefix}_first.json`,
-        JSON.stringify(first_content.map(d=> d.format("YYYYMMDD")))
+        JSON.stringify(first_content.map(d=> d.format("YYYY-MM-DD")))
     );
     fs.writeFileSync(`${outdir}/${file_prefix}_first.ics`,
         ical.vcalendar(first_content.map(d=>{
@@ -128,10 +128,10 @@ for(const x of walker()){
     );
 
     const last_content = last_days.filter(d=>{
-        return ![0,11].includes(d.month())
+        return ![0,11].includes(d.month()) && ![0,6].includes(d.day())
     });
     fs.writeFileSync(`${outdir}/${file_prefix}_last.json`,
-        JSON.stringify(last_content.map(d=>d.toString("YYYYMMDD")))
+        JSON.stringify(last_content.map(d=>d.toString("YYYY-MM-DD")))
     );
     fs.writeFileSync(`${outdir}/${file_prefix}_last.ics`,
         ical.vcalendar(last_content.map(d=>{
