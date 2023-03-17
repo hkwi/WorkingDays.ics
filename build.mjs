@@ -19,7 +19,7 @@ function gen(area, names, tz){
     });
     cur.set("year", cur.year()-1);
     for(const i of Array(36)){
-        for(const d in Array(31)){
+        for(const d of Array(31)){
             const hits = hd.isHoliday(cur);
             if((hits && hits.filter(e=>e.type=="public")) || [0,6].includes(cur.day())){
                 cur = cur.add(1, "day");
@@ -31,7 +31,7 @@ function gen(area, names, tz){
         cur = cur.set("date", 1).add(1, "month");
 
         cur = cur.subtract(1, "day");
-        for(const d in Array(31)){
+        for(const d of Array(31)){
             const hits = hd.isHoliday(cur);
             if((hits && hits.filter(e=>e.type=="public")) || [0,6].includes(cur.day())){
                 cur = cur.subtract(1, "day");
@@ -84,64 +84,68 @@ function* area_walker(area, names){
     }
 }
 
-const outdir="docs";
-let md = [
-    "# First working day and last working day calendar",
-    "Thanks to date-holidays library, ics are is auto-generated.",
-    "The first day of the year and the last of the year are removed, ",
-    "because special additional local rules may appear.",
-    "",
-    "## ics and json",
-];
-for(const x of walker()){
-    const {
-        area,
-        tz,
-        names,
-        first_days,
-        last_days
-    } = x;
+function main(){
+    const outdir="docs";
+    let md = [
+        "# First working day and last working day calendar",
+        "Thanks to date-holidays library, ics are is auto-generated.",
+        "The first day of the year and the last of the year are removed, ",
+        "because special additional local rules may appear.",
+        "",
+        "## ics and json",
+    ];
+    for(const x of walker()){
+        const {
+            area,
+            tz,
+            names,
+            first_days,
+            last_days
+        } = x;
 
-    const file_prefix = `${ area.join("-") }_${ tz.replaceAll("/","_") }`;
+        const file_prefix = `${ area.join("-") }_${ tz.replaceAll("/","_") }`;
 
-    md = md.concat([
-        `- ${ names.join(" ") } @ ${ tz }`,
-        `  - first days [ics](${ file_prefix }_first.ics) [json](${ file_prefix }_first.json)`,
-        `  - last days [ics](${ file_prefix }_last.ics) [json](${ file_prefix }_last.json)`,
-    ])
+        md = md.concat([
+            `- ${ names.join(" ") } @ ${ tz }`,
+            `  - first days [ics](${ file_prefix }_first.ics) [json](${ file_prefix }_first.json)`,
+            `  - last days [ics](${ file_prefix }_last.ics) [json](${ file_prefix }_last.json)`,
+        ])
 
-    const first_content = first_days.filter(d=>{
-        return ![0,11].includes(d.month()) && ![0,6].includes(d.day())
-    });
-    fs.writeFileSync(`${outdir}/${file_prefix}_first.json`,
-        JSON.stringify(first_content.map(d=> d.format("YYYY-MM-DD")))
-    );
-    fs.writeFileSync(`${outdir}/${file_prefix}_first.ics`,
-        ical.vcalendar(first_content.map(d=>{
-            return {
-                name: names.concat(["first working day"]).join(", "),
-                date: d,
-                start: d,
-                end: moment(d).add(1, "day")
-            }
-        }), {fullday: true})
-    );
+        const first_content = first_days.filter(d=>{
+            return ![0,11].includes(d.month())
+        });
+        fs.writeFileSync(`${outdir}/${file_prefix}_first.json`,
+            JSON.stringify(first_content.map(d=> d.format("YYYY-MM-DD")))
+        );
+        fs.writeFileSync(`${outdir}/${file_prefix}_first.ics`,
+            ical.vcalendar(first_content.map(d=>{
+                return {
+                    name: names.concat(["first working day"]).join(", "),
+                    date: d.toString(),
+                    start: d,
+                    end: moment(d).add(1, "day")
+                }
+            }), {fullday: true})
+        );
 
-    const last_content = last_days.filter(d=>{
-        return ![0,11].includes(d.month()) && ![0,6].includes(d.day())
-    });
-    fs.writeFileSync(`${outdir}/${file_prefix}_last.json`,
-        JSON.stringify(last_content.map(d=>d.toString("YYYY-MM-DD")))
-    );
-    fs.writeFileSync(`${outdir}/${file_prefix}_last.ics`,
-        ical.vcalendar(last_content.map(d=>{
-            return {
-                name: names.concat(["last working day"]).join(", "),
-                date: d.toString("YYYYMMDD"),
-                start: d,
-                end: moment(d).add(1, "day")
-            }
-        }), {fullday: true})
-    );
+        const last_content = last_days.filter(d=>{
+            return ![0,11].includes(d.month())
+        });
+        fs.writeFileSync(`${outdir}/${file_prefix}_last.json`,
+            JSON.stringify(last_content.map(d=>d.toString("YYYY-MM-DD")))
+        );
+        fs.writeFileSync(`${outdir}/${file_prefix}_last.ics`,
+            ical.vcalendar(last_content.map(d=>{
+                return {
+                    name: names.concat(["last working day"]).join(", "),
+                    date: d.toString(),
+                    start: d,
+                    end: moment(d).add(1, "day")
+                }
+            }), {fullday: true})
+        );
+    }
+    fs.writeFileSync(`${outdir}/index.md`, md.join("\n"));
 }
-fs.writeFileSync(`${outdir}/index.md`, md.join("\n"));
+//console.log(gen(["JP"], ["日本"], "Asia/Tokyo"));
+main();
