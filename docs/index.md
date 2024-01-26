@@ -241,6 +241,33 @@ because special additional local rules may appear.
 - Bolivia @ America/La_Paz
   - first days [ics](BO_America_La_Paz_first.ics) [json](BO_America_La_Paz_first.json)
   - last days [ics](BO_America_La_Paz_last.ics) [json](BO_America_La_Paz_last.json)
+- Bolivia Beni @ America/La_Paz
+  - first days [ics](BO-B_America_La_Paz_first.ics) [json](BO-B_America_La_Paz_first.json)
+  - last days [ics](BO-B_America_La_Paz_last.ics) [json](BO-B_America_La_Paz_last.json)
+- Bolivia Cochabamba @ America/La_Paz
+  - first days [ics](BO-C_America_La_Paz_first.ics) [json](BO-C_America_La_Paz_first.json)
+  - last days [ics](BO-C_America_La_Paz_last.ics) [json](BO-C_America_La_Paz_last.json)
+- Bolivia Chuquisaca @ America/La_Paz
+  - first days [ics](BO-H_America_La_Paz_first.ics) [json](BO-H_America_La_Paz_first.json)
+  - last days [ics](BO-H_America_La_Paz_last.ics) [json](BO-H_America_La_Paz_last.json)
+- Bolivia La Paz @ America/La_Paz
+  - first days [ics](BO-L_America_La_Paz_first.ics) [json](BO-L_America_La_Paz_first.json)
+  - last days [ics](BO-L_America_La_Paz_last.ics) [json](BO-L_America_La_Paz_last.json)
+- Bolivia Pando @ America/La_Paz
+  - first days [ics](BO-N_America_La_Paz_first.ics) [json](BO-N_America_La_Paz_first.json)
+  - last days [ics](BO-N_America_La_Paz_last.ics) [json](BO-N_America_La_Paz_last.json)
+- Bolivia Oruro @ America/La_Paz
+  - first days [ics](BO-O_America_La_Paz_first.ics) [json](BO-O_America_La_Paz_first.json)
+  - last days [ics](BO-O_America_La_Paz_last.ics) [json](BO-O_America_La_Paz_last.json)
+- Bolivia Potosí @ America/La_Paz
+  - first days [ics](BO-P_America_La_Paz_first.ics) [json](BO-P_America_La_Paz_first.json)
+  - last days [ics](BO-P_America_La_Paz_last.ics) [json](BO-P_America_La_Paz_last.json)
+- Bolivia Santa Cruz @ America/La_Paz
+  - first days [ics](BO-S_America_La_Paz_first.ics) [json](BO-S_America_La_Paz_first.json)
+  - last days [ics](BO-S_America_La_Paz_last.ics) [json](BO-S_America_La_Paz_last.json)
+- Bolivia Tarija @ America/La_Paz
+  - first days [ics](BO-T_America_La_Paz_first.ics) [json](BO-T_America_La_Paz_first.json)
+  - last days [ics](BO-T_America_La_Paz_last.ics) [json](BO-T_America_La_Paz_last.json)
 - Caribisch Nederland @ America/Curacao
   - first days [ics](BQ_America_Curacao_first.ics) [json](BQ_America_Curacao_first.json)
   - last days [ics](BQ_America_Curacao_last.ics) [json](BQ_America_Curacao_last.json)
